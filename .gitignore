@@ -1,3 +1,4 @@
 .env
-.dpy2
+.dpy2*
 *.pyc
+*.DS_Store

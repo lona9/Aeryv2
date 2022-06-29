@@ -1,0 +1,21 @@
+**Sion Build ** *(Normal)*
+**Rota:** Rota Topo
+**Porcentagem de vitorias:** 48.9%
+**Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
+
+>   <:valor11:804449943376232509>:cd::cd:
+>   <:valor21:804449943984537690>:cd::cd:
+>   <:valor31:804449943666425907>:cd::cd:
+>   <:valor41:804449944298586143>:cd::cd:
+
+>   :cd::cd::cd:
+>   :cd::cd:<:insp33:804450564049731594>
+>   :cd:<:insp42:804450563965452369>:cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas Galvanizadas de Aço
+**Itens Iniciais:** Sentinela Invisível, Poção Corrupta
+**Itens Core:** Brasa de Bami > Égide de Fogo Solar > Quebracascos > Hidra Titânica
+**Itens End:** Armadura de Espinhos, Coração Congelado, Placa Gargolítica

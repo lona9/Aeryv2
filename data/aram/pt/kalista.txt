@@ -1,0 +1,20 @@
+**Kalista** *(ARAM)*
+**Porcentagem de vitorias:** 48.2%
+**Summoner Spells:** <:Cleanse:804555480730304514> <:Flash:804555481443336202>
+**Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
+
+> :cd:<:precision12:804446921522675733>:cd::cd:
+>   :cd:<:precision22:804446921414541333>:cd:
+>   <:precision31:804446921660956702>:cd::cd:
+>   <:precision41:804446922151690300>:cd::cd:
+
+>   :cd:<:dom22:804457129394176020>:cd:
+>   :cd::cd::cd:
+> <:dom41:963152951478747156>:cd::cd::cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Lâmina da Fúria de Guinsoo
+**Itens Iniciais:** Poção com Refil, Grevas do Berserker
+**Itens Core:** Grevas do Berserker > Aljava Vespertina > Arco-escudo Imortal > Furacão de Runaan
+**Itens End:** Lembranças do Lorde Dominik, Sedenta por Sangue, Espada do Rei Destruído
