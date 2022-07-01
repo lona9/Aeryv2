@@ -29,7 +29,7 @@ class MyBot(commands.Bot):
 
         super().__init__(
         command_prefix = 'aery ',
-        intents = discord.Intents.all(),
+        intents = discord.Intents.default(),
         application_id = 989739264747139103
         )
 
@@ -42,25 +42,34 @@ class MyBot(commands.Bot):
         await bot.tree.sync()
 
     def update_db(self):
-        db.multiexec("INSERT OR IGNORE INTO guildinfo (GuildID) VALUES (?)",
+        db.multiexec("INSERT OR IGNORE INTO languages (GuildID) VALUES (?)",
     					 ((guild.id,) for guild in self.guilds))
 
         for guild in self.guilds:
-            db.execute("UPDATE guildinfo SET GuildName = ?, GuildSize = ? WHERE GuildID = ?",
+            db.execute("UPDATE languages SET GuildName = ?, GuildSize = ? WHERE GuildID = ?",
             guild.name, guild.member_count, guild.id)
 
         db.commit()
 
-        to_remove = []
-        stored_guilds = db.column("SELECT GuildID FROM guildinfo")
-        for id_ in stored_guilds:
-          if not self.guilds:
-            to_remove.append(id_)
+    async def on_error(self, err, *args, **kwargs):
+        if err == "on_command_error":
+          pass
 
-        db.multiexec("DELETE FROM guildinfo WHERE GuildID = ?",
-    					 ((id_,) for id_ in to_remove))
+        self.log_channel = self.get_channel(991742125471432776)
 
-        db.commit()
+        await self.log_channel.send("Ocurrió un error.")
+
+        raise
+
+    async def on_command_error(self, ctx, exc):
+        if isinstance(exc, CommandNotFound):
+          pass
+
+        elif hasattr(exc, "original"):
+          raise exc
+
+        else:
+          raise exc
 
     async def on_ready(self):
         if not self.ready:
@@ -77,4 +86,5 @@ class MyBot(commands.Bot):
             await self.change_presence(status=discord.Status.online, activity=game)
         else:
             print("aery reconnected")
+
 bot = MyBot()

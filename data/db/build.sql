@@ -10,10 +10,3 @@ CREATE TABLE IF NOT EXISTS logs (
   Command VARCHAR,
   Arguments VARCHAR DEFAULT "None"
 );
-
-CREATE TABLE IF NOT EXISTS guildinfo (
-  GuildID VARCHAR PRIMARY KEY,
-  GuildLang VARCHAR DEFAULT "SP",
-  GuildName VARCHAR,
-  GuildSize VARCHAR
-);
