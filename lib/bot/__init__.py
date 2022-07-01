@@ -5,7 +5,7 @@ from asyncio import sleep
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 from apscheduler.triggers.cron import CronTrigger
 
-COGS = ["builds"]
+COGS = ["builds", "guilds"]
 
 class Ready(object):
   def __init__(self):
@@ -25,8 +25,10 @@ class MyBot(commands.Bot):
         self.scheduler = AsyncIOScheduler()
         db.autosave(self.scheduler)
 
+        self.ready = False
+
         super().__init__(
-        command_prefix = 'aeryy ',
+        command_prefix = 'aery ',
         intents = discord.Intents.all(),
         application_id = 989739264747139103
         )
@@ -43,6 +45,10 @@ class MyBot(commands.Bot):
         db.multiexec("INSERT OR IGNORE INTO languages (GuildID) VALUES (?)",
     					 ((guild.id,) for guild in self.guilds))
 
+        for guild in self.guilds:
+            db.execute("UPDATE languages SET GuildName = ?, GuildSize = ? WHERE GuildID = ?",
+            guild.name, guild.member_count, guild.id)
+
         to_remove = []
         stored_guilds = db.column("SELECT GuildID FROM languages")
         for id_ in stored_guilds:
@@ -55,13 +61,18 @@ class MyBot(commands.Bot):
         db.commit()
 
     async def on_ready(self):
-        log_channel = self.get_channel(991742125471432776)
-        await log_channel.send('Estoy lista, estoy lista, estoy lista!')
+        if not self.ready:
 
-        self.scheduler.start()
-        self.update_db()
+            log_channel = self.get_channel(991742125471432776)
+            await log_channel.send('Estoy lista, estoy lista, estoy lista!')
 
-        game = discord.Game("/help")
-        await self.change_presence(status=discord.Status.online, activity=game)
+            self.scheduler.start()
+            self.update_db()
 
+            self.ready = True
+
+            game = discord.Game("/help or aery help")
+            await self.change_presence(status=discord.Status.online, activity=game)
+        else:
+            print("aery reconnected")
 bot = MyBot()
