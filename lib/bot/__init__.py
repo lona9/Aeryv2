@@ -42,20 +42,22 @@ class MyBot(commands.Bot):
         await bot.tree.sync()
 
     def update_db(self):
-        db.multiexec("INSERT OR IGNORE INTO languages (GuildID) VALUES (?)",
+        db.multiexec("INSERT OR IGNORE INTO guildinfo (GuildID) VALUES (?)",
     					 ((guild.id,) for guild in self.guilds))
 
         for guild in self.guilds:
-            db.execute("UPDATE languages SET GuildName = ?, GuildSize = ? WHERE GuildID = ?",
+            db.execute("UPDATE guildinfo SET GuildName = ?, GuildSize = ? WHERE GuildID = ?",
             guild.name, guild.member_count, guild.id)
 
+        db.commit()
+
         to_remove = []
-        stored_guilds = db.column("SELECT GuildID FROM languages")
+        stored_guilds = db.column("SELECT GuildID FROM guildinfo")
         for id_ in stored_guilds:
           if not self.guilds:
             to_remove.append(id_)
 
-        db.multiexec("DELETE FROM languages WHERE GuildID = ?",
+        db.multiexec("DELETE FROM guildinfo WHERE GuildID = ?",
     					 ((id_,) for id_ in to_remove))
 
         db.commit()

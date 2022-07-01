@@ -40,19 +40,19 @@ class guilds(commands.Cog):
             db.commit()
 
             if language == 'Español':
-                db.execute("UPDATE languages SET GuildLang = ? WHERE GuildID = ?", "SP", ctx.guild.id)
+                db.execute("UPDATE guildinfo SET GuildLang = ? WHERE GuildID = ?", "SP", ctx.guild.id)
                 db.commit()
 
                 await ctx.send(f"Aery ahora está en {language}.")
 
             elif language == 'Portugues':
-                db.execute("UPDATE languages SET GuildLang = ? WHERE GuildID = ?", "PT", ctx.guild.id)
+                db.execute("UPDATE guildinfo SET GuildLang = ? WHERE GuildID = ?", "PT", ctx.guild.id)
                 db.commit()
 
                 await ctx.send(f"Aery esta agora em {language}.")
 
             elif language == 'English':
-                db.execute("UPDATE languages SET GuildLang = ? WHERE GuildID = ?", "EN", ctx.guild.id)
+                db.execute("UPDATE guildinfo SET GuildLang = ? WHERE GuildID = ?", "EN", ctx.guild.id)
                 db.commit()
 
                 await ctx.send(f"Aery is now in {language}.")
@@ -72,7 +72,7 @@ class guilds(commands.Cog):
 
         await self.logs.send(eventmsg)
 
-        db.execute("INSERT OR IGNORE INTO languages (GuildID, GuildName, GuildSize) VALUES (?, ?, ?)",
+        db.execute("INSERT OR IGNORE INTO guildinfo (GuildID, GuildName, GuildSize) VALUES (?, ?, ?)",
         guild.id, guild.name, guild.member_count)
         db.commit()
 
@@ -93,7 +93,7 @@ class guilds(commands.Cog):
 
         await self.logs.send(eventmsg)
 
-        db.execute("DELETE FROM languages WHERE GuildID = ?", guild.id)
+        db.execute("DELETE FROM guildinfo WHERE GuildID = ?", guild.id)
         db.commit()
 
         tz = pendulum.timezone('America/La_Paz')
