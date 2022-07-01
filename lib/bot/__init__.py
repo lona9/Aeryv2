@@ -1,11 +1,12 @@
 import discord
 from discord.ext import commands
+from discord import app_commands
 from ..db import db
 from asyncio import sleep
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 from apscheduler.triggers.cron import CronTrigger
 
-COGS = ["builds", "guilds"]
+COGS = ["builds", "guilds", "info"]
 
 class Ready(object):
   def __init__(self):
@@ -28,8 +29,8 @@ class MyBot(commands.Bot):
         self.ready = False
 
         super().__init__(
-        command_prefix = 'aery ',
-        intents = discord.Intents.default(),
+        command_prefix = 'aeryy ',
+        intents = discord.Intents.all(),
         application_id = 989739264747139103
         )
 
@@ -53,16 +54,18 @@ class MyBot(commands.Bot):
 
     async def on_error(self, err, *args, **kwargs):
         if err == "on_command_error":
-          pass
+            pass
 
-        self.log_channel = self.get_channel(991742125471432776)
+        else:
 
-        await self.log_channel.send("Ocurrió un error.")
+            self.log_channel = self.get_channel(991742125471432776)
 
-        raise
+            await self.log_channel.send("Ocurrió un error.")
+
+            raise
 
     async def on_command_error(self, ctx, exc):
-        if isinstance(exc, CommandNotFound):
+        if isinstance(exc, discord.ext.commands.errors.CommandNotFound):
           pass
 
         elif hasattr(exc, "original"):
@@ -82,7 +85,7 @@ class MyBot(commands.Bot):
 
             self.ready = True
 
-            game = discord.Game("/help or aery help")
+            game = discord.Game("aery help or /help")
             await self.change_presence(status=discord.Status.online, activity=game)
         else:
             print("aery reconnected")
