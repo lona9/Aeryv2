@@ -239,6 +239,7 @@ class builds(commands.Cog):
 
                         db.execute("INSERT INTO logs (EventDate, GuildID, GuildName, Command, Arguments) VALUES (?, ?, ?, ?, ?)",
                         event_date, guild_id, guild_name, 'aram', champ)
+                        db.commit()
 
                         self.logs = self.bot.get_channel(991742125471432776)
                         await self.logs.send(f"aery aram {champ}, guild: {guild_name}")
@@ -546,6 +547,7 @@ class builds(commands.Cog):
 
                         db.execute("INSERT INTO logs (EventDate, GuildID, GuildName, Command, Arguments) VALUES (?, ?, ?, ?, ?)",
                         event_date, guild_id, guild_name, 'normal', champ)
+                        db.commit()
 
                         self.logs = self.bot.get_channel(991742125471432776)
                         await self.logs.send(f"aery normal {champ}, guild: {guild_name}")
