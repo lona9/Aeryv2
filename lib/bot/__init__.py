@@ -54,7 +54,7 @@ class MyBot(commands.Bot):
 
     async def on_error(self, err, *args, **kwargs):
         if err == "on_command_error":
-            pass
+            raise
 
         else:
 

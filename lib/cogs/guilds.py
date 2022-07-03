@@ -20,7 +20,10 @@ class guilds(commands.Cog):
         guilds = len(self.bot.guilds)
 
         await ctx.send(f"aery es parte de **{len(self.bot.guilds)}** servers.")
-        
+
+        self.logs = self.bot.get_channel(991742125471432776)
+        await self.logs.send(f"aery help, guild: {guild_name}")
+
 
     @app_commands.command(name="language",
     description = "Elige el idioma de Aery / Escolha o idioma do Aery / Choose Aery's language.")
@@ -33,8 +36,9 @@ class guilds(commands.Cog):
 
         ctx = await Context.from_interaction(interaction)
 
-        try:
+        self.logs = self.bot.get_channel(991742125471432776)
 
+        try:
             guild_id = ctx.guild.id
             tz = pendulum.timezone('America/La_Paz')
             event_date = datetime.now(tz)
@@ -45,6 +49,8 @@ class guilds(commands.Cog):
             db.execute("UPDATE languages SET GuildLang = ? WHERE GuildID = ?", language, ctx.guild.id)
 
             db.commit()
+
+            await self.logs.send(f"aery language {language}, guild: {ctx.guild.name}")
 
             if language == 'SP':
                 await ctx.send(f"Aery ahora está en español.")
@@ -57,11 +63,9 @@ class guilds(commands.Cog):
 
                 await ctx.send(f"Aery is now in english.")
 
-            else:
-                await ctx.send(f"Debes escoger una opción válida / Você deve escolher uma opção válida / You must choose a valid option.")
-
         except:
             await ctx.send("Este comando solo puede ocuparse dentro de un servidor / Este comando só pode ser usado em um servidor / This command can only be used in a server.")
+            await self.logs.send("aery language DM")
 
 
     @Cog.listener()

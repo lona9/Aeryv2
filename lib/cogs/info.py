@@ -88,6 +88,9 @@ class info(commands.Cog):
             db.execute("INSERT INTO logs (EventDate, GuildID, GuildName, Command) VALUES (?, ?, ?, ?)",
             event_date, guild_id, guild_name, 'help')
 
+            self.logs = self.bot.get_channel(991742125471432776)
+            await self.logs.send(f"aery help, guild: {guild_name}")
+
 
     @commands.hybrid_command(name = "commands",
     description = "List of commands.")
@@ -163,6 +166,9 @@ class info(commands.Cog):
             db.execute("INSERT INTO logs (EventDate, GuildID, GuildName, Command) VALUES (?, ?, ?, ?)",
             event_date, guild_id, guild_name, 'commands')
 
+            self.logs = self.bot.get_channel(991742125471432776)
+            await self.logs.send(f"aery commands, guild: {guild_name}")
+
     @commands.hybrid_command(name = "invite",
     description = "List of commands.")
     async def invite(self, ctx: commands.Context) -> None:
@@ -198,6 +204,9 @@ class info(commands.Cog):
 
             db.execute("INSERT INTO logs (EventDate, GuildID, GuildName, Command) VALUES (?, ?, ?, ?)",
             event_date, guild_id, guild_name, 'invite')
+
+            self.logs = self.bot.get_channel(991742125471432776)
+            await self.logs.send(f"aery help, guild: {guild_name}")
 
 async def setup(bot: commands.Bot) -> None:
     await bot.add_cog(info(bot))
