@@ -24,10 +24,10 @@ class builds(commands.Cog):
                 guild_id = ctx.guild.id
             except:
                 guild_id = 'DM'
-
-            db.execute("INSERT INTO logs (EventDate, GuildID, GuildName, Command, Arguments) VALUES (?, ?, ?, ?, ?)",
-            event_date, guild_id, ctx.guild.name, 'aram', champ)
-            db.commit()
+            finally:
+                db.execute("INSERT INTO logs (EventDate, GuildID, GuildName, Command, Arguments) VALUES (?, ?, ?, ?, ?)",
+                event_date, guild_id, ctx.guild.name, 'aram', champ)
+                db.commit()
 
         else:
             await ctx.send("Revisa lo que escribiste!")
