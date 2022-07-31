@@ -1,6 +1,6 @@
 **Gnar ** *(Normal)*
-**PosiciÃ³n:** Top
-**Porcentaje de victorias:** 50.2%
+**Posición:** Top
+**Porcentaje de victorias:** 48.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Espada de Doran, PociÃ³n de vida
-**Objetos principales:** BacteriÃ³fago > Rompecascos > Fuerza de la trinidad > Danza de la muerte
-**Objetos finales:** Presagio de Randuin, Cota de espinas, Fuerza de la naturaleza
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
+**Objetos principales:** Hacha hogareña > Fuerza de la trinidad > Cuchilla oscura > Danza de la muerte
+**Objetos finales:** Presagio de Randuin, Fuerza de la naturaleza, Cota de espinas

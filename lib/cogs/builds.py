@@ -198,22 +198,21 @@ class builds(commands.Cog):
 
             def filename(x):
                 if language == "EN":
-                    arampath = '/Users/pilarvasquez/Documents/Repos/Aeryv2/data/aram/sp/'
+                    arampath = '/root/aery/data/aram/sp/'
                     extension = '.txt'
                     file = arampath + x + extension
-                    return file
 
                 elif language == "PT":
-                    arampath = '/Users/pilarvasquez/Documents/Repos/Aeryv2/data/aram/pt/'
+                    arampath = '/root/aery/data/aram/pt/'
                     extension = '.txt'
                     file = arampath + x + extension
-                    return file
 
                 else:
-                    arampath = '/Users/pilarvasquez/Documents/Repos/Aeryv2/data/aram/sp/'
+                    arampath = '/root/aery/data/aram/sp/'
                     extension = '.txt'
                     file = arampath + x + extension
-                    return file
+
+                return file
 
             counter = 0
 
@@ -507,22 +506,21 @@ class builds(commands.Cog):
 
             def filename(x):
                 if language == "EN":
-                    arampath = '/Users/pilarvasquez/Documents/Repos/Aeryv2/data/normal/sp/'
+                    path = '/root/aery/data/normal/en/'
                     extension = '.txt'
-                    file = arampath + x + extension
-                    return file
+                    file = path + x + extension
 
                 elif language == "PT":
-                    arampath = '/Users/pilarvasquez/Documents/Repos/Aeryv2/data/normal/pt/'
+                    path = '/root/aery/data/normal/pt/'
                     extension = '.txt'
-                    file = arampath + x + extension
-                    return file
+                    file = path + x + extension
 
                 else:
-                    arampath = '/Users/pilarvasquez/Documents/Repos/Aeryv2/data/normal/sp/'
+                    path = '/root/aery/data/normal/sp/'
                     extension = '.txt'
-                    file = arampath + x + extension
-                    return file
+                    file = path + x + extension
+
+                return file
 
             counter = 0
 

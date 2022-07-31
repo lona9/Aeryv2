@@ -1,6 +1,6 @@
 **Malzahar Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 51.1%
+**Porcentagem de vitorias:** 49.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Sentinela InvisÃ­vel, Anel de Doran, PoÃ§Ã£o de Vida
-**Itens Core:** CapÃ­tulo Perdido > AngÃºstia de Liandry > Cetro de Cristal de Rylai > AbraÃ§o DemonÃ­aco
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Morellonomicon
+**Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
+**Itens Core:** Capítulo Perdido > Angústia de Liandry > Cetro de Cristal de Rylai > Abraço Demoníaco
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon

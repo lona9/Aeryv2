@@ -1,0 +1,20 @@
+**Kindred  Build - Items / Runes / Matchups - League of Legends" name="twitter:title"/>** *(ARAM)*
+**Winrate:** 48.6%
+**Summoner Spells:** <:Cleanse:804555480730304514> <:Flash:804555481443336202>
+**Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
+
+> :cd:<:precision12:804446921522675733>:cd::cd:
+>   :cd:<:precision22:804446921414541333>:cd:
+>   <:precision31:804446921660956702>:cd::cd:
+>   <:precision41:804446922151690300>:cd::cd:
+
+>   :cd::cd:<:dom23:804457130307485707>
+>   :cd::cd::cd:
+> <:dom41:963152951478747156>:cd::cd::cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Boots:** Berserker's Greaves
+**Start Build:** Noonquiver
+**Core Build:** Noonquiver > Kraken Slayer > The Collector > Rapid Firecannon
+**End Build:** Bloodthirster, Infinity Edge, Lord Dominik's Regards

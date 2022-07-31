@@ -1,5 +1,5 @@
 **Seraphine** *(ARAM)*
-**Porcentagem de vitorias:** 54.5%
+**Porcentagem de vitorias:** 53.7%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** CapÃ­tulo Perdido
-**Itens Core:** Espelho de BandÃ³polis > Regenerador de Pedra Lunar > Putrificador Quimtec > Cajado do Arcanjo
-**Itens End:** Cetro de Cristal de Rylai, Capuz da Morte de Rabadon, AbraÃ§o DemonÃ­aco
+**Itens Iniciais:** Capítulo Perdido
+**Itens Core:** Capítulo Perdido > Angústia de Liandry > Cetro de Cristal de Rylai > Abraço Demoníaco
+**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Putrificador Quimtec

@@ -1,6 +1,6 @@
 **Ekko Build ** *(Normal)*
 **Rota:** Selva, Rota do Meio
-**Porcentagem de vitorias:** 50.2%
+**Porcentagem de vitorias:** 50.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Ampulheta de Zhonya
-**Itens Iniciais:** Sentinela InvisÃ­vel, LÃ¢mina Ãlgida, PoÃ§Ã£o com Refil
-**Itens Core:** PoÃ§Ã£o com Refil > Alternador Hextec > ExplocinturÃ£o Hextec > PerdiÃ§Ã£o de Lich
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Chama Sombria
+**Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
+**Itens Core:** Poção com Refil > Alternador Hextec > Explocinturão Hextec > Perdição de Lich
+**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Chama Sombria

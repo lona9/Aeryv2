@@ -1,6 +1,6 @@
 **Maokai Top** *(Normal)*
-**PosiciÃ³n:** Support, Top
-**Porcentaje de victorias:** 51.1%
+**Posición:** Support, Top
+**Porcentaje de victorias:** 50.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Escudo de Doran, PociÃ³n de vida
-**Objetos principales:** Ceniza de Bami > Ã‰gida de fuego solar > Umbral del invierno > Cota de espinas
-**Objetos finales:** Apariencia espiritual, Presagio de Randuin, CorazÃ³n de hielo
+**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
+**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Umbral del invierno > Cota de espinas
+**Objetos finales:** Abrazo demoníaco, Presagio de Randuin, Corazón de hielo

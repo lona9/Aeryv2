@@ -1,6 +1,6 @@
 **Pantheon ** *(Normal)*
-**PosiciÃ³n:** Support, Top, Mid
-**Porcentaje de victorias:** 48.4%
+**Posición:** Jungler
+**Porcentaje de victorias:** 48.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -9,13 +9,13 @@
 >   :cd:<:precision32:804446921737371648>:cd:
 >   <:precision41:804446922151690300>:cd::cd:
 
->   <:dom21:804457127800078397>:cd::cd:
+>   :cd::cd:<:dom23:804457130307485707>
 >   :cd::cd::cd:
 > :cd::cd:<:dom43:804457129183936582>:cd:
->   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, PociÃ³n de corrupciÃ³n
-**Objetos principales:** PuÃ±al serrado > Eclipse > Cuchilla oscura > Danza de la muerte
-**Objetos finales:** Ãngel GuardiÃ¡n, Rencor de Serylda, Fauces de Malmortius
+**Botas:** Danza de la muerte
+**Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
+**Objetos principales:** Poción reutilizable > Puñal serrado > Eclipse > Cuchilla oscura
+**Objetos finales:** Ángel Guardián, Rencor de Serylda, Fauces de Malmortius

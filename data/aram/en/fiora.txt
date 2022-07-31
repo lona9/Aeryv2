@@ -1,0 +1,20 @@
+**Fiora  Build - Items / Runes / Matchups - League of Legends" name="twitter:title"/>** *(ARAM)*
+**Winrate:** 51.6%
+**Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
+**Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
+
+> :cd::cd::cd:<:precision14:804446921631596585>
+>   :cd:<:precision22:804446921414541333>:cd:
+>   <:precision31:804446921660956702>:cd::cd:
+>   <:precision41:804446922151690300>:cd::cd:
+
+>   :cd:<:dom22:804457129394176020>:cd:
+>   :cd::cd::cd:
+> <:dom41:963152951478747156>:cd::cd::cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Boots:** Mercury's Treads
+**Start Build:** Ironspike Whip, Health Potion
+**Core Build:** Ironspike Whip > Goredrinker > Death's Dance > Ravenous Hydra
+**End Build:** Spirit Visage, Blade of The Ruined King, Maw of Malmortius

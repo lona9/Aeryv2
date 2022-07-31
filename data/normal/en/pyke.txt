@@ -1,0 +1,21 @@
+**Pyke Build ** *(Normal)*
+**Position:** Suporte
+**Winrate:** 49.7%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runes:** <:dom:804451124085522442> <:valor:804451124245561394>
+
+> :cd::cd::cd:<:dom14:804447179938070569>
+>   <:dom21:804457127800078397>:cd::cd:
+>   <:dom31:804457128914976788>:cd::cd:
+> :cd::cd::cd:<:dom44:804457129732866048>
+
+>   :cd::cd::cd:
+>   :cd::cd:<:valor33:804449943603118131>
+>   :cd::cd:<:valor43:804449944001708043>
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Boots:** Botas da Mobilidade
+**Start Build:** Sentinela Invisível, Guarda-ombros de Aço, Poção de Vida
+**Core Build:** Punhal Serrilhado > Glaive Sombria > Crepúsculo de Draktharr > Limiar da Noite
+**End Build:** Anjo Guardião, Lâmina Fantasma de Youmuu, Mandíbula de Malmortius

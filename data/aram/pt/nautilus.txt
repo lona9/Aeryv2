@@ -14,7 +14,7 @@
 >   <:5007:804451180164022312> <:5002:804451180104908870> <:5001:804451180112642088>
 
 **Build**
-**Botas:** Passos de MercÃºrio
-**Itens Iniciais:** Botas, Brasa de Bami
-**Itens Core:** Berrante do GuardiÃ£o > Ã‰gide de Fogo Solar > AproximaÃ§Ã£o Invernal > Armadura de Espinhos
-**Itens End:** Armadura de Warmog, Placa GargolÃ­tica, ForÃ§a da Natureza
+**Botas:** Passos de Mercúrio
+**Itens Iniciais:** Berrante do Guardião, Lágrima da Deusa
+**Itens Core:** Berrante do Guardião > Égide de Fogo Solar > Aproximação Invernal > Armadura de Espinhos
+**Itens End:** Força da Natureza, Armadura de Warmog, Placa Gargolítica

@@ -1,6 +1,6 @@
 **Sion ** *(Normal)*
-**Posici贸n:** Top
-**Porcentaje de victorias:** 48.9%
+**Posici髇:** Top
+**Porcentaje de victorias:** 49.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Poci贸n de corrupci贸n
-**Objetos principales:** Ceniza de Bami > 脡gida de fuego solar > Rompecascos > Hidra tit谩nica
-**Objetos finales:** Cota de espinas, Coraz贸n de hielo, Armadura p茅trea
+**Objetos iniciales:** Centinela invisible, Poci髇 de corrupci髇
+**Objetos principales:** Pu馻l serrado > Garra de merodeador > Filo fantasmal de Youmuu > Recuerdos de lord Dominik
+**Objetos finales:** Filo del infinito, Cota de espinas, Armadura p閠rea

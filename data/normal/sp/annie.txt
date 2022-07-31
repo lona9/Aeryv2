@@ -1,6 +1,6 @@
 **Annie ** *(Normal)*
-**Posición:** Mid
-**Porcentaje de victorias:** 49.8%
+**Posici�n:** Mid
+**Porcentaje de victorias:** 50.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
-**Objetos principales:** Capítulo perdido > Tempestad de Luden > Llamasombría > Reloj de arena de Zhonya
-**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón
+**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poci�n de vida
+**Objetos principales:** Cap�tulo perdido > Tempestad de Luden > Llamasombr�a > Reloj de arena de Zhonya
+**Objetos finales:** Sombrero mort�fero de Rabadon, B�culo del vac�o, Robaalmas de Mejai

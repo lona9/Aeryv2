@@ -1,6 +1,6 @@
 **Renekton ** *(Normal)*
-**PosiciÃ³n:** Top
-**Porcentaje de victorias:** 48.7%
+**Posición:** Top
+**Porcentaje de victorias:** 50.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Espada de Doran, PociÃ³n de vida
-**Objetos principales:** LÃ¡tigo fÃ©rreo > Bebedor de sangre > Danza de la muerte > Guantelete de Sterak
-**Objetos finales:** Ãngel GuardiÃ¡n, Cuchilla oscura, Cota de espinas
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
+**Objetos principales:** Cetro vampírico > Hoja del rey arruinado > Égida de fuego solar > Danza de la muerte
+**Objetos finales:** Ángel Guardián, Cuchilla oscura, Cota de espinas

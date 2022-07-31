@@ -1,0 +1,21 @@
+**Yasuo Build ** *(Normal)*
+**Position:** Rota do Meio
+**Winrate:** 48.4%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
+
+> :cd:<:precision12:804446921522675733>:cd::cd:
+>   :cd:<:precision22:804446921414541333>:cd:
+>   <:precision31:804446921660956702>:cd::cd:
+>   :cd::cd:<:precision43:804446921941975080>
+
+>   :cd::cd::cd:
+>   :cd::cd:<:valor33:804449943603118131>
+>   :cd::cd:<:valor43:804449944001708043>
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
+
+**Build**
+**Boots:** Grevas do Berserker
+**Start Build:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
+**Core Build:** Aljava Vespertina > Arco-escudo Imortal > Gume do Infinito > Dança da Morte
+**End Build:** Anjo Guardião, Lembrete Mortal, Limite da Razão

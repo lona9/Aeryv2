@@ -1,6 +1,6 @@
 **Swain Build Atirador** *(Normal)*
 **Rota:** Suporte, Rota do Meio
-**Porcentagem de vitorias:** 53.2%
+**Porcentagem de vitorias:** 52.0%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Sentinela InvisÃ­vel, Anel de Doran, PoÃ§Ã£o de Vida
-**Itens Core:** CapÃ­tulo Perdido > AngÃºstia de Liandry > Ampulheta de Zhonya > Cetro de Cristal de Rylai
-**Itens End:** AbraÃ§o DemonÃ­aco, Morellonomicon, Semblante Espiritual
+**Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
+**Itens Core:** Capítulo Perdido > Angústia de Liandry > Ampulheta de Zhonya > Cetro de Cristal de Rylai
+**Itens End:** Semblante Espiritual, Abraço Demoníaco, Coração Congelado

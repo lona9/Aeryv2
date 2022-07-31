@@ -1,13 +1,13 @@
 **Gragas Support** *(Normal)*
-**PosiciÃ³n:** Top, Jungler
-**Porcentaje de victorias:** 46.8%
+**Posición:** Top
+**Porcentaje de victorias:** 46.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
-**Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
+**Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
->   :cd:<:valor12:804449943775084614>:cd:
->   :cd:<:valor22:804449944018223104>:cd:
->   :cd::cd:<:valor33:804449943603118131>
->   :cd::cd:<:valor43:804449944001708043>
+>   :cd:<:bruj12:804448797001252864>:cd:
+>   :cd:<:bruj22:804448796553117707>:cd:
+>   <:bruj31:804448797395910716>:cd::cd:
+>   <:bruj41:804448797597499402>:cd::cd:
 
 >   :cd::cd::cd:
 >   :cd::cd:<:insp33:804450564049731594>
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** 
-**Objetos principales:** CapÃ­tulo perdido > Escarcha eterna > Reloj de arena de Zhonya > Impulso cÃ³smico
-**Objetos finales:** Centinela invisible, Escudo reliquia, PociÃ³n de vida
+**Objetos principales:** Capítulo perdido > Escarcha eterna > Reloj de arena de Zhonya > Morellonomicón
+**Objetos finales:** Centinela invisible, Escudo reliquia, Poción de vida

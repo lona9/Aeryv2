@@ -1,5 +1,5 @@
 **Bardo ** *(ARAM)*
-**Porcentaje de victorias:** 45.7%
+**Porcentaje de victorias:** 46.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Botas, Alternador hextech
-**Objetos principales:** Alternador hextech > Cosechador nocturno > CaÃ±Ã³n de fuego rÃ¡pido > MaldiciÃ³n del liche
-**Objetos finales:** Sombrero mortÃ­fero de Rabadon, BÃ¡culo del vacÃ­o, Diente de Nashor
+**Objetos principales:** Alternador hextech > Cosechador nocturno > Cañón de fuego rápido > Maldición del liche
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón

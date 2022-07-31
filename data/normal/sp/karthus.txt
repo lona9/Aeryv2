@@ -1,6 +1,6 @@
 **Karthus ** *(Normal)*
-**PosiciÃ³n:** Jungler
-**Porcentaje de victorias:** 48.1%
+**Posición:** Jungler, AD Carry
+**Porcentaje de victorias:** 49.7%
 **Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Hoja granizo, PociÃ³n reutilizable
-**Objetos principales:** CapÃ­tulo perdido > Angustia de Liandry > LlamasombrÃ­a > Reloj de arena de Zhonya
-**Objetos finales:** BÃ¡culo del vacÃ­o, Sombrero mortÃ­fero de Rabadon, MorellonomicÃ³n
+**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
+**Objetos principales:** Capítulo perdido > Angustia de Liandry > Llamasombría > Reloj de arena de Zhonya
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón

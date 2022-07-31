@@ -1,6 +1,6 @@
 **Jhin Build ** *(Normal)*
 **Rota:** Atirador
-**Porcentagem de vitorias:** 51.8%
+**Porcentagem de vitorias:** 51.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas da Rapidez
-**Itens Iniciais:** Sentinela InvisÃ­vel, LÃ¢mina de Doran, PoÃ§Ã£o de Vida
-**Itens Core:** Aljava Vespertina > ForÃ§a do Vendaval > A Coletora > CanhÃ£o Fumegante
-**Itens End:** Anjo GuardiÃ£o, LembranÃ§as do Lorde Dominik, Gume do Infinito
+**Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
+**Itens Core:** Aljava Vespertina > Força do Vendaval > A Coletora > Canhão Fumegante
+**Itens End:** Anjo Guardião, Lembranças do Lorde Dominik, Gume do Infinito

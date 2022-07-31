@@ -1,5 +1,5 @@
 **Zyra** *(ARAM)*
-**Porcentagem de vitorias:** 51.4%
+**Porcentagem de vitorias:** 51.8%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** CapÃ­tulo Perdido
-**Itens Core:** CapÃ­tulo Perdido > AngÃºstia de Liandry > AbraÃ§o DemonÃ­aco > Cetro de Cristal de Rylai
+**Itens Iniciais:** Capítulo Perdido
+**Itens Core:** Capítulo Perdido > Angústia de Liandry > Abraço Demoníaco > Cetro de Cristal de Rylai
 **Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon

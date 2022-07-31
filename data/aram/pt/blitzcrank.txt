@@ -1,5 +1,5 @@
 **Blitzcrank** *(ARAM)*
-**Porcentagem de vitorias:** 49.8%
+**Porcentagem de vitorias:** 50.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -14,7 +14,7 @@
 >   <:5007:804451180164022312> <:5002:804451180104908870> <:5001:804451180112642088>
 
 **Build**
-**Botas:** Passos de MercÃºrio
-**Itens Iniciais:** CapÃ­tulo Perdido
-**Itens Core:** CapÃ­tulo Perdido > Glacieterno > AproximaÃ§Ã£o Invernal > Armadura de Warmog
-**Itens End:** Armadura de Espinhos, CoraÃ§Ã£o Congelado, ForÃ§a da Natureza
+**Botas:** Passos de Mercúrio
+**Itens Iniciais:** Capítulo Perdido
+**Itens Core:** Berrante do Guardião > Proteção Imutável > Aproximação Invernal > Armadura de Warmog
+**Itens End:** Armadura de Espinhos, Coração Congelado, Força da Natureza

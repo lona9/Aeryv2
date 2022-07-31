@@ -1,21 +1,21 @@
 **Taliyah ** *(Normal)*
-**PosiciÃ³n:** Mid, Jungler
-**Porcentaje de victorias:** 48.5%
+**Posición:** Mid, Jungler
+**Porcentaje de victorias:** 50.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
-**Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
+**Runas:** <:insp:804451124207681577> <:bruj:804451124236648478>
 
-> :cd::cd:<:dom13:804447179828625438>:cd:
->   <:dom21:804457127800078397>:cd::cd:
->   :cd::cd:<:dom33:804457129578332160>
-> <:dom41:963152951478747156>:cd::cd::cd:
+>   :cd::cd:<:insp13:914919550464720936>
+>   :cd:<:insp22:804450563793747989>:cd:
+>   :cd::cd:<:insp33:804450564049731594>
+>   <:insp41:804450563507879947>:cd::cd:
 
+>   :cd:<:bruj22:804448796553117707>:cd:
+>   <:bruj31:804448797395910716>:cd::cd:
 >   :cd::cd::cd:
->   :cd::cd:<:bruj33:804448797509419098>
->   :cd:<:bruj42:804448797572595813>:cd:
->   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Anillo de Doran, PociÃ³n de vida
-**Objetos principales:** CapÃ­tulo perdido > Escarcha eterna > LlamasombrÃ­a > Reloj de arena de Zhonya
-**Objetos finales:** BÃ¡culo del vacÃ­o, Sombrero mortÃ­fero de Rabadon, MorellonomicÃ³n
+**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
+**Objetos principales:** Capítulo perdido > Tempestad de Luden > Llamasombría > Reloj de arena de Zhonya
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón

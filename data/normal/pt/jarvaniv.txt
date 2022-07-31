@@ -1,6 +1,6 @@
 **Jarvan IV Build ** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 47.6%
+**Porcentagem de vitorias:** 49.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas Galvanizadas de AÃ§o
-**Itens Iniciais:** Sentinela InvisÃ­vel, LÃ¢mina CÃ¡lida, PoÃ§Ã£o com Refil
-**Itens Core:** Chicote Ferrifarpo > HemodrenÃ¡rio > DanÃ§a da Morte > Armadura de Espinhos
-**Itens End:** Anjo GuardiÃ£o, PressÃ¡gio de Randuin, MandÃ­bula de Malmortius
+**Botas:** Botas Galvanizadas de Aço
+**Itens Iniciais:** Sentinela Invisível, Lâmina Cálida, Poção com Refil
+**Itens Core:** Chicote Ferrifarpo > Hemodrenário > Dança da Morte > Anjo Guardião
+**Itens End:** Armadura de Espinhos, Mandíbula de Malmortius, Presságio de Randuin

@@ -1,0 +1,21 @@
+**Irelia Build Rota Topo** *(Normal)*
+**Position:** Rota Topo, Rota do Meio
+**Winrate:** 49.4%
+**Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
+
+> :cd::cd::cd:<:precision14:804446921631596585>
+>   :cd:<:precision22:804446921414541333>:cd:
+>   <:precision31:804446921660956702>:cd::cd:
+>   :cd::cd:<:precision43:804446921941975080>
+
+>   :cd::cd::cd:
+>   :cd::cd:<:valor33:804449943603118131>
+>   :cd::cd:<:valor43:804449944001708043>
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Boots:** Dança da Morte
+**Start Build:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
+**Core Build:** Poção de Vida > Cetro Vampírico > Espada do Rei Destruído > Arco-escudo Imortal
+**End Build:** Anjo Guardião, Limite da Razão, Serrespada Quimiopunk

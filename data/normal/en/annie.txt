@@ -1,0 +1,21 @@
+**Annie Build ** *(Normal)*
+**Position:** Rota do Meio
+**Winrate:** 50.2%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runes:** <:dom:804451124085522442> <:bruj:804451124236648478>
+
+> <:dom11:804447179758239744>:cd::cd::cd:
+>   <:dom21:804457127800078397>:cd::cd:
+>   :cd::cd:<:dom33:804457129578332160>
+> :cd::cd:<:dom43:804457129183936582>:cd:
+
+>   :cd:<:bruj22:804448796553117707>:cd:
+>   :cd::cd:<:bruj33:804448797509419098>
+>   :cd::cd::cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5003:804451180100452403>
+
+**Build**
+**Boots:** Sapatos do Feiticeiro
+**Start Build:** Sentinela Invisível, Anel de Doran, Poção de Vida
+**Core Build:** Capítulo Perdido > Tormenta de Luden > Chama Sombria > Ampulheta de Zhonya
+**End Build:** Capuz da Morte de Rabadon, Cajado do Vazio, Ladrão de Almas de Mejai

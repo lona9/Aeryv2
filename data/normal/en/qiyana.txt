@@ -1,0 +1,21 @@
+**Qiyana Build ** *(Normal)*
+**Position:** Rota do Meio, Selva
+**Winrate:** 50.9%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runes:** <:insp:804451124207681577> <:dom:804451124085522442>
+
+>   :cd::cd:<:insp13:914919550464720936>
+>   :cd:<:insp22:804450563793747989>:cd:
+>   :cd::cd:<:insp33:804450564049731594>
+>   <:insp41:804450563507879947>:cd::cd:
+
+>   :cd::cd:<:dom23:804457130307485707>
+>   :cd::cd::cd:
+> <:dom41:963152951478747156>:cd::cd::cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Boots:** Botas Ionianas da Lucidez
+**Start Build:** Sentinela Invisível, Espada Longa, Poção com Refil
+**Core Build:** Punhal Serrilhado > Eclipse > Manamune > Rancor de Serylda
+**End Build:** Anjo Guardião, Dança da Morte, Cutelo Negro

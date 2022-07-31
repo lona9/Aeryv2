@@ -1,6 +1,6 @@
 **Nami ** *(Normal)*
-**PosiciÃ³n:** Support
-**Porcentaje de victorias:** 51.0%
+**Posición:** Support
+**Porcentaje de victorias:** 50.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos
-**Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Putrificador tecnoquÃ­mico > BÃ¡culo de agua fluyente
-**Objetos finales:** PociÃ³n de vida, Pebetero ardiente, RedenciÃ³n
+**Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Putrificador tecnoquímico > Báculo de agua fluyente
+**Objetos finales:** Poción de vida, Redención, Pebetero ardiente

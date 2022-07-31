@@ -1,6 +1,6 @@
 **Karma Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 48.5%
+**Porcentagem de vitorias:** 49.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Sentinela InvisÃ­vel, Gume do LadrÃ£o Arcano, PoÃ§Ã£o de Vida
-**Itens Core:** Espelho de BandÃ³polis > Hino BÃ©lico de Shurelya > Putrificador Quimtec > Cajado Aquafluxo
-**Itens End:** TurÃ­bulo Ardente, RedenÃ§Ã£o, Ampulheta de Zhonya
+**Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano
+**Itens Core:** Espelho de Bandópolis > Hino Bélico de Shurelya > Putrificador Quimtec > Cajado Aquafluxo
+**Itens End:** Poção de Vida, Redenção, Turíbulo Ardente

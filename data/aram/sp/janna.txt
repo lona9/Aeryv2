@@ -1,5 +1,5 @@
 **Janna ** *(ARAM)*
-**Porcentaje de victorias:** 55.4%
+**Porcentaje de victorias:** 54.0%
 **Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:insp:804451124207681577> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** RedenciÃ³n
-**Objetos iniciales:** CapÃ­tulo perdido
-**Objetos principales:** RenovaciÃ³n de piedra lunar > BÃ¡culo del arcÃ¡ngel > Putrificador tecnoquÃ­mico > Botas jonias de la lucidez
-**Objetos finales:** RedenciÃ³n, BÃ¡culo de agua fluyente, Pebetero ardiente
+**Botas:** Báculo de agua fluyente
+**Objetos iniciales:** Capítulo perdido
+**Objetos principales:** Renovación de piedra lunar > Báculo del arcángel > Putrificador tecnoquímico > Botas jonias de la lucidez
+**Objetos finales:** Báculo de agua fluyente, Redención, Pebetero ardiente

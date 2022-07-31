@@ -1,0 +1,21 @@
+**Warwick Build ** *(Normal)*
+**Position:** Selva, Rota Topo
+**Winrate:** 51.5%
+**Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
+**Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
+
+> :cd:<:precision12:804446921522675733>:cd::cd:
+>   :cd::cd:<:precision23:804446921628057630>
+>   <:precision31:804446921660956702>:cd::cd:
+>   :cd::cd:<:precision43:804446921941975080>
+
+>   :cd::cd::cd:
+>   :cd:<:valor32:804449943959765002>:cd:
+>   :cd:<:valor42:804449943615438919>:cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Boots:** Botas Galvanizadas de Aço
+**Start Build:** Sentinela Invisível, Lâmina Cálida, Poção com Refil
+**Core Build:** Tiamat > Ruptor Divino > Hidra Titânica > Armadura de Espinhos
+**End Build:** Semblante Espiritual, Dança da Morte, Couraça do Defunto

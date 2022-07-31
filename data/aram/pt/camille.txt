@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** MandÃ­bula de Malmortius
+**Botas:** Mandíbula de Malmortius
 **Itens Iniciais:** Botas, Espada Longa, Fulgor
-**Itens Core:** Fulgor > Fulgor > Ruptor Divino > DanÃ§a da Morte
+**Itens Core:** Fulgor > Fulgor > Ruptor Divino > Dança da Morte
 **Itens End:** Semblante Espiritual, Armadura de Espinhos, Hidra Raivosa

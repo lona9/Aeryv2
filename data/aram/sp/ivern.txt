@@ -1,5 +1,5 @@
 **Ivern ** *(ARAM)*
-**Porcentaje de victorias:** 49.8%
+**Porcentaje de victorias:** 51.4%
 **Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:bruj:804451124236648478> <:valor:804451124245561394>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** LÃ¡grima de la diosa, Espejo de cristal de Bandle
-**Objetos principales:** Espejo de cristal de Bandle > RenovaciÃ³n de piedra lunar > Umbral del invierno > Putrificador tecnoquÃ­mico
-**Objetos finales:** BÃ¡culo de agua fluyente, Pebetero ardiente, RedenciÃ³n
+**Objetos iniciales:** Lágrima de la diosa, Espejo de cristal de Bandle
+**Objetos principales:** Espejo de cristal de Bandle > Renovación de piedra lunar > Umbral del invierno > Redención
+**Objetos finales:** Báculo de agua fluyente, Pebetero ardiente, Putrificador tecnoquímico

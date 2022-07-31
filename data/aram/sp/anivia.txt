@@ -1,5 +1,5 @@
 **Anivia ** *(ARAM)*
-**Porcentaje de victorias:** 47.9%
+**Porcentaje de victorias:** 47.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Angustia de Liandry
-**Objetos iniciales:** Cristal de zafiro, Tomo amplificador, PociÃ³n reutilizable, LÃ¡grima de la diosa
-**Objetos principales:** Tomo amplificador > PociÃ³n reutilizable > LÃ¡grima de la diosa > CapÃ­tulo perdido
-**Objetos finales:** BÃ¡culo del vacÃ­o, Sombrero mortÃ­fero de Rabadon, MorellonomicÃ³n
+**Botas:** Botas del hechicero
+**Objetos iniciales:** Capítulo perdido
+**Objetos principales:** Capítulo perdido > Angustia de Liandry > Báculo del arcángel > Abrazo demoníaco
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón

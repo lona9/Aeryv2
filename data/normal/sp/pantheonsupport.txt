@@ -1,6 +1,6 @@
 **Pantheon Support** *(Normal)*
-**PosiciÃ³n:** Support, Top, Mid
-**Porcentaje de victorias:** 44.3%
+**Posición:** Jungler
+**Porcentaje de victorias:** 46.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Hombreras de acero, PociÃ³n de vida
-**Objetos principales:** PuÃ±al serrado > Guja sombrÃ­a > Eclipse > Filo de la noche
-**Objetos finales:** Ãngel GuardiÃ¡n, Cuchilla oscura, Filo fantasmal de Youmuu
+**Objetos iniciales:** Centinela invisible, Hombreras de acero, Poción de vida
+**Objetos principales:** Puñal serrado > Guja sombría > Eclipse > Sierraespada Quimopunk
+**Objetos finales:** Danza de la muerte, Rencor de Serylda, Ángel Guardián

@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Passos de MercÃºrio
-**Itens Iniciais:** PoÃ§Ã£o com Refil, Chicote Ferrifarpo
-**Itens Core:** Chicote Ferrifarpo > HemodrenÃ¡rio > DanÃ§a da Morte > Sinal de Sterak
-**Itens End:** Armadura de Espinhos, Hidra TitÃ¢nica, Armadura de Warmog
+**Botas:** Passos de Mercúrio
+**Itens Iniciais:** Poção com Refil, Chicote Ferrifarpo
+**Itens Core:** Chicote Ferrifarpo > Hemodrenário > Dança da Morte > Sinal de Sterak
+**Itens End:** Armadura de Espinhos, Hidra Titânica, Armadura de Warmog

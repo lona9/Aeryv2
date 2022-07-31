@@ -1,6 +1,6 @@
 **Yuumi Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 51.0%
+**Porcentagem de vitorias:** 49.8%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Sentinela InvisÃ­vel, Gume do LadrÃ£o Arcano, PoÃ§Ã£o de Vida
-**Itens Core:** Espelho de BandÃ³polis > Regenerador de Pedra Lunar > Putrificador Quimtec > Cajado Aquafluxo
-**Itens End:** TurÃ­bulo Ardente, BÃªnÃ§Ã£o de Mikael, RedenÃ§Ã£o
+**Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
+**Itens Core:** Espelho de Bandópolis > Regenerador de Pedra Lunar > Putrificador Quimtec > Cajado Aquafluxo
+**Itens End:** Turíbulo Ardente, Bênção de Mikael, Redenção

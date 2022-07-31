@@ -1,12 +1,12 @@
 **Akshan AD Carry** *(Normal)*
-**PosiciÃ³n:** Mid, Top
-**Porcentaje de victorias:** 44.8%
+**Posición:** Mid, Top
+**Porcentaje de victorias:** 49.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
 > <:precision11:804445926906658886>:cd::cd::cd:
 >   :cd::cd:<:precision23:804446921628057630>
->   :cd::cd:<:precision33:804446921644179516>
+>   <:precision31:804446921660956702>:cd::cd:
 >   <:precision41:804446922151690300>:cd::cd:
 
 >   :cd::cd:<:valor23:804449943876010024>
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Centinela invisible, Espada de Doran, PociÃ³n de vida
-**Objetos principales:** Carcaj de mediodÃ­a > Matakrakens > Hoja del rey arruinado > Recuerdos de lord Dominik
-**Objetos finales:** Ãngel GuardiÃ¡n, Filo del infinito, Al filo de la Cordura
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
+**Objetos principales:** Carcaj de mediodía > Matakrakens > Hoja del rey arruinado > Recuerdos de lord Dominik
+**Objetos finales:** Ángel Guardián, Hoja de furia de Guinsoo, El Coleccionista

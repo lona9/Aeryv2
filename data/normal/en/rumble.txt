@@ -1,0 +1,21 @@
+**Rumble Build ** *(Normal)*
+**Position:** Rota Topo, Rota do Meio
+**Winrate:** 50.2%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runes:** <:bruj:804451124236648478> <:dom:804451124085522442>
+
+>   :cd:<:bruj12:804448797001252864>:cd:
+>   :cd::cd:<:bruj23:804448797425532928>
+>   <:bruj31:804448797395910716>:cd::cd:
+>   <:bruj41:804448797597499402>:cd::cd:
+
+>   :cd:<:dom22:804457129394176020>:cd:
+>   :cd::cd::cd:
+> :cd::cd::cd:<:dom44:804457129732866048>
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Boots:** Sapatos do Feiticeiro
+**Start Build:** Sentinela Invisível, Anel de Doran, Poção de Vida
+**Core Build:** Alternador Hextec > Colhedor Noturno > Ampulheta de Zhonya > Morellonomicon
+**End Build:** Cajado do Vazio, Capuz da Morte de Rabadon, Abraço Demoníaco

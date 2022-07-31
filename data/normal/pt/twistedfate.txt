@@ -1,6 +1,6 @@
 **Twisted Fate Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 48.3%
+**Porcentagem de vitorias:** 46.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Sentinela InvisÃ­vel, PoÃ§Ã£o Corrupta
-**Itens Core:** CapÃ­tulo Perdido > Glacieterno > CanhÃ£o Fumegante > Ampulheta de Zhonya
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, PerdiÃ§Ã£o de Lich
+**Itens Iniciais:** Sentinela Invisível, Poção Corrupta
+**Itens Core:** Capítulo Perdido > Glacieterno > Canhão Fumegante > Ampulheta de Zhonya
+**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Perdição de Lich

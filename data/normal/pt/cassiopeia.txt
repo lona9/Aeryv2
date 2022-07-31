@@ -1,8 +1,8 @@
 **Cassiopeia Build ** *(Normal)*
-**Rota**: Rota do Meio
-**Porcentagem de vitorias:** 52.0%
-> **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034> 
-> **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
+**Rota:** Rota do Meio
+**Porcentagem de vitorias:** 51.4%
+**Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
 > :cd::cd::cd:<:precision14:804446921631596585>
 >   :cd::cd:<:precision23:804446921628057630>
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** -
-**Itens Iniciais:** Sentinela InvisÃ­vel, LÃ¡grima da Deusa, PoÃ§Ã£o de Vida
-**Itens Core:** CapÃ­tulo Perdido > AngÃºstia de Liandry > Cajado do Arcanjo > Cetro de Cristal de Rylai
-**Itens End:** Morellonomicon, Ampulheta de Zhonya, Cajado do Vazio
+**Itens Iniciais:** Sentinela Invisível, Lágrima da Deusa, Poção de Vida
+**Itens Core:** Capítulo Perdido > Angústia de Liandry > Cajado do Arcanjo > Cetro de Cristal de Rylai
+**Itens End:** Ampulheta de Zhonya, Morellonomicon, Cajado do Vazio

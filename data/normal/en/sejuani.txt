@@ -1,0 +1,21 @@
+**Sejuani Build ** *(Normal)*
+**Position:** Selva, Rota Topo
+**Winrate:** 51.6%
+**Summoner Spells:** <:Teleport:804555481699713034> <:Ignite:804555481167298570>
+**Runes:** <:valor:804451124245561394> <:pres:804451123825606657>
+
+>   :cd:<:valor12:804449943775084614>:cd:
+>   :cd:<:valor22:804449944018223104>:cd:
+>   <:valor31:804449943666425907>:cd::cd:
+>   <:valor41:804449944298586143>:cd::cd:
+
+>   :cd:<:precision22:804446921414541333>:cd:
+>   <:precision31:804446921660956702>:cd::cd:
+>   :cd::cd::cd:
+>   <:5005:804451179778015303> <:5002:804451180104908870> <:5001:804451180112642088>
+
+**Build**
+**Boots:** Botas Galvanizadas de Aço
+**Start Build:** Sentinela Invisível, Escudo de Doran, Poção de Vida
+**Core Build:** Brasa de Bami > Manopla do Raio de Gelo > Aproximação Invernal > Armadura de Espinhos
+**End Build:** Coração Congelado, Força da Natureza, Presságio de Randuin

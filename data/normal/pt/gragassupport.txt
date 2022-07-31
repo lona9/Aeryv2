@@ -1,13 +1,13 @@
 **Gragas Build Suporte** *(Normal)*
-**Rota:** Rota Topo, Selva
-**Porcentagem de vitorias:** 46.8%
+**Rota:** Rota Topo
+**Porcentagem de vitorias:** 46.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
-**Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
+**Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
->   :cd:<:valor12:804449943775084614>:cd:
->   :cd:<:valor22:804449944018223104>:cd:
->   :cd::cd:<:valor33:804449943603118131>
->   :cd::cd:<:valor43:804449944001708043>
+>   :cd:<:bruj12:804448797001252864>:cd:
+>   :cd:<:bruj22:804448796553117707>:cd:
+>   <:bruj31:804448797395910716>:cd::cd:
+>   <:bruj41:804448797597499402>:cd::cd:
 
 >   :cd::cd::cd:
 >   :cd::cd:<:insp33:804450564049731594>
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** 
-**Itens Core:** CapÃ­tulo Perdido > Glacieterno > Ampulheta de Zhonya > Ãmpeto CÃ³smico
-**Itens End:** Sentinela InvisÃ­vel, Escudo RelicÃ¡rio, PoÃ§Ã£o de Vida
+**Itens Core:** Capítulo Perdido > Glacieterno > Ampulheta de Zhonya > Morellonomicon
+**Itens End:** Sentinela Invisível, Escudo Relicário, Poção de Vida

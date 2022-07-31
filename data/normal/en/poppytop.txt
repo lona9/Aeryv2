@@ -1,0 +1,21 @@
+**Poppy Build Rota Topo** *(Normal)*
+**Position:** Selva, Rota Topo
+**Winrate:** 52.4%
+**Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Runes:** <:valor:804451124245561394> <:insp:804451124207681577>
+
+>   <:valor11:804449943376232509>:cd::cd:
+>   :cd::cd:<:valor23:804449943876010024>
+>   :cd::cd:<:valor33:804449943603118131>
+>   :cd:<:valor42:804449943615438919>:cd:
+
+>   :cd::cd::cd:
+>   :cd::cd:<:insp33:804450564049731594>
+>   :cd::cd:<:insp43:804450563952869452>
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Boots:** Botas Galvanizadas de Aço
+**Start Build:** Sentinela Invisível, Poção Corrupta
+**Core Build:** Fulgor > Ruptor Divino > Couraça do Defunto > Força da Natureza
+**End Build:** Presságio de Randuin, Placa Gargolítica, Armadura de Espinhos

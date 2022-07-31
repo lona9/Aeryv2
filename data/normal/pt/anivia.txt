@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Sentinela InvisÃ­vel, Anel de Doran, PoÃ§Ã£o de Vida
-**Itens Core:** CapÃ­tulo Perdido > Glacieterno > Cajado do Arcanjo > Ampulheta de Zhonya
+**Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
+**Itens Core:** Capítulo Perdido > Glacieterno > Cajado do Arcanjo > Ampulheta de Zhonya
 **Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon

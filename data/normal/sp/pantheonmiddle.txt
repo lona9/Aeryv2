@@ -1,6 +1,6 @@
 **Pantheon Mid** *(Normal)*
-**PosiciÃ³n:** Support, Top, Mid
-**Porcentaje de victorias:** 52.1%
+**Posición:** Jungler
+**Porcentaje de victorias:** 53.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, PociÃ³n de corrupciÃ³n
-**Objetos principales:** PuÃ±al serrado > Eclipse > Cuchilla oscura > Danza de la muerte
-**Objetos finales:** Ãngel GuardiÃ¡n, Rencor de Serylda, Fauces de Malmortius
+**Botas:** Botas de mercurio
+**Objetos iniciales:** Centinela invisible, Poción de corrupción
+**Objetos principales:** Puñal serrado > Eclipse > Cuchilla oscura > Danza de la muerte
+**Objetos finales:** Ángel Guardián, Rencor de Serylda, Fauces de Malmortius

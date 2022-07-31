@@ -1,13 +1,13 @@
 **Leona ** *(Normal)*
-**PosiciÃ³n:** Support
-**Porcentaje de victorias:** 47.6%
+**Posición:** Support
+**Porcentaje de victorias:** 48.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
 >   :cd:<:valor12:804449943775084614>:cd:
 >   :cd:<:valor22:804449944018223104>:cd:
 >   :cd::cd:<:valor33:804449943603118131>
->   :cd::cd:<:valor43:804449944001708043>
+>   <:valor41:804449944298586143>:cd::cd:
 
 >   :cd::cd::cd:
 >   :cd::cd:<:insp33:804450564049731594>
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible
 **Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Convergencia de Zeke > Promesa del caballero
-**Objetos finales:** Escudo reliquia, PociÃ³n de vida, Cota de espinas
+**Objetos finales:** Escudo reliquia, Poción de vida, Cota de espinas

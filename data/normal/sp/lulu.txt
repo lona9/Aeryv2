@@ -1,6 +1,6 @@
 **Lulu ** *(Normal)*
-**Posici贸n:** Support
-**Porcentaje de victorias:** 49.7%
+**Posici髇:** Support
+**Porcentaje de victorias:** 50.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos
-**Objetos principales:** Espejo de cristal de Bandle > Canci贸n de batalla de Shurelya > Putrificador tecnoqu铆mico > Pebetero ardiente
-**Objetos finales:** Poci贸n de vida, Bendici贸n de Mikael, B谩culo de agua fluyente
+**Objetos principales:** Espejo de cristal de Bandle > Canci髇 de batalla de Shurelya > Putrificador tecnoqu韒ico > Pebetero ardiente
+**Objetos finales:** Poci髇 de vida, Bendici髇 de Mikael, B醕ulo de agua fluyente

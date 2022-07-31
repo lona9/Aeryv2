@@ -1,5 +1,5 @@
 **Xayah** *(ARAM)*
-**Porcentagem de vitorias:** 49.4%
+**Porcentagem de vitorias:** 48.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Aljava Vespertina
-**Itens Core:** Aljava Vespertina > ForÃ§a do Vendaval > A Coletora > CanhÃ£o Fumegante
-**Itens End:** Sedenta por Sangue, Gume do Infinito, LembranÃ§as do Lorde Dominik
+**Itens Core:** Aljava Vespertina > Força do Vendaval > A Coletora > Canhão Fumegante
+**Itens End:** Sedenta por Sangue, Gume do Infinito, Lembranças do Lorde Dominik

@@ -1,0 +1,21 @@
+**Sett Build ** *(Normal)*
+**Position:** Rota Topo
+**Winrate:** 50.8%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
+
+> :cd::cd::cd:<:precision14:804446921631596585>
+>   :cd:<:precision22:804446921414541333>:cd:
+>   <:precision31:804446921660956702>:cd::cd:
+>   :cd::cd:<:precision43:804446921941975080>
+
+>   :cd::cd::cd:
+>   :cd:<:valor32:804449943959765002>:cd:
+>   :cd::cd:<:valor43:804449944001708043>
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Boots:** Botas Galvanizadas de Aço
+**Start Build:** Sentinela Invisível, Escudo de Doran, Poção de Vida
+**Core Build:** Cetro Vampírico > Espada do Rei Destruído > Quebrapassos > Dança da Morte
+**End Build:** Sinal de Sterak, Hidra Titânica, Armadura de Espinhos

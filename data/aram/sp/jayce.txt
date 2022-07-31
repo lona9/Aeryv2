@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** PociÃ³n reutilizable, LÃ¡grima de la diosa, Espada larga
-**Objetos principales:** PuÃ±al serrado > Eclipse > Manamune > Rencor de Serylda
+**Objetos iniciales:** Poción reutilizable, Lágrima de la diosa, Espada larga
+**Objetos principales:** Puñal serrado > Eclipse > Manamune > Rencor de Serylda
 **Objetos finales:** Fauces de Malmortius, Filo de la noche, Sierraespada Quimopunk

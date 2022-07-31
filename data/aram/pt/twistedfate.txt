@@ -1,5 +1,5 @@
 **Twisted Fate** *(ARAM)*
-**Porcentagem de vitorias:** 47.7%
+**Porcentagem de vitorias:** 47.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** CapÃ­tulo Perdido
-**Itens Core:** CapÃ­tulo Perdido > Tormenta de Luden > CanhÃ£o Fumegante > PerdiÃ§Ã£o de Lich
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Ampulheta de Zhonya
+**Itens Iniciais:** Capítulo Perdido
+**Itens Core:** Capítulo Perdido > Tormenta de Luden > Canhão Fumegante > Perdição de Lich
+**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Ampulheta de Zhonya

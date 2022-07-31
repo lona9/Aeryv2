@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Passos de MercÃºrio
-**Itens Iniciais:** PoÃ§Ã£o com Refil, Punhal Serrilhado
-**Itens Core:** Punhal Serrilhado > CrepÃºsculo de Draktharr > Arco do Axioma > A Coletora
-**Itens End:** Rancor de Serylda, Limiar da Noite, DanÃ§a da Morte
+**Botas:** Passos de Mercúrio
+**Itens Iniciais:** Poção com Refil, Punhal Serrilhado
+**Itens Core:** Punhal Serrilhado > Crepúsculo de Draktharr > Arco do Axioma > A Coletora
+**Itens End:** Dança da Morte, Rancor de Serylda, Limiar da Noite

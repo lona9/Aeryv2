@@ -1,6 +1,6 @@
 **Jax ** *(Normal)*
-**PosiciÃ³n:** Top
-**Porcentaje de victorias:** 48.5%
+**Posición:** Top
+**Porcentaje de victorias:** 48.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, PociÃ³n de corrupciÃ³n
+**Objetos iniciales:** Centinela invisible, Poción de corrupción
 **Objetos principales:** Brillo > Cercenador divino > Hoja del rey arruinado > Danza de la muerte
-**Objetos finales:** Ãngel GuardiÃ¡n, Fauces de Malmortius, Al filo de la Cordura
+**Objetos finales:** Ángel Guardián, Fauces de Malmortius, Corazón de hielo

@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** PoÃ§Ã£o com Refil, Punhal Serrilhado
-**Itens Core:** Punhal Serrilhado > CrepÃºsculo de Draktharr > Arco do Axioma > A Coletora
-**Itens End:** Rancor de Serylda, Limiar da Noite, MandÃ­bula de Malmortius
+**Itens Iniciais:** Poção com Refil, Punhal Serrilhado
+**Itens Core:** Punhal Serrilhado > Crepúsculo de Draktharr > Arco do Axioma > A Coletora
+**Itens End:** Rancor de Serylda, Limiar da Noite, Mandíbula de Malmortius

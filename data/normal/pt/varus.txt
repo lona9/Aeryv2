@@ -1,6 +1,6 @@
 **Varus Build ** *(Normal)*
 **Rota:** Atirador
-**Porcentagem de vitorias:** 48.5%
+**Porcentagem de vitorias:** 49.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grevas do Berserker
-**Itens Iniciais:** Sentinela InvisÃ­vel, LÃ¢mina de Doran, PoÃ§Ã£o de Vida
-**Itens Core:** Aljava Vespertina > Arco-escudo Imortal > LÃ¢mina da FÃºria de Guinsoo > Limite da RazÃ£o
-**Itens End:** Anjo GuardiÃ£o, Cajado do Vazio, LembranÃ§as do Lorde Dominik
+**Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
+**Itens Core:** Aljava Vespertina > Arco-escudo Imortal > Lâmina da Fúria de Guinsoo > Limite da Razão
+**Itens End:** Anjo Guardião, Lembranças do Lorde Dominik, Cajado do Vazio

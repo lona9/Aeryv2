@@ -1,0 +1,21 @@
+**Singed Build ** *(Normal)*
+**Position:** Rota Topo
+**Winrate:** 48.2%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
+**Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
+
+> :cd::cd::cd:<:precision14:804446921631596585>
+>   :cd:<:precision22:804446921414541333>:cd:
+>   :cd:<:precision32:804446921737371648>:cd:
+>   :cd::cd:<:precision43:804446921941975080>
+
+>   :cd::cd::cd:
+>   <:valor31:804449943666425907>:cd::cd:
+>   :cd::cd:<:valor43:804449944001708043>
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Boots:** Botas da Rapidez
+**Start Build:** Sentinela Invisível, Poção Corrupta
+**Core Build:** Varinha Explosiva > Cetro de Cristal de Rylai > Abraço Demoníaco > Criafendas
+**End Build:** Força da Natureza, Couraça do Defunto, Ampulheta de Zhonya

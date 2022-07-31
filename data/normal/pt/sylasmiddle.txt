@@ -1,6 +1,6 @@
 **Sylas Build Rota do Meio** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 50.0%
+**Porcentagem de vitorias:** 50.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Sentinela InvisÃ­vel, Anel de Doran, PoÃ§Ã£o de Vida
-**Itens Core:** CapÃ­tulo Perdido > Glacieterno > Ampulheta de Zhonya > Ãmpeto CÃ³smico
+**Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
+**Itens Core:** Capítulo Perdido > Glacieterno > Ampulheta de Zhonya > Ímpeto Cósmico
 **Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Chama Sombria

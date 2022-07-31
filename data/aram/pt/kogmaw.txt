@@ -1,5 +1,5 @@
 **Kog'Maw** *(ARAM)*
-**Porcentagem de vitorias:** 52.5%
+**Porcentagem de vitorias:** 51.8%
 **Summoner Spells:** <:Cleanse:804555480730304514> <:Flash:804555481443336202>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** LÃ¢mina da FÃºria de Guinsoo
-**Itens Iniciais:** Cristal de Safira, Tomo Amplificador, PoÃ§Ã£o com Refil, LÃ¡grima da Deusa
-**Itens Core:** Tomo Amplificador > PoÃ§Ã£o com Refil > LÃ¡grima da Deusa > Faca da FÃºria
-**Itens End:** Espada do Rei DestruÃ­do, Limite da RazÃ£o, Capuz da Morte de Rabadon
+**Botas:** Grevas do Berserker
+**Itens Iniciais:** Aljava Vespertina
+**Itens Core:** Faca da Fúria > Lâmina da Fúria de Guinsoo > Furacão de Runaan > Hidra Titânica
+**Itens End:** Espada do Rei Destruído, Limite da Razão, Capuz da Morte de Rabadon

@@ -1,6 +1,6 @@
 **Ezreal ** *(Normal)*
-**PosiciÃ³n:** AD Carry
-**Porcentaje de victorias:** 48.9%
+**Posición:** AD Carry
+**Porcentaje de victorias:** 48.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, Espada de Doran, PociÃ³n de vida
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Brillo > Fuerza de la trinidad > Manamune > Rencor de Serylda
-**Objetos finales:** Hidra voraz, CorazÃ³n de hielo, Fauces de Malmortius
+**Objetos finales:** Hidra voraz, Corazón de hielo, Fauces de Malmortius

@@ -1,0 +1,21 @@
+**Renekton Build ** *(Normal)*
+**Position:** Rota Topo
+**Winrate:** 50.1%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
+
+> <:precision11:804445926906658886>:cd::cd::cd:
+>   :cd:<:precision22:804446921414541333>:cd:
+>   <:precision31:804446921660956702>:cd::cd:
+>   :cd::cd:<:precision43:804446921941975080>
+
+>   :cd::cd::cd:
+>   :cd::cd:<:valor33:804449943603118131>
+>   :cd::cd:<:valor43:804449944001708043>
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Boots:** Botas Galvanizadas de Aço
+**Start Build:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
+**Core Build:** Cetro Vampírico > Espada do Rei Destruído > Égide de Fogo Solar > Dança da Morte
+**End Build:** Anjo Guardião, Cutelo Negro, Armadura de Espinhos

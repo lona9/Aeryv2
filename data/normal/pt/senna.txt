@@ -1,6 +1,6 @@
 **Senna Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 52.0%
+**Porcentagem de vitorias:** 50.0%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas da Rapidez
-**Itens Iniciais:** Sentinela InvisÃ­vel, Foice Espectral, PoÃ§Ã£o de Vida
-**Itens Core:** Punhal Serrilhado > Glaive Sombria > Eclipse > CanhÃ£o Fumegante
-**Itens End:** LembranÃ§as do Lorde Dominik, Gume do Infinito, Lembrete Mortal
+**Itens Iniciais:** Sentinela Invisível, Foice Espectral, Poção de Vida
+**Itens Core:** Punhal Serrilhado > Glaive Sombria > Eclipse > Canhão Fumegante
+**Itens End:** Lembranças do Lorde Dominik, Gume do Infinito, Lembrete Mortal

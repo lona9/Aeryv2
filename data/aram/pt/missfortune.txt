@@ -1,5 +1,5 @@
 **Miss Fortune** *(ARAM)*
-**Porcentagem de vitorias:** 53.7%
+**Porcentagem de vitorias:** 53.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Grevas do Berserker
-**Itens Iniciais:** CapÃ­tulo Perdido
-**Itens Core:** Punhal Serrilhado > Eclipse > Manamune > A Coletora
-**Itens End:** Rancor de Serylda, Limiar da Noite, Arco do Axioma
+**Itens Iniciais:** Capítulo Perdido
+**Itens Core:** Capítulo Perdido > Angústia de Liandry > Abraço Demoníaco > Morellonomicon
+**Itens End:** Rancor de Serylda, A Coletora, Gume do Infinito

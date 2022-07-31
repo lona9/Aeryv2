@@ -1,0 +1,21 @@
+**Sylas Build Rota do Meio** *(Normal)*
+**Position:** Rota do Meio
+**Winrate:** 50.5%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runes:** <:pres:804451123825606657> <:insp:804451124207681577>
+
+> :cd::cd::cd:<:precision14:804446921631596585>
+>   :cd::cd:<:precision23:804446921628057630>
+>   :cd:<:precision32:804446921737371648>:cd:
+>   :cd::cd:<:precision43:804446921941975080>
+
+>   :cd::cd::cd:
+>   :cd::cd:<:insp33:804450564049731594>
+>   <:insp41:804450563507879947>:cd::cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5003:804451180100452403>
+
+**Build**
+**Boots:** Botas Ionianas da Lucidez
+**Start Build:** Sentinela Invisível, Anel de Doran, Poção de Vida
+**Core Build:** Capítulo Perdido > Glacieterno > Ampulheta de Zhonya > Ímpeto Cósmico
+**End Build:** Capuz da Morte de Rabadon, Cajado do Vazio, Chama Sombria

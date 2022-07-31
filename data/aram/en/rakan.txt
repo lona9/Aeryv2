@@ -1,0 +1,20 @@
+**Rakan  Build - Items / Runes / Matchups - League of Legends" name="twitter:title"/>** *(ARAM)*
+**Winrate:** 47.9%
+**Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
+**Runes:** <:valor:804451124245561394> <:dom:804451124085522442>
+
+>   :cd::cd:<:valor13:804449943497605171>
+>   :cd:<:valor22:804449944018223104>:cd:
+>   :cd::cd:<:valor33:804449943603118131>
+>   :cd::cd:<:valor43:804449944001708043>
+
+>   :cd::cd::cd:
+>   :cd::cd:<:dom33:804457129578332160>
+> :cd::cd::cd:<:dom44:804457129732866048>
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Boots:** Mercury's Treads
+**Start Build:** Guardian's Horn, Tear of the Goddess
+**Core Build:** Guardian's Horn > Shurelya's Battlesong > Winter's Approach > Force of Nature
+**End Build:** Thornmail, Warmog's Armor, Redemption

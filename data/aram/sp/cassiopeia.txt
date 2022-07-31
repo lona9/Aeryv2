@@ -1,20 +1,20 @@
-**Cassiopeia** *(ARAM)*
-> **% victorias:** 47.0%
-> **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
-> **Runas**: <:pres:804451123825606657> <:dom:804451124085522442>
- 
+**Cassiopeia ** *(ARAM)*
+**Porcentaje de victorias:** 49.4%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
+**Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
+
 > :cd::cd::cd:<:precision14:804446921631596585>
 >   :cd::cd:<:precision23:804446921628057630>
 >   :cd:<:precision32:804446921737371648>:cd:
 >   <:precision41:804446922151690300>:cd::cd:
- 
+
 >   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd::cd:
-> <:dom41:804457130379182120>:cd::cd:
->   <:5008:804451180172279808><:5008:804451180172279808><:5002:804451180104908870>
- 
-> **Build**:
-*Iniciales:* CapÃ­tulo perdido
-*Botas:* -
-*Principales:* CapÃ­tulo perdido > Angustia de Liandry > BÃ¡culo del arcÃ¡ngel > Abrazo demonÃ­aco
-*Finales:* MorellonomicÃ³n, BÃ¡culo del vacÃ­o, Reloj de arena de Zhonya
+> <:dom41:963152951478747156>:cd::cd::cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** -
+**Objetos iniciales:** Capítulo perdido
+**Objetos principales:** Angustia de Liandry > Báculo del arcángel > Cetro de cristal de Rylai > Báculo del vacío
+**Objetos finales:** Báculo del vacío, Morellonomicón, Reloj de arena de Zhonya

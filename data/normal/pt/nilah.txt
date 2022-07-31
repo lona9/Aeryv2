@@ -1,0 +1,21 @@
+**Nilah Build ** *(Normal)*
+**Rota:** Atirador
+**Porcentagem de vitorias:** 49.9%
+**Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
+**Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
+
+> :cd::cd::cd:<:precision14:804446921631596585>
+>   :cd:<:precision22:804446921414541333>:cd:
+>   <:precision31:804446921660956702>:cd::cd:
+>   :cd::cd:<:precision43:804446921941975080>
+
+>   :cd::cd::cd:
+>   <:valor31:804449943666425907>:cd::cd:
+>   :cd:<:valor42:804449943615438919>:cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Grevas do Berserker
+**Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
+**Itens Core:** Aljava Vespertina > Arco-escudo Imortal > Dançarina Fantasma > Gume do Infinito
+**Itens End:** Anjo Guardião, Dança da Morte, Sedenta por Sangue

@@ -1,6 +1,6 @@
 **Akshan Build Rota do Meio** *(Normal)*
 **Rota:** Rota do Meio, Rota Topo
-**Porcentagem de vitorias:** 50.5%
+**Porcentagem de vitorias:** 51.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grevas do Berserker
-**Itens Iniciais:** Sentinela InvisÃ­vel, LÃ¢mina de Doran, PoÃ§Ã£o de Vida
-**Itens Core:** Aljava Vespertina > Mata-CrÃ¡quens > Espada do Rei DestruÃ­do > LembranÃ§as do Lorde Dominik
-**Itens End:** Anjo GuardiÃ£o, Gume do Infinito, CanhÃ£o Fumegante
+**Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
+**Itens Core:** Aljava Vespertina > Mata-Cráquens > Espada do Rei Destruído > Lembranças do Lorde Dominik
+**Itens End:** Anjo Guardião, Canhão Fumegante, Gume do Infinito

@@ -1,5 +1,5 @@
 **Sona** *(ARAM)*
-**Porcentagem de vitorias:** 48.2%
+**Porcentagem de vitorias:** 47.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** LÃ¡grima da Deusa, Espelho de BandÃ³polis
-**Itens Core:** Espelho de BandÃ³polis > Regenerador de Pedra Lunar > Cajado do Arcanjo > Putrificador Quimtec
-**Itens End:** RedenÃ§Ã£o, TurÃ­bulo Ardente, Cajado Aquafluxo
+**Itens Iniciais:** Lágrima da Deusa, Espelho de Bandópolis
+**Itens Core:** Espelho de Bandópolis > Regenerador de Pedra Lunar > Cajado do Arcanjo > Putrificador Quimtec
+**Itens End:** Redenção, Turíbulo Ardente, Cajado Aquafluxo

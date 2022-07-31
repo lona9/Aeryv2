@@ -1,5 +1,5 @@
 **Malphite ** *(ARAM)*
-**Porcentaje de victorias:** 47.0%
+**Porcentaje de victorias:** 47.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** BÃ¡culo del vacÃ­o
-**Objetos iniciales:** CapÃ­tulo perdido
-**Objetos principales:** Tempestad de Luden > LlamasombrÃ­a > Sombrero mortÃ­fero de Rabadon > Botas del hechicero
-**Objetos finales:** BÃ¡culo del vacÃ­o, Reloj de arena de Zhonya, MorellonomicÃ³n
+**Botas:** Botas del hechicero
+**Objetos iniciales:** Botas, Alternador hextech
+**Objetos principales:** Capítulo perdido > Tempestad de Luden > Llamasombría > Sombrero mortífero de Rabadon
+**Objetos finales:** Báculo del vacío, Reloj de arena de Zhonya, Impulso cósmico

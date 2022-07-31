@@ -1,6 +1,6 @@
 **Pantheon Build ** *(Normal)*
-**Rota:** Suporte, Rota Topo, Rota do Meio
-**Porcentagem de vitorias:** 48.4%
+**Rota:** Selva
+**Porcentagem de vitorias:** 48.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -9,13 +9,13 @@
 >   :cd:<:precision32:804446921737371648>:cd:
 >   <:precision41:804446922151690300>:cd::cd:
 
->   <:dom21:804457127800078397>:cd::cd:
+>   :cd::cd:<:dom23:804457130307485707>
 >   :cd::cd::cd:
 > :cd::cd:<:dom43:804457129183936582>:cd:
->   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas Galvanizadas de AÃ§o
-**Itens Iniciais:** Sentinela InvisÃ­vel, PoÃ§Ã£o Corrupta
-**Itens Core:** Punhal Serrilhado > Eclipse > Cutelo Negro > DanÃ§a da Morte
-**Itens End:** Anjo GuardiÃ£o, Rancor de Serylda, MandÃ­bula de Malmortius
+**Botas:** Dança da Morte
+**Itens Iniciais:** Sentinela Invisível, Lâmina Cálida, Poção com Refil
+**Itens Core:** Poção com Refil > Punhal Serrilhado > Eclipse > Cutelo Negro
+**Itens End:** Anjo Guardião, Rancor de Serylda, Mandíbula de Malmortius

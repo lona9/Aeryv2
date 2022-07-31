@@ -1,6 +1,6 @@
 **Maestro Yi ** *(Normal)*
-**PosiciÃ³n:** Jungler
-**Porcentaje de victorias:** 46.6%
+**Posición:** Jungler
+**Porcentaje de victorias:** 51.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Centinela invisible, Cuchillo Ãmbar, PociÃ³n reutilizable
-**Objetos principales:** Carcaj de mediodÃ­a > Matakrakens > Hoja de furia de Guinsoo > Danza de la muerte
-**Objetos finales:** Ãngel GuardiÃ¡n, Al filo de la Cordura, Guantelete de Sterak
+**Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
+**Objetos principales:** Arco curvo > Hoja del rey arruinado > Hoja de furia de Guinsoo > Égida de fuego solar
+**Objetos finales:** Ángel Guardián, Danza de la muerte, Al filo de la Cordura

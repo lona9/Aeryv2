@@ -1,6 +1,6 @@
 **Fizz ** *(Normal)*
-**PosiciÃ³n:** Mid
-**Porcentaje de victorias:** 50.8%
+**Posición:** Mid
+**Porcentaje de victorias:** 49.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, PociÃ³n de corrupciÃ³n
-**Objetos principales:** CapÃ­tulo perdido > Tempestad de Luden > Reloj de arena de Zhonya > MaldiciÃ³n del liche
-**Objetos finales:** Sombrero mortÃ­fero de Rabadon, BÃ¡culo del vacÃ­o, LlamasombrÃ­a
+**Objetos iniciales:** Centinela invisible, Poción de corrupción
+**Objetos principales:** Capítulo perdido > Tempestad de Luden > Reloj de arena de Zhonya > Maldición del liche
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Llamasombría

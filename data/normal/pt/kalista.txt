@@ -1,7 +1,7 @@
 **Kalista Build ** *(Normal)*
 **Rota:** Atirador
-**Porcentagem de vitorias:** 49.6%
-**Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
+**Porcentagem de vitorias:** 50.1%
+**Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
 > :cd:<:precision12:804446921522675733>:cd::cd:
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grevas do Berserker
-**Itens Iniciais:** Sentinela InvisÃ­vel, LÃ¢mina de Doran, PoÃ§Ã£o de Vida
-**Itens Core:** Aljava Vespertina > Arco-escudo Imortal > LÃ¢mina da FÃºria de Guinsoo > FuracÃ£o de Runaan
-**Itens End:** Anjo GuardiÃ£o, Sedenta por Sangue, LembranÃ§as do Lorde Dominik
+**Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
+**Itens Core:** Aljava Vespertina > Arco-escudo Imortal > Lâmina da Fúria de Guinsoo > Furacão de Runaan
+**Itens End:** Anjo Guardião, Sedenta por Sangue, Lembranças do Lorde Dominik

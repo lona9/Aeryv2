@@ -1,0 +1,21 @@
+**Seraphine Build ** *(Normal)*
+**Position:** Suporte, Atirador
+**Winrate:** 50.5%
+**Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
+**Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
+
+>   <:bruj11:804448796104589323>:cd::cd:
+>   :cd:<:bruj22:804448796553117707>:cd:
+>   <:bruj31:804448797395910716>:cd::cd:
+>   :cd::cd:<:bruj43:804448797631316069>
+
+>   :cd::cd::cd:
+>   :cd::cd:<:insp33:804450564049731594>
+>   <:insp41:804450563507879947>:cd::cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Boots:** Botas Ionianas da Lucidez
+**Start Build:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
+**Core Build:** Capítulo Perdido > Angústia de Liandry > Cajado do Arcanjo > Cetro de Cristal de Rylai
+**End Build:** Capuz da Morte de Rabadon, Ampulheta de Zhonya, Putrificador Quimtec

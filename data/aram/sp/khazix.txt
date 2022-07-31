@@ -1,5 +1,5 @@
 **Kha'Zix ** *(ARAM)*
-**Porcentaje de victorias:** 45.3%
+**Porcentaje de victorias:** 45.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** El Coleccionista
-**Objetos iniciales:** Botas, Espada larga, LÃ¡grima de la diosa, PociÃ³n de vida
-**Objetos principales:** PociÃ³n de vida > PuÃ±al serrado > Filoscuro de Draktharr > Manamune
+**Objetos iniciales:** Botas, Espada larga, Lágrima de la diosa, Poción de vida
+**Objetos principales:** Poción de vida > Puñal serrado > Filoscuro de Draktharr > Manamune
 **Objetos finales:** Rencor de Serylda, Filo de la noche, Fauces de Malmortius

@@ -1,0 +1,21 @@
+**Zeri Build ** *(Normal)*
+**Position:** Atirador
+**Winrate:** 45.6%
+**Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
+**Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
+
+> :cd:<:precision12:804446921522675733>:cd::cd:
+>   :cd:<:precision22:804446921414541333>:cd:
+>   <:precision31:804446921660956702>:cd::cd:
+>   :cd::cd:<:precision43:804446921941975080>
+
+>   :cd::cd::cd:
+>   <:valor31:804449943666425907>:cd::cd:
+>   <:valor41:804449944298586143>:cd::cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Boots:** Grevas do Berserker
+**Start Build:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
+**Core Build:** Aljava Vespertina > Arco-escudo Imortal > Dançarina Fantasma > Gume do Infinito
+**End Build:** Anjo Guardião, Sedenta por Sangue, Lembranças do Lorde Dominik

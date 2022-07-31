@@ -1,0 +1,21 @@
+**Tahm Kench Build Rota Topo** *(Normal)*
+**Position:** Rota Topo, Suporte
+**Winrate:** 49.0%
+**Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Runes:** <:valor:804451124245561394> <:pres:804451123825606657>
+
+>   <:valor11:804449943376232509>:cd::cd:
+>   :cd::cd:<:valor23:804449943876010024>
+>   :cd:<:valor32:804449943959765002>:cd:
+>   :cd::cd:<:valor43:804449944001708043>
+
+>   :cd:<:precision22:804446921414541333>:cd:
+>   <:precision31:804446921660956702>:cd::cd:
+>   :cd::cd::cd:
+>   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
+
+**Build**
+**Boots:** Botas Galvanizadas de Aço
+**Start Build:** Sentinela Invisível, Escudo de Doran, Poção de Vida
+**Core Build:** Brasa de Bami > Manopla do Raio de Gelo > Armadura de Espinhos > Semblante Espiritual
+**End Build:** Placa Gargolítica, Presságio de Randuin, Coração Congelado

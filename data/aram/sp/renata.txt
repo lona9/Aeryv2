@@ -1,5 +1,5 @@
 **Renata Glasc ** *(ARAM)*
-**Porcentaje de victorias:** 57.0%
+**Porcentaje de victorias:** 56.8%
 **Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** LÃ¡grima de la diosa, Espejo de cristal de Bandle
-**Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > BÃ¡culo del arcÃ¡ngel > Putrificador tecnoquÃ­mico
-**Objetos finales:** RedenciÃ³n, BÃ¡culo de agua fluyente, Pebetero ardiente
+**Objetos iniciales:** Lágrima de la diosa, Espejo de cristal de Bandle
+**Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Báculo del arcángel > Putrificador tecnoquímico
+**Objetos finales:** Redención, Báculo de agua fluyente, Pebetero ardiente

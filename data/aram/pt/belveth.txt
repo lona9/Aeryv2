@@ -1,5 +1,5 @@
 **Bel'Veth** *(ARAM)*
-**Porcentagem de vitorias:** 50.0%
+**Porcentagem de vitorias:** 45.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Passos de MercÃºrio
+**Botas:** Passos de Mercúrio
 **Itens Iniciais:** Aljava Vespertina
-**Itens Core:** Aljava Vespertina > Mata-CrÃ¡quens > Espada do Rei DestruÃ­do > DanÃ§a da Morte
-**Itens End:** Semblante Espiritual, Sedenta por Sangue, LÃ¢mina da FÃºria de Guinsoo
+**Itens Core:** Aljava Vespertina > Mata-Cráquens > Espada do Rei Destruído > Dança da Morte
+**Itens End:** Semblante Espiritual, Sedenta por Sangue, Lâmina da Fúria de Guinsoo

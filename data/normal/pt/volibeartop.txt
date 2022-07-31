@@ -1,6 +1,6 @@
 **Volibear Build Rota Topo** *(Normal)*
 **Rota:** Selva, Rota Topo
-**Porcentagem de vitorias:** 49.3%
+**Porcentagem de vitorias:** 49.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas Galvanizadas de AÃ§o
-**Itens Iniciais:** Sentinela InvisÃ­vel, Anel de Doran, PoÃ§Ã£o de Vida
-**Itens Core:** Olhar Sanguessuga > Criafendas > Dente de Na'Shor > Quebracascos
-**Itens End:** Armadura de Espinhos, Semblante Espiritual, Ampulheta de Zhonya
+**Botas:** Botas Galvanizadas de Aço
+**Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
+**Itens Core:** Brasa de Bami > Manopla do Raio de Gelo > Coração Congelado > Semblante Espiritual
+**Itens End:** Armadura de Espinhos, Ampulheta de Zhonya, Força da Natureza

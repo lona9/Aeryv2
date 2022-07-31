@@ -1,5 +1,5 @@
 **Graves ** *(ARAM)*
-**Porcentaje de victorias:** 51.1%
+**Porcentaje de victorias:** 50.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Sanguinaria
-**Objetos iniciales:** PociÃ³n reutilizable, PuÃ±al serrado
-**Objetos principales:** PuÃ±al serrado > PuÃ±al serrado > Eclipse > El Coleccionista
+**Objetos iniciales:** Poción reutilizable, Puñal serrado
+**Objetos principales:** Puñal serrado > Puñal serrado > Eclipse > El Coleccionista
 **Objetos finales:** Filo del infinito, Recuerdos de lord Dominik, Fauces de Malmortius

@@ -1,5 +1,5 @@
 **Varus** *(ARAM)*
-**Porcentagem de vitorias:** 51.9%
+**Porcentagem de vitorias:** 52.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** PoÃ§Ã£o com Refil, LÃ¡grima da Deusa, Espada Longa
-**Itens Core:** Punhal Serrilhado > CrepÃºsculo de Draktharr > Manamune > A Coletora
-**Itens End:** Limiar da Noite, Rancor de Serylda, LÃ¢mina Fantasma de Youmuu
+**Itens Iniciais:** Poção com Refil, Lágrima da Deusa, Espada Longa
+**Itens Core:** Punhal Serrilhado > Crepúsculo de Draktharr > Manamune > A Coletora
+**Itens End:** Limiar da Noite, Rancor de Serylda, Espada do Rei Destruído

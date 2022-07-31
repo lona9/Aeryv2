@@ -1,0 +1,21 @@
+**Zoe Build ** *(Normal)*
+**Position:** Rota do Meio
+**Winrate:** 49.3%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runes:** <:dom:804451124085522442> <:insp:804451124207681577>
+
+> <:dom11:804447179758239744>:cd::cd::cd:
+>   :cd:<:dom22:804457129394176020>:cd:
+>   :cd::cd:<:dom33:804457129578332160>
+> <:dom41:963152951478747156>:cd::cd::cd:
+
+>   :cd::cd::cd:
+>   :cd::cd:<:insp33:804450564049731594>
+>   :cd::cd:<:insp43:804450563952869452>
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
+
+**Build**
+**Boots:** Sapatos do Feiticeiro
+**Start Build:** Sentinela Invisível, Poção Corrupta
+**Core Build:** Capítulo Perdido > Tormenta de Luden > Chama Sombria > Ampulheta de Zhonya
+**End Build:** Cajado do Vazio, Capuz da Morte de Rabadon, Ladrão de Almas de Mejai

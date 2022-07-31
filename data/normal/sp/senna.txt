@@ -1,6 +1,6 @@
 **Senna ** *(Normal)*
-**PosiciÃ³n:** Support
-**Porcentaje de victorias:** 52.0%
+**Posición:** Support
+**Porcentaje de victorias:** 50.0%
 **Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas de rapidez
-**Objetos iniciales:** Centinela invisible, Hoz espectral, PociÃ³n de vida
-**Objetos principales:** PuÃ±al serrado > Guja sombrÃ­a > Eclipse > CaÃ±Ã³n de fuego rÃ¡pido
+**Objetos iniciales:** Centinela invisible, Hoz espectral, Poción de vida
+**Objetos principales:** Puñal serrado > Guja sombría > Eclipse > Cañón de fuego rápido
 **Objetos finales:** Recuerdos de lord Dominik, Filo del infinito, Recordatorio mortal

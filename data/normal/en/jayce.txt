@@ -1,0 +1,21 @@
+**Jayce Build ** *(Normal)*
+**Position:** Rota Topo
+**Winrate:** 47.2%
+**Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
+
+>   :cd::cd:<:bruj13:804448796787474433>
+>   :cd:<:bruj22:804448796553117707>:cd:
+>   :cd::cd:<:bruj33:804448797509419098>
+>   :cd::cd:<:bruj43:804448797631316069>
+
+>   :cd:<:insp22:804450563793747989>:cd:
+>   :cd::cd:<:insp33:804450564049731594>
+>   :cd::cd::cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Boots:** Botas Ionianas da Lucidez
+**Start Build:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
+**Core Build:** Punhal Serrilhado > Eclipse > Manamune > Rancor de Serylda
+**End Build:** Anjo Guardião, Mandíbula de Malmortius, Lâmina Fantasma de Youmuu

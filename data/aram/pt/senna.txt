@@ -1,5 +1,5 @@
 **Senna** *(ARAM)*
-**Porcentagem de vitorias:** 56.1%
+**Porcentagem de vitorias:** 54.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Manamune
-**Itens Iniciais:** PoÃ§Ã£o com Refil, LÃ¡grima da Deusa, Espada Longa
-**Itens Core:** LÃ¡grima da Deusa > Espada Longa > Aljava Vespertina > Mata-CrÃ¡quens
-**Itens End:** LembranÃ§as do Lorde Dominik, Gume do Infinito, LÃ¢mina da FÃºria de Guinsoo
+**Itens Iniciais:** Poção com Refil, Lágrima da Deusa, Espada Longa
+**Itens Core:** Lágrima da Deusa > Espada Longa > Aljava Vespertina > Mata-Cráquens
+**Itens End:** Lembranças do Lorde Dominik, Gume do Infinito, Lâmina da Fúria de Guinsoo
