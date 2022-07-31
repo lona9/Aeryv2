@@ -32,7 +32,7 @@ class info(commands.Cog):
 
             embed = Embed(title="Aery Information")
 
-            fields = [("\u200B", "Type `/commands` to see what Aerybot can do. Type  `/language` inside a server to change its language.", False),
+            fields = [("\u200B", "Type `/commands` to see what Aerybot can do. Type `/language` inside a server to change its language.", False),
 
             ("\u200B", f"**Aerybot** wants to make it easier and faster to get builds and runes to play League of Legends. It's updated once a week, and all information is obtained from the most popular, with higher win rate builds according to League of Graphs.\n\nThis bot was updated on **{date}**.\n\nLos datos fueron obtenidos de League of Graphs, for All Regions, Platinum+, **patch {parche}**.\n\nIf you want to invite this bot to another server, you can use [this link.](https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands)\n\nIf you liked this bot, consider buying the creator a [kofi.](https://www.ko-fi.com/lona9)", False)]
 
@@ -63,7 +63,7 @@ class info(commands.Cog):
 
             embed = Embed(title="Información de Aery")
 
-            fields = [("\u200B", "`ATENCIÓN`: **Aerybot ahora solo funciona con slash commands, debido a los cambios de Discord para desarrollar bots.**\nEscribe `/commands` para ver qué puede hacer Aerybot. Escribe `/language` dentro de un servidor para cambiar el idioma.", False),
+            fields = [("\u200B", "`ATENCIÓN`: **Aerybot ahora solo funciona con slash commands, debido a los cambios de Discord para desarrollar bots.**\nEscribe `/commands` para ver qué puede hacer Aerybot. Escribe `/language` dentro de un servidor para cambiar el idioma. / Escreva `/language`dentro de um servidor para mudar o idioma. / Type `/language` inside a server to change its language.", False),
             ("\u200B", f"**Aerybot** quiere hacer más fácil y rápida la búsqueda de builds y runas para jugar League of Legends. Se actualiza una vez por semana, y toda la información es obtenida de las runas y builds más populares y con mejor winrate de acuerdo a League of Graphs.\n\nEste bot fue actualizado por ultima vez el **{date}**.\n\nLos datos y builds fueron obtenidos de League of Graphs, para Todas las regiones, Platino+, **parche {parche}**.\n\nSi quieres invitar a este bot a otro server, puedes hacerlo con [este link.](https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands)\n\nSi te gustó este bot, considera comprar un [kofi](https://www.ko-fi.com/lona9) a la creadora.", False)]
 
             for name, value, inline in fields:
@@ -173,7 +173,7 @@ class info(commands.Cog):
             await self.logs.send(f"aery commands, guild: {guild_name}")
 
     @commands.hybrid_command(name = "invite",
-    description = "List of commands.")
+    description = "Get an invite link.")
     async def invite(self, ctx: commands.Context) -> None:
         try:
             language = db.record("SELECT GuildLang FROM languages WHERE GuildID = ?", ctx.guild.id)
