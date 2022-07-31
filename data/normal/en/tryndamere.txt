@@ -1,5 +1,5 @@
-**Tryndamere Build ** *(Normal)*
-**Position:** Rota Topo
+**Tryndamere ** *(Normal)*
+**Position:** Top
 **Winrate:** 51.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Grevas do Berserker
-**Start Build:** Sentinela Invisível, Escudo de Doran, Poção de Vida
-**Core Build:** Aljava Vespertina > Força do Vendaval > Adagas Rápidas Navori > Gume do Infinito
-**End Build:** Rancor de Serylda, Anjo Guardião, Dançarina Fantasma
+**Boots:** Berserker's Greaves
+**Start Build:** Stealth Ward, Doran's Shield, Health Potion
+**Core Build:** Noonquiver > Galeforce > Navori Quickblades > Infinity Edge
+**End Build:** Serylda's Grudge, Guardian Angel, Phantom Dancer

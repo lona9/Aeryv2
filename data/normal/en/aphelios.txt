@@ -1,5 +1,5 @@
-**Aphelios Build ** *(Normal)*
-**Position:** Atirador
+**Aphelios ** *(Normal)*
+**Position:** AD Carry
 **Winrate:** 45.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Grevas do Berserker
-**Start Build:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Core Build:** Aljava Vespertina > Força do Vendaval > A Coletora > Gume do Infinito
-**End Build:** Anjo Guardião, Lembranças do Lorde Dominik, Sedenta por Sangue
+**Boots:** Berserker's Greaves
+**Start Build:** Stealth Ward, Doran's Blade, Health Potion
+**Core Build:** Noonquiver > Galeforce > The Collector > Infinity Edge
+**End Build:** Guardian Angel, Lord Dominik's Regards, Bloodthirster

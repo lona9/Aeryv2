@@ -1,5 +1,5 @@
-**Garen Build ** *(Normal)*
-**Position:** Rota Topo
+**Garen ** *(Normal)*
+**Position:** Top
 **Winrate:** 51.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Grevas do Berserker
-**Start Build:** Sentinela Invisível, Escudo de Doran, Poção de Vida
-**Core Build:** Chicote Ferrifarpo > Quebrapassos > Lembrete Mortal > Couraça do Defunto
-**End Build:** Dança da Morte, Cutelo Negro, Força da Natureza
+**Boots:** Berserker's Greaves
+**Start Build:** Stealth Ward, Doran's Shield, Health Potion
+**Core Build:** Ironspike Whip > Stridebreaker > Mortal Reminder > Dead Man's Plate
+**End Build:** Death's Dance, Black Cleaver, Force of Nature

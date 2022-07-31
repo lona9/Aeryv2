@@ -1,5 +1,5 @@
-**Gnar Build ** *(Normal)*
-**Position:** Rota Topo
+**Gnar ** *(Normal)*
+**Position:** Top
 **Winrate:** 48.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Galvanizadas de Aço
-**Start Build:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Core Build:** Machado Termestre > Força da Trindade > Cutelo Negro > Dança da Morte
-**End Build:** Presságio de Randuin, Força da Natureza, Armadura de Espinhos
+**Boots:** Plated Steelcaps
+**Start Build:** Stealth Ward, Doran's Blade, Health Potion
+**Core Build:** Hearthbound Axe > Trinity Force > Black Cleaver > Death's Dance
+**End Build:** Randuin's Omen, Force of Nature, Thornmail

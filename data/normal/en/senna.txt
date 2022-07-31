@@ -1,5 +1,5 @@
-**Senna Build ** *(Normal)*
-**Position:** Suporte
+**Senna ** *(Normal)*
+**Position:** Support
 **Winrate:** 50.0%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runes:** <:pres:804451123825606657> <:insp:804451124207681577>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas da Rapidez
-**Start Build:** Sentinela Invisível, Foice Espectral, Poção de Vida
-**Core Build:** Punhal Serrilhado > Glaive Sombria > Eclipse > Canhão Fumegante
-**End Build:** Lembranças do Lorde Dominik, Gume do Infinito, Lembrete Mortal
+**Boots:** Boots of Swiftness
+**Start Build:** Stealth Ward, Spectral Sickle, Health Potion
+**Core Build:** Serrated Dirk > Umbral Glaive > Eclipse > Rapid Firecannon
+**End Build:** Lord Dominik's Regards, Infinity Edge, Mortal Reminder

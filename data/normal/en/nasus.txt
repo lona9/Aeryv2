@@ -1,5 +1,5 @@
-**Nasus Build ** *(Normal)*
-**Position:** Rota Topo
+**Nasus ** *(Normal)*
+**Position:** Top
 **Winrate:** 48.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
@@ -15,7 +15,7 @@
 >   <:5007:804451180164022312> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Ionianas da Lucidez
-**Start Build:** Sentinela Invisível, Escudo de Doran, Poção de Vida
-**Core Build:** Fulgor > Ruptor Divino > Coração Congelado > Semblante Espiritual
-**End Build:** Placa Gargolítica, Armadura de Espinhos, Couraça do Defunto
+**Boots:** Ionian Boots of Lucidity
+**Start Build:** Stealth Ward, Doran's Shield, Health Potion
+**Core Build:** Sheen > Divine Sunderer > Frozen Heart > Spirit Visage
+**End Build:** Gargoyle Stoneplate, Thornmail, Dead Man's Plate

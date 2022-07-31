@@ -1,5 +1,5 @@
-**Rakan Build ** *(Normal)*
-**Position:** Suporte
+**Rakan ** *(Normal)*
+**Position:** Support
 **Winrate:** 48.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:valor:804451124245561394> <:dom:804451124085522442>
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Ionianas da Lucidez
-**Start Build:** Sentinela Invisível, Escudo Relicário
-**Core Build:** Espelho de Bandópolis > Hino Bélico de Shurelya > Putrificador Quimtec > Convergência de Zeke
-**End Build:** Poção de Vida, Redenção, Juramento do Cavaleiro
+**Boots:** Ionian Boots of Lucidity
+**Start Build:** Stealth Ward, Relic Shield
+**Core Build:** Bandleglass Mirror > Shurelya's Battlesong > Chemtech Putrifier > Zeke's Convergence
+**End Build:** Health Potion, Redemption, Knight's Vow

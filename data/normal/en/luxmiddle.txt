@@ -1,5 +1,5 @@
-**Lux Build Rota do Meio** *(Normal)*
-**Position:** Suporte, Rota do Meio
+**Lux Mid** *(Normal)*
+**Position:** Support, Mid
 **Winrate:** 50.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:bruj:804451124236648478> <:dom:804451124085522442>
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Boots:** Sapatos do Feiticeiro
-**Start Build:** Sentinela Invisível, Anel de Doran, Poção de Vida
-**Core Build:** Capítulo Perdido > Tormenta de Luden > Foco do Horizonte > Ampulheta de Zhonya
-**End Build:** Cajado do Vazio, Capuz da Morte de Rabadon, Chama Sombria
+**Boots:** Sorcerer's Shoes
+**Start Build:** Stealth Ward, Doran's Ring, Health Potion
+**Core Build:** Lost Chapter > Luden's Tempest > Horizon Focus > Zhonya's Hourglass
+**End Build:** Void Staff, Rabadon's Deathcap, Shadowflame

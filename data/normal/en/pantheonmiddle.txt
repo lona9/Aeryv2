@@ -1,5 +1,5 @@
-**Pantheon Build Rota do Meio** *(Normal)*
-**Position:** Selva
+**Pantheon Mid** *(Normal)*
+**Position:** Jungler
 **Winrate:** 53.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:insp:804451124207681577>
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Boots:** Passos de Mercúrio
-**Start Build:** Sentinela Invisível, Poção Corrupta
-**Core Build:** Punhal Serrilhado > Eclipse > Cutelo Negro > Dança da Morte
-**End Build:** Anjo Guardião, Rancor de Serylda, Mandíbula de Malmortius
+**Boots:** Mercury's Treads
+**Start Build:** Stealth Ward, Corrupting Potion
+**Core Build:** Serrated Dirk > Eclipse > Black Cleaver > Death's Dance
+**End Build:** Guardian Angel, Serylda's Grudge, Maw of Malmortius

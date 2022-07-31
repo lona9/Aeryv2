@@ -1,5 +1,5 @@
-**Shyvana Build ** *(Normal)*
-**Position:** Selva, Rota Topo
+**Shyvana ** *(Normal)*
+**Position:** Jungler, Top
 **Winrate:** 52.1%
 **Summoner Spells:** <:Ghost:804555480856002610> <:Teleport:804555481699713034>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Ionianas da Lucidez
-**Start Build:** Sentinela Invisível, Escudo de Doran, Poção de Vida
-**Core Build:** Brasa de Bami > Manopla do Raio de Gelo > Abraço Demoníaco > Armadura de Espinhos
-**End Build:** Força da Natureza, Presságio de Randuin, Ampulheta de Zhonya
+**Boots:** Ionian Boots of Lucidity
+**Start Build:** Stealth Ward, Doran's Shield, Health Potion
+**Core Build:** Bami's Cinder > Frostfire Gauntlet > Demonic Embrace > Thornmail
+**End Build:** Force of Nature, Randuin's Omen, Zhonya's Hourglass

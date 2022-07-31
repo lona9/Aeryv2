@@ -1,4 +1,4 @@
-**LeBlanc  Build - Items / Runes / Matchups - League of Legends" name="twitter:title"/>** *(ARAM)*
+**LeBlanc** *(ARAM)*
 **Winrate:** 40.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:dom:804451124085522442> <:pres:804451123825606657>

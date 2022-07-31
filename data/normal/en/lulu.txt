@@ -1,5 +1,5 @@
-**Lulu Build ** *(Normal)*
-**Position:** Suporte
+**Lulu ** *(Normal)*
+**Position:** Support
 **Winrate:** 50.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Ionianas da Lucidez
-**Start Build:** Sentinela Invisível, Gume do Ladrão Arcano
-**Core Build:** Espelho de Bandópolis > Hino Bélico de Shurelya > Putrificador Quimtec > Turíbulo Ardente
-**End Build:** Poção de Vida, Bênção de Mikael, Cajado Aquafluxo
+**Boots:** Ionian Boots of Lucidity
+**Start Build:** Stealth Ward, Spellthief's Edge
+**Core Build:** Bandleglass Mirror > Shurelya's Battlesong > Chemtech Putrifier > Ardent Censer
+**End Build:** Health Potion, Mikael's Blessing, Staff of Flowing Water

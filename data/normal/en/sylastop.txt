@@ -1,5 +1,5 @@
-**Sylas Build Rota Topo** *(Normal)*
-**Position:** Rota do Meio
+**Sylas Top** *(Normal)*
+**Position:** Mid
 **Winrate:** 50.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:pres:804451123825606657> <:insp:804451124207681577>
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Ionianas da Lucidez
-**Start Build:** Sentinela Invisível, Anel de Doran, Poção de Vida
-**Core Build:** Capítulo Perdido > Glacieterno > Ampulheta de Zhonya > Ímpeto Cósmico
-**End Build:** Capuz da Morte de Rabadon, Cajado do Vazio, Chama Sombria
+**Boots:** Ionian Boots of Lucidity
+**Start Build:** Stealth Ward, Doran's Ring, Health Potion
+**Core Build:** Lost Chapter > Everfrost > Zhonya's Hourglass > Cosmic Drive
+**End Build:** Rabadon's Deathcap, Void Staff, Shadowflame

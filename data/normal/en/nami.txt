@@ -1,5 +1,5 @@
-**Nami Build ** *(Normal)*
-**Position:** Suporte
+**Nami ** *(Normal)*
+**Position:** Support
 **Winrate:** 50.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:dom:804451124085522442> <:bruj:804451124236648478>
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Ionianas da Lucidez
-**Start Build:** Sentinela Invisível, Gume do Ladrão Arcano
-**Core Build:** Espelho de Bandópolis > Mandato Imperial > Putrificador Quimtec > Cajado Aquafluxo
-**End Build:** Poção de Vida, Redenção, Turíbulo Ardente
+**Boots:** Ionian Boots of Lucidity
+**Start Build:** Stealth Ward, Spellthief's Edge
+**Core Build:** Bandleglass Mirror > Imperial Mandate > Chemtech Putrifier > Staff of Flowing Water
+**End Build:** Health Potion, Redemption, Ardent Censer

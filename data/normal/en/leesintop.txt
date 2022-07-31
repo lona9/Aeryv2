@@ -1,5 +1,5 @@
-**Lee Sin Build Rota Topo** *(Normal)*
-**Position:** Selva
+**Lee Sin Top** *(Normal)*
+**Position:** Jungler
 **Winrate:** 42.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Galvanizadas de Aço
-**Start Build:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Core Build:** Chicote Ferrifarpo > Hemodrenário > Cutelo Negro > Dança da Morte
-**End Build:** Anjo Guardião, Armadura de Espinhos, Sinal de Sterak
+**Boots:** Plated Steelcaps
+**Start Build:** Stealth Ward, Doran's Blade, Health Potion
+**Core Build:** Ironspike Whip > Goredrinker > Black Cleaver > Death's Dance
+**End Build:** Guardian Angel, Thornmail, Sterak's Gage

@@ -1,5 +1,5 @@
-**Zyra Build ** *(Normal)*
-**Position:** Suporte
+**Zyra ** *(Normal)*
+**Position:** Support
 **Winrate:** 51.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:bruj:804451124236648478> <:dom:804451124085522442>
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Sapatos do Feiticeiro
-**Start Build:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
-**Core Build:** Capítulo Perdido > Angústia de Liandry > Ampulheta de Zhonya > Morellonomicon
-**End Build:** Cetro de Cristal de Rylai, Capuz da Morte de Rabadon, Cajado do Vazio
+**Boots:** Sorcerer's Shoes
+**Start Build:** Stealth Ward, Spellthief's Edge, Health Potion
+**Core Build:** Lost Chapter > Liandry's Anguish > Zhonya's Hourglass > Morellonomicon
+**End Build:** Rylai's Crystal Scepter, Rabadon's Deathcap, Void Staff

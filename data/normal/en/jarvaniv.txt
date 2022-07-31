@@ -1,5 +1,5 @@
-**Jarvan IV Build ** *(Normal)*
-**Position:** Selva
+**Jarvan IV ** *(Normal)*
+**Position:** Jungler
 **Winrate:** 49.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runes:** <:pres:804451123825606657> <:insp:804451124207681577>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Galvanizadas de Aço
-**Start Build:** Sentinela Invisível, Lâmina Cálida, Poção com Refil
-**Core Build:** Chicote Ferrifarpo > Hemodrenário > Dança da Morte > Anjo Guardião
-**End Build:** Armadura de Espinhos, Mandíbula de Malmortius, Presságio de Randuin
+**Boots:** Plated Steelcaps
+**Start Build:** Stealth Ward, Emberknife, Refillable Potion
+**Core Build:** Ironspike Whip > Goredrinker > Death's Dance > Guardian Angel
+**End Build:** Thornmail, Maw of Malmortius, Randuin's Omen

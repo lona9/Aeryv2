@@ -1,5 +1,5 @@
-**Ryze Build Rota do Meio** *(Normal)*
-**Position:** Rota do Meio
+**Ryze Mid** *(Normal)*
+**Position:** Mid
 **Winrate:** 44.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Boots:** Sapatos do Feiticeiro
-**Start Build:** Sentinela Invisível, Lágrima da Deusa, Poção de Vida
-**Core Build:** Capítulo Perdido > Glacieterno > Cajado do Arcanjo > Ampulheta de Zhonya
-**End Build:** Capuz da Morte de Rabadon, Cajado do Vazio, Coração Congelado
+**Boots:** Sorcerer's Shoes
+**Start Build:** Stealth Ward, Tear of the Goddess, Health Potion
+**Core Build:** Lost Chapter > Everfrost > Archangel's Staff > Zhonya's Hourglass
+**End Build:** Rabadon's Deathcap, Void Staff, Frozen Heart

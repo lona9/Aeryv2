@@ -1,5 +1,5 @@
-**Ashe Build ** *(Normal)*
-**Position:** Suporte, Atirador
+**Ashe ** *(Normal)*
+**Position:** Support, AD Carry
 **Winrate:** 50.5%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runes:** <:bruj:804451124236648478> <:dom:804451124085522442>
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Ionianas da Lucidez
-**Start Build:** Sentinela Invisível, Foice Espectral, Poção de Vida
-**Core Build:** Espelho de Bandópolis > Mandato Imperial > Manamune > Serrespada Quimiopunk
-**End Build:** Anjo Guardião, Lembranças do Lorde Dominik, Furacão de Runaan
+**Boots:** Ionian Boots of Lucidity
+**Start Build:** Stealth Ward, Spectral Sickle, Health Potion
+**Core Build:** Bandleglass Mirror > Imperial Mandate > Manamune > Chempunk Chainsword
+**End Build:** Guardian Angel, Lord Dominik's Regards, Runaan's Hurricane

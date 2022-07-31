@@ -1,5 +1,5 @@
-**Evelynn Build ** *(Normal)*
-**Position:** Selva
+**Evelynn ** *(Normal)*
+**Position:** Jungler
 **Winrate:** 49.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runes:** <:dom:804451124085522442> <:bruj:804451124236648478>
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Sapatos do Feiticeiro
-**Start Build:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
-**Core Build:** Varinha Explosiva > Explocinturão Hextec > Ladrão de Almas de Mejai > Capuz da Morte de Rabadon
-**End Build:** Cajado do Vazio, Véu da Banshee, Chama Sombria
+**Boots:** Sorcerer's Shoes
+**Start Build:** Stealth Ward, Hailblade, Refillable Potion
+**Core Build:** Blasting Wand > Hextech Rocketbelt > Mejai's Soulstealer > Rabadon's Deathcap
+**End Build:** Void Staff, Banshee's Veil, Shadowflame

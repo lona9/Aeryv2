@@ -1,5 +1,5 @@
-**Vayne Build ** *(Normal)*
-**Position:** Atirador
+**Vayne ** *(Normal)*
+**Position:** AD Carry
 **Winrate:** 49.3%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Grevas do Berserker
-**Start Build:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Core Build:** Aljava Vespertina > Arco-escudo Imortal > Lâmina da Fúria de Guinsoo > Limite da Razão
-**End Build:** Anjo Guardião, Presságio de Randuin, Cimitarra Mercurial
+**Boots:** Berserker's Greaves
+**Start Build:** Stealth Ward, Doran's Blade, Health Potion
+**Core Build:** Noonquiver > Immortal Shieldbow > Guinsoo's Rageblade > Wit's End
+**End Build:** Guardian Angel, Randuin's Omen, Mercurial Scimitar

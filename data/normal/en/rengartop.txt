@@ -1,5 +1,5 @@
-**Rengar Build Rota Topo** *(Normal)*
-**Position:** Selva, Rota Topo
+**Rengar Top** *(Normal)*
+**Position:** Jungler, Top
 **Winrate:** 51.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Galvanizadas de Aço
-**Start Build:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Core Build:** Punhal Serrilhado > Eclipse > Colhedor de Essência > Lembranças do Lorde Dominik
-**End Build:** Gume do Infinito, Anjo Guardião, Rancor de Serylda
+**Boots:** Plated Steelcaps
+**Start Build:** Stealth Ward, Doran's Blade, Health Potion
+**Core Build:** Serrated Dirk > Eclipse > Essence Reaver > Lord Dominik's Regards
+**End Build:** Infinity Edge, Guardian Angel, Serylda's Grudge

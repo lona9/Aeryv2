@@ -1,5 +1,5 @@
-**Jhin Build ** *(Normal)*
-**Position:** Atirador
+**Jhin ** *(Normal)*
+**Position:** AD Carry
 **Winrate:** 51.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runes:** <:pres:804451123825606657> <:insp:804451124207681577>
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas da Rapidez
-**Start Build:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Core Build:** Aljava Vespertina > Força do Vendaval > A Coletora > Canhão Fumegante
-**End Build:** Anjo Guardião, Lembranças do Lorde Dominik, Gume do Infinito
+**Boots:** Boots of Swiftness
+**Start Build:** Stealth Ward, Doran's Blade, Health Potion
+**Core Build:** Noonquiver > Galeforce > The Collector > Rapid Firecannon
+**End Build:** Guardian Angel, Lord Dominik's Regards, Infinity Edge

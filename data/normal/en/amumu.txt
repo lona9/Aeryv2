@@ -1,5 +1,5 @@
-**Amumu Build ** *(Normal)*
-**Position:** Selva, Suporte
+**Amumu ** *(Normal)*
+**Position:** Jungler, Support
 **Winrate:** 52.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Galvanizadas de Aço
-**Start Build:** Sentinela Invisível, Escudo Relicário, Poção de Vida
-**Core Build:** Brasa de Bami > Égide de Fogo Solar > Abraço Demoníaco > Armadura de Espinhos
-**End Build:** Placa Gargolítica, Coração Congelado, Força da Natureza
+**Boots:** Plated Steelcaps
+**Start Build:** Stealth Ward, Relic Shield, Health Potion
+**Core Build:** Bami's Cinder > Sunfire Aegis > Demonic Embrace > Thornmail
+**End Build:** Gargoyle Stoneplate, Frozen Heart, Force of Nature

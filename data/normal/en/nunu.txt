@@ -1,5 +1,5 @@
-**Nunu e Willump Build ** *(Normal)*
-**Position:** Selva
+**Nunu &amp; Willump ** *(Normal)*
+**Position:** Jungler
 **Winrate:** 50.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runes:** <:bruj:804451124236648478> <:pres:804451123825606657>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Galvanizadas de Aço
-**Start Build:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
-**Core Build:** Brasa de Bami > Égide de Fogo Solar > Armadura de Espinhos > Semblante Espiritual
-**End Build:** Ampulheta de Zhonya, Capuz da Morte de Rabadon, Ladrão de Almas de Mejai
+**Boots:** Plated Steelcaps
+**Start Build:** Stealth Ward, Hailblade, Refillable Potion
+**Core Build:** Bami's Cinder > Sunfire Aegis > Thornmail > Spirit Visage
+**End Build:** Zhonya's Hourglass, Rabadon's Deathcap, Mejai's Soulstealer

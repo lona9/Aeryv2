@@ -1,5 +1,5 @@
-**Swain Build ** *(Normal)*
-**Position:** Suporte, Rota do Meio
+**Swain ** *(Normal)*
+**Position:** Support, Mid
 **Winrate:** 51.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Boots:** Sapatos do Feiticeiro
-**Start Build:** Sentinela Invisível, Anel de Doran, Poção de Vida
-**Core Build:** Capítulo Perdido > Angústia de Liandry > Ampulheta de Zhonya > Cetro de Cristal de Rylai
-**End Build:** Abraço Demoníaco, Semblante Espiritual, Morellonomicon
+**Boots:** Sorcerer's Shoes
+**Start Build:** Stealth Ward, Doran's Ring, Health Potion
+**Core Build:** Lost Chapter > Liandry's Anguish > Zhonya's Hourglass > Rylai's Crystal Scepter
+**End Build:** Demonic Embrace, Spirit Visage, Morellonomicon

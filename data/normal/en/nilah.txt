@@ -1,5 +1,5 @@
-**Nilah Build ** *(Normal)*
-**Position:** Atirador
+**Nilah ** *(Normal)*
+**Position:** AD Carry
 **Winrate:** 49.9%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Grevas do Berserker
-**Start Build:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Core Build:** Aljava Vespertina > Arco-escudo Imortal > Dançarina Fantasma > Gume do Infinito
-**End Build:** Anjo Guardião, Dança da Morte, Sedenta por Sangue
+**Boots:** Berserker's Greaves
+**Start Build:** Stealth Ward, Doran's Blade, Health Potion
+**Core Build:** Noonquiver > Immortal Shieldbow > Phantom Dancer > Infinity Edge
+**End Build:** Guardian Angel, Death's Dance, Bloodthirster

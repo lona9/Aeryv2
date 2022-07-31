@@ -1,5 +1,5 @@
-**Jax Build ** *(Normal)*
-**Position:** Rota Topo
+**Jax ** *(Normal)*
+**Position:** Top
 **Winrate:** 48.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:pres:804451123825606657> <:insp:804451124207681577>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Galvanizadas de Aço
-**Start Build:** Sentinela Invisível, Poção Corrupta
-**Core Build:** Fulgor > Ruptor Divino > Espada do Rei Destruído > Dança da Morte
-**End Build:** Anjo Guardião, Mandíbula de Malmortius, Coração Congelado
+**Boots:** Plated Steelcaps
+**Start Build:** Stealth Ward, Corrupting Potion
+**Core Build:** Sheen > Divine Sunderer > Blade of The Ruined King > Death's Dance
+**End Build:** Guardian Angel, Maw of Malmortius, Frozen Heart

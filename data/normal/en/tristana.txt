@@ -1,5 +1,5 @@
-**Tristana Build ** *(Normal)*
-**Position:** Atirador
+**Tristana ** *(Normal)*
+**Position:** AD Carry
 **Winrate:** 50.1%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runes:** <:dom:804451124085522442> <:pres:804451123825606657>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Grevas do Berserker
-**Start Build:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Core Build:** Aljava Vespertina > Mata-Cráquens > Dançarina Fantasma > Gume do Infinito
-**End Build:** Anjo Guardião, Sedenta por Sangue, Lembranças do Lorde Dominik
+**Boots:** Berserker's Greaves
+**Start Build:** Stealth Ward, Doran's Blade, Health Potion
+**Core Build:** Noonquiver > Kraken Slayer > Phantom Dancer > Infinity Edge
+**End Build:** Guardian Angel, Bloodthirster, Lord Dominik's Regards

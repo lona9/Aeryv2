@@ -1,5 +1,5 @@
-**Leona Build ** *(Normal)*
-**Position:** Suporte
+**Leona ** *(Normal)*
+**Position:** Support
 **Winrate:** 48.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:valor:804451124245561394> <:insp:804451124207681577>
@@ -15,7 +15,7 @@
 >   <:5007:804451180164022312> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Galvanizadas de Aço
-**Start Build:** Sentinela Invisível
-**Core Build:** Gema Ardente > Medalhão dos Solari de Ferro > Convergência de Zeke > Juramento do Cavaleiro
-**End Build:** Escudo Relicário, Poção de Vida, Armadura de Espinhos
+**Boots:** Plated Steelcaps
+**Start Build:** Stealth Ward
+**Core Build:** Kindlegem > Locket of the Iron Solari > Zeke's Convergence > Knight's Vow
+**End Build:** Relic Shield, Health Potion, Thornmail

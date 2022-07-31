@@ -1,5 +1,5 @@
-**Tahm Kench Build Suporte** *(Normal)*
-**Position:** Rota Topo, Suporte
+**Tahm Kench Support** *(Normal)*
+**Position:** Top, Support
 **Winrate:** 48.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:valor:804451124245561394> <:insp:804451124207681577>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Galvanizadas de Aço
-**Start Build:** Sentinela Invisível
-**Core Build:** Brasa de Bami > Manopla do Raio de Gelo > Armadura de Espinhos > Semblante Espiritual
-**End Build:** Escudo Relicário, Poção de Vida, Juramento do Cavaleiro
+**Boots:** Plated Steelcaps
+**Start Build:** Stealth Ward
+**Core Build:** Bami's Cinder > Frostfire Gauntlet > Thornmail > Spirit Visage
+**End Build:** Relic Shield, Health Potion, Knight's Vow

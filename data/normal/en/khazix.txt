@@ -1,5 +1,5 @@
-**Kha'Zix Build ** *(Normal)*
-**Position:** Selva
+**Kha'Zix ** *(Normal)*
+**Position:** Jungler
 **Winrate:** 50.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runes:** <:insp:804451124207681577> <:dom:804451124085522442>
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Galvanizadas de Aço
-**Start Build:** Sentinela Invisível, Lâmina Cálida, Poção com Refil
-**Core Build:** Punhal Serrilhado > Crepúsculo de Draktharr > Lâmina Fantasma de Youmuu > Limiar da Noite
-**End Build:** Anjo Guardião, Rancor de Serylda, Cutelo Negro
+**Boots:** Plated Steelcaps
+**Start Build:** Stealth Ward, Emberknife, Refillable Potion
+**Core Build:** Serrated Dirk > Duskblade of Draktharr > Youmuu's Ghostblade > Edge of Night
+**End Build:** Guardian Angel, Serylda's Grudge, Black Cleaver

@@ -1,5 +1,5 @@
-**Shaco Build Suporte** *(Normal)*
-**Position:** Selva
+**Shaco Support** *(Normal)*
+**Position:** Jungler
 **Winrate:** 50.1%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Ignite:804555481167298570>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
@@ -15,7 +15,7 @@
 >   <:5007:804451180164022312> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Ionianas da Lucidez
-**Start Build:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
-**Core Build:** Capítulo Perdido > Angústia de Liandry > Abraço Demoníaco > Ampulheta de Zhonya
-**End Build:** Cajado do Vazio, Morellonomicon, Ímpeto Cósmico
+**Boots:** Ionian Boots of Lucidity
+**Start Build:** Stealth Ward, Spellthief's Edge, Health Potion
+**Core Build:** Lost Chapter > Liandry's Anguish > Demonic Embrace > Zhonya's Hourglass
+**End Build:** Void Staff, Morellonomicon, Cosmic Drive

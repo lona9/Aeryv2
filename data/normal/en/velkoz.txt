@@ -1,5 +1,5 @@
-**Vel'Koz Build ** *(Normal)*
-**Position:** Suporte, Rota do Meio
+**Vel'Koz ** *(Normal)*
+**Position:** Support, Mid
 **Winrate:** 51.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Sapatos do Feiticeiro
-**Start Build:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
-**Core Build:** Capítulo Perdido > Tormenta de Luden > Ampulheta de Zhonya > Chama Sombria
-**End Build:** Capuz da Morte de Rabadon, Cajado do Vazio, Morellonomicon
+**Boots:** Sorcerer's Shoes
+**Start Build:** Stealth Ward, Spellthief's Edge, Health Potion
+**Core Build:** Lost Chapter > Luden's Tempest > Zhonya's Hourglass > Shadowflame
+**End Build:** Rabadon's Deathcap, Void Staff, Morellonomicon

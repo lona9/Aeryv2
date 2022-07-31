@@ -1,5 +1,5 @@
-**Lucian Build Rota do Meio** *(Normal)*
-**Position:** Atirador
+**Lucian Mid** *(Normal)*
+**Position:** AD Carry
 **Winrate:** 47.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:insp:804451124207681577>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Boots:** Grevas do Berserker
-**Start Build:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Core Build:** Aljava Vespertina > Força do Vendaval > A Coletora > Rancor de Serylda
-**End Build:** Anjo Guardião, Gume do Infinito, Lembranças do Lorde Dominik
+**Boots:** Berserker's Greaves
+**Start Build:** Stealth Ward, Doran's Blade, Health Potion
+**Core Build:** Noonquiver > Galeforce > The Collector > Serylda's Grudge
+**End Build:** Guardian Angel, Infinity Edge, Lord Dominik's Regards

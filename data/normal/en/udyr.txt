@@ -1,5 +1,5 @@
-**Udyr Build ** *(Normal)*
-**Position:** Selva
+**Udyr ** *(Normal)*
+**Position:** Jungler
 **Winrate:** 48.3%
 **Summoner Spells:** <:Ghost:804555480856002610> <:Smite:804555481494061086>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5001:804451180112642088>
 
 **Build**
-**Boots:** Botas Galvanizadas de Aço
-**Start Build:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
-**Core Build:** Brasa de Bami > Égide de Fogo Solar > Coração Congelado > Força da Natureza
-**End Build:** Armadura de Espinhos, Ladrão de Almas de Mejai, Couraça do Defunto
+**Boots:** Plated Steelcaps
+**Start Build:** Stealth Ward, Hailblade, Refillable Potion
+**Core Build:** Bami's Cinder > Sunfire Aegis > Frozen Heart > Force of Nature
+**End Build:** Thornmail, Mejai's Soulstealer, Dead Man's Plate

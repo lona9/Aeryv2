@@ -25,11 +25,11 @@ class builds(commands.Cog):
 
         if champ == ():
             if language == 'EN':
-                await ctx.send('¡You must type a champ name after `aery aram`!')
+                await ctx.send('¡You must type a champ name after `/aram`!')
             elif language == 'PT':
-                await ctx.send('Você deve escrever o nome de um champ após `aery aram`!')
+                await ctx.send('Você deve escrever o nome de um champ após `/aram`!')
             else:
-                await ctx.send('¡Debes escribir el nombre de un champ después de `aery aram`!')
+                await ctx.send('¡Debes escribir el nombre de un champ después de `/aram`!')
 
         else:
             charsearch = "".join(champ).lower().replace("'", "").replace(".", "")
@@ -198,7 +198,7 @@ class builds(commands.Cog):
 
             def filename(x):
                 if language == "EN":
-                    arampath = '/root/aery/data/aram/sp/'
+                    arampath = '/root/aery/data/aram/en/'
                     extension = '.txt'
                     file = arampath + x + extension
 
@@ -221,7 +221,7 @@ class builds(commands.Cog):
                     path = filename(key)
 
                     counter += 1
-                    with open(path, encoding="utf-8") as f:
+                    with open(path, encoding="latin-1") as f:
                         text = f.read()
                         await ctx.send(text)
 
@@ -265,11 +265,11 @@ class builds(commands.Cog):
 
         if champ == ():
             if language == 'EN':
-                await ctx.send('¡You must type a champ name after `aery normal`!')
+                await ctx.send('¡You must type a champ name after `/normal`!')
             elif language == 'PT':
-                await ctx.send('Você deve escrever o nome de um champ após `aery normal`!')
+                await ctx.send('Você deve escrever o nome de um champ após `/normal`!')
             else:
-                await ctx.send('¡Debes escribir el nombre de un champ después de `aery normal`!')
+                await ctx.send('¡Debes escribir el nombre de un champ después de `/normal`!')
 
         else:
             charsearch = champ.lower().replace("'", "").replace(".", "").replace(" ", "")
@@ -529,7 +529,7 @@ class builds(commands.Cog):
                     path = filename(key)
 
                     counter += 1
-                    with open(path, encoding="utf-8") as f:
+                    with open(path, encoding="latin-1") as f:
                         text = f.read()
                         await ctx.send(text)
 

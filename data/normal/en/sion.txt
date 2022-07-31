@@ -1,5 +1,5 @@
-**Sion Build ** *(Normal)*
-**Position:** Rota Topo
+**Sion ** *(Normal)*
+**Position:** Top
 **Winrate:** 49.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:valor:804451124245561394> <:insp:804451124207681577>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Galvanizadas de Aço
-**Start Build:** Sentinela Invisível, Poção Corrupta
-**Core Build:** Punhal Serrilhado > Garra do Espreitador > Lâmina Fantasma de Youmuu > Lembranças do Lorde Dominik
-**End Build:** Gume do Infinito, Armadura de Espinhos, Placa Gargolítica
+**Boots:** Plated Steelcaps
+**Start Build:** Stealth Ward, Corrupting Potion
+**Core Build:** Serrated Dirk > Prowler's Claw > Youmuu's Ghostblade > Lord Dominik's Regards
+**End Build:** Infinity Edge, Thornmail, Gargoyle Stoneplate

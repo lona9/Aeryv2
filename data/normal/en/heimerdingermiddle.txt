@@ -1,5 +1,5 @@
-**Heimerdinger Build Rota do Meio** *(Normal)*
-**Position:** Rota do Meio, Rota Topo
+**Heimerdinger Mid** *(Normal)*
+**Position:** Mid, Top
 **Winrate:** 54.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Boots:** Sapatos do Feiticeiro
-**Start Build:** Sentinela Invisível, Anel de Doran, Poção de Vida
-**Core Build:** Capítulo Perdido > Angústia de Liandry > Ampulheta de Zhonya > Cetro de Cristal de Rylai
-**End Build:** Cajado do Vazio, Morellonomicon, Capuz da Morte de Rabadon
+**Boots:** Sorcerer's Shoes
+**Start Build:** Stealth Ward, Doran's Ring, Health Potion
+**Core Build:** Lost Chapter > Liandry's Anguish > Zhonya's Hourglass > Rylai's Crystal Scepter
+**End Build:** Void Staff, Morellonomicon, Rabadon's Deathcap

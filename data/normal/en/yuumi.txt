@@ -1,5 +1,5 @@
-**Yuumi Build ** *(Normal)*
-**Position:** Suporte
+**Yuumi ** *(Normal)*
+**Position:** Support
 **Winrate:** 49.8%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Ignite:804555481167298570>
 **Runes:** <:bruj:804451124236648478> <:pres:804451123825606657>
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Ionianas da Lucidez
-**Start Build:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
-**Core Build:** Espelho de Bandópolis > Regenerador de Pedra Lunar > Putrificador Quimtec > Cajado Aquafluxo
-**End Build:** Turíbulo Ardente, Bênção de Mikael, Redenção
+**Boots:** Ionian Boots of Lucidity
+**Start Build:** Stealth Ward, Spellthief's Edge, Health Potion
+**Core Build:** Bandleglass Mirror > Moonstone Renewer > Chemtech Putrifier > Staff of Flowing Water
+**End Build:** Ardent Censer, Mikael's Blessing, Redemption

@@ -1,5 +1,5 @@
-**Xerath Build ** *(Normal)*
-**Position:** Suporte, Rota do Meio
+**Xerath ** *(Normal)*
+**Position:** Support, Mid
 **Winrate:** 51.0%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runes:** <:insp:804451124207681577> <:bruj:804451124236648478>
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Sapatos do Feiticeiro
-**Start Build:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
-**Core Build:** Capítulo Perdido > Tormenta de Luden > Foco do Horizonte > Capuz da Morte de Rabadon
-**End Build:** Cajado do Vazio, Chama Sombria, Ampulheta de Zhonya
+**Boots:** Sorcerer's Shoes
+**Start Build:** Stealth Ward, Spellthief's Edge, Health Potion
+**Core Build:** Lost Chapter > Luden's Tempest > Horizon Focus > Rabadon's Deathcap
+**End Build:** Void Staff, Shadowflame, Zhonya's Hourglass

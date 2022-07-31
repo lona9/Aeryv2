@@ -1,5 +1,5 @@
-**Akali Build Rota Topo** *(Normal)*
-**Position:** Rota do Meio, Rota Topo
+**Akali Top** *(Normal)*
+**Position:** Mid, Top
 **Winrate:** 47.8%
 **Summoner Spells:** <:Teleport:804555481699713034> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Sapatos do Feiticeiro
-**Start Build:** Sentinela Invisível, Escudo de Doran, Poção de Vida
-**Core Build:** Alternador Hextec > Explocinturão Hextec > Chama Sombria > Ampulheta de Zhonya
-**End Build:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon
+**Boots:** Sorcerer's Shoes
+**Start Build:** Stealth Ward, Doran's Shield, Health Potion
+**Core Build:** Hextech Alternator > Hextech Rocketbelt > Shadowflame > Zhonya's Hourglass
+**End Build:** Void Staff, Rabadon's Deathcap, Morellonomicon

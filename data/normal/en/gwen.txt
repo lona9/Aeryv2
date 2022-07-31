@@ -1,5 +1,5 @@
-**Gwen Build ** *(Normal)*
-**Position:** Rota Topo
+**Gwen ** *(Normal)*
+**Position:** Top
 **Winrate:** 48.6%
 **Summoner Spells:** <:Teleport:804555481699713034> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Galvanizadas de Aço
-**Start Build:** Sentinela Invisível, Anel de Doran, Poção de Vida
-**Core Build:** Olhar Sanguessuga > Criafendas > Dente de Na'Shor > Ampulheta de Zhonya
-**End Build:** Capuz da Morte de Rabadon, Ímpeto Cósmico, Morellonomicon
+**Boots:** Plated Steelcaps
+**Start Build:** Stealth Ward, Doran's Ring, Health Potion
+**Core Build:** Leeching Leer > Riftmaker > Nashor's Tooth > Zhonya's Hourglass
+**End Build:** Rabadon's Deathcap, Cosmic Drive, Morellonomicon

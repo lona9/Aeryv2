@@ -1,5 +1,5 @@
-**Braum Build ** *(Normal)*
-**Position:** Suporte
+**Braum ** *(Normal)*
+**Position:** Support
 **Winrate:** 48.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:valor:804451124245561394> <:insp:804451124207681577>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Galvanizadas de Aço
-**Start Build:** Sentinela Invisível
-**Core Build:** Gema Ardente > Medalhão dos Solari de Ferro > Juramento do Cavaleiro > Convergência de Zeke
-**End Build:** Escudo Relicário, Poção de Vida, Armadura de Espinhos
+**Boots:** Plated Steelcaps
+**Start Build:** Stealth Ward
+**Core Build:** Kindlegem > Locket of the Iron Solari > Knight's Vow > Zeke's Convergence
+**End Build:** Relic Shield, Health Potion, Thornmail

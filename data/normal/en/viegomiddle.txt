@@ -1,5 +1,5 @@
-**Viego Build Rota do Meio** *(Normal)*
-**Position:** Selva
+**Viego Mid** *(Normal)*
+**Position:** Jungler
 **Winrate:** 49.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Boots:** Passos de Mercúrio
-**Start Build:** Sentinela Invisível, Escudo de Doran, Poção de Vida
-**Core Build:** Cetro Vampírico > Espada do Rei Destruído > Ruptor Divino > Dança da Morte
-**End Build:** Anjo Guardião, Limite da Razão, Gume do Infinito
+**Boots:** Mercury's Treads
+**Start Build:** Stealth Ward, Doran's Shield, Health Potion
+**Core Build:** Vampiric Scepter > Blade of The Ruined King > Divine Sunderer > Death's Dance
+**End Build:** Guardian Angel, Wit's End, Infinity Edge

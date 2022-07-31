@@ -1,5 +1,5 @@
-**Sett Build Suporte** *(Normal)*
-**Position:** Rota Topo
+**Sett Support** *(Normal)*
+**Position:** Top
 **Winrate:** 47.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas da Rapidez
-**Start Build:** Sentinela Invisível
-**Core Build:** Brasa de Bami > Quimiotanque Turbo > Couraça do Defunto > Armadura de Espinhos
-**End Build:** Guarda-ombros de Aço, Poção de Vida, Força da Natureza
+**Boots:** Boots of Swiftness
+**Start Build:** Stealth Ward
+**Core Build:** Bami's Cinder > Turbo Chemtank > Dead Man's Plate > Thornmail
+**End Build:** Steel Shoulderguards, Health Potion, Force of Nature

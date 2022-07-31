@@ -1,5 +1,5 @@
-**Thresh Build ** *(Normal)*
-**Position:** Suporte
+**Thresh ** *(Normal)*
+**Position:** Support
 **Winrate:** 47.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:insp:804451124207681577> <:valor:804451124245561394>
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas da Mobilidade
-**Start Build:** Sentinela Invisível
-**Core Build:** Gema Ardente > Medalhão dos Solari de Ferro > Convergência de Zeke > Juramento do Cavaleiro
-**End Build:** Guarda-ombros de Aço, Poção de Vida, Armadura de Espinhos
+**Boots:** Mobility Boots
+**Start Build:** Stealth Ward
+**Core Build:** Kindlegem > Locket of the Iron Solari > Zeke's Convergence > Knight's Vow
+**End Build:** Steel Shoulderguards, Health Potion, Thornmail

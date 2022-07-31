@@ -1,5 +1,5 @@
-**Vex Build ** *(Normal)*
-**Position:** Rota do Meio
+**Vex ** *(Normal)*
+**Position:** Mid
 **Winrate:** 51.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:dom:804451124085522442> <:insp:804451124207681577>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Boots:** Cajado do Vazio
-**Start Build:** Sentinela Invisível, Poção Corrupta
-**Core Build:** Glacieterno > Chama Sombria > Ampulheta de Zhonya > Sapatos do Feiticeiro
-**End Build:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon
+**Boots:** Void Staff
+**Start Build:** Stealth Ward, Corrupting Potion
+**Core Build:** Everfrost > Shadowflame > Zhonya's Hourglass > Sorcerer's Shoes
+**End Build:** Void Staff, Rabadon's Deathcap, Morellonomicon

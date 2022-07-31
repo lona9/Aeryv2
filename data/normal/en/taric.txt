@@ -1,5 +1,5 @@
-**Taric Build ** *(Normal)*
-**Position:** Suporte
+**Taric ** *(Normal)*
+**Position:** Support
 **Winrate:** 54.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:valor:804451124245561394> <:pres:804451123825606657>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Galvanizadas de Aço
-**Start Build:** Sentinela Invisível
-**Core Build:** Gema Ardente > Medalhão dos Solari de Ferro > Aproximação Invernal > Coração Congelado
-**End Build:** Escudo Relicário, Poção de Vida, Convergência de Zeke
+**Boots:** Plated Steelcaps
+**Start Build:** Stealth Ward
+**Core Build:** Kindlegem > Locket of the Iron Solari > Winter's Approach > Frozen Heart
+**End Build:** Relic Shield, Health Potion, Zeke's Convergence

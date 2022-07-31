@@ -29,9 +29,9 @@ class MyBot(commands.Bot):
         self.ready = False
 
         super().__init__(
-        command_prefix = 'aeryy ',
-        intents = discord.Intents.all(),
-        application_id = 989739264747139103
+        command_prefix = 'aery ',
+        intents = discord.Intents.default(),
+        application_id = 804475973579833374
         )
 
     async def setup_hook(self):
@@ -85,7 +85,7 @@ class MyBot(commands.Bot):
 
             self.ready = True
 
-            game = discord.Game("aery help or /help")
+            game = discord.Game("/help - REINVITAR SI NO RESPONDE")
             await self.change_presence(status=discord.Status.online, activity=game)
         else:
             print("aery reconnected")

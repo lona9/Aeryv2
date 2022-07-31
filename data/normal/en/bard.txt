@@ -1,5 +1,5 @@
-**Bardo Build ** *(Normal)*
-**Position:** Suporte
+**Bard ** *(Normal)*
+**Position:** Support
 **Winrate:** 50.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:valor:804451124245561394> <:dom:804451124085522442>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas da Rapidez
-**Start Build:** Sentinela Invisível
-**Core Build:** Gema Ardente > Medalhão dos Solari de Ferro > Couraça do Defunto > Putrificador Quimtec
-**End Build:** Gume do Ladrão Arcano, Poção de Vida, Redenção
+**Boots:** Boots of Swiftness
+**Start Build:** Stealth Ward
+**Core Build:** Kindlegem > Locket of the Iron Solari > Dead Man's Plate > Chemtech Putrifier
+**End Build:** Spellthief's Edge, Health Potion, Redemption

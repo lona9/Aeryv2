@@ -1,5 +1,5 @@
-**Riven Build ** *(Normal)*
-**Position:** Rota Topo
+**Riven ** *(Normal)*
+**Position:** Top
 **Winrate:** 50.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Ionianas da Lucidez
-**Start Build:** Sentinela Invisível, Espada Longa, Poção de Vida
-**Core Build:** Martelo de Guerra de Caulfield > Hemodrenário > Cutelo Negro > Dança da Morte
-**End Build:** Anjo Guardião, Rancor de Serylda, Mandíbula de Malmortius
+**Boots:** Ionian Boots of Lucidity
+**Start Build:** Stealth Ward, Long Sword, Health Potion
+**Core Build:** Caulfield's Warhammer > Goredrinker > Black Cleaver > Death's Dance
+**End Build:** Guardian Angel, Serylda's Grudge, Maw of Malmortius

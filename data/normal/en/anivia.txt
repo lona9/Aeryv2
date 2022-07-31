@@ -1,5 +1,5 @@
-**Anivia Build ** *(Normal)*
-**Position:** Rota do Meio
+**Anivia ** *(Normal)*
+**Position:** Mid
 **Winrate:** 51.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:dom:804451124085522442> <:pres:804451123825606657>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Boots:** Sapatos do Feiticeiro
-**Start Build:** Sentinela Invisível, Anel de Doran, Poção de Vida
-**Core Build:** Capítulo Perdido > Glacieterno > Cajado do Arcanjo > Ampulheta de Zhonya
-**End Build:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon
+**Boots:** Sorcerer's Shoes
+**Start Build:** Stealth Ward, Doran's Ring, Health Potion
+**Core Build:** Lost Chapter > Everfrost > Archangel's Staff > Zhonya's Hourglass
+**End Build:** Void Staff, Rabadon's Deathcap, Morellonomicon

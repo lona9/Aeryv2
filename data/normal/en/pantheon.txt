@@ -1,5 +1,5 @@
-**Pantheon Build ** *(Normal)*
-**Position:** Selva
+**Pantheon ** *(Normal)*
+**Position:** Jungler
 **Winrate:** 48.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Dança da Morte
-**Start Build:** Sentinela Invisível, Lâmina Cálida, Poção com Refil
-**Core Build:** Poção com Refil > Punhal Serrilhado > Eclipse > Cutelo Negro
-**End Build:** Anjo Guardião, Rancor de Serylda, Mandíbula de Malmortius
+**Boots:** Death's Dance
+**Start Build:** Stealth Ward, Emberknife, Refillable Potion
+**Core Build:** Refillable Potion > Serrated Dirk > Eclipse > Black Cleaver
+**End Build:** Guardian Angel, Serylda's Grudge, Maw of Malmortius

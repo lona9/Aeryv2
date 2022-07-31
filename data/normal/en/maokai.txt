@@ -1,5 +1,5 @@
-**Maokai Build ** *(Normal)*
-**Position:** Suporte, Rota Topo
+**Maokai ** *(Normal)*
+**Position:** Support, Top
 **Winrate:** 51.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:valor:804451124245561394> <:insp:804451124207681577>
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Galvanizadas de Aço
-**Start Build:** Sentinela Invisível, Escudo Relicário
-**Core Build:** Brasa de Bami > Égide de Fogo Solar > Aproximação Invernal > Armadura de Espinhos
-**End Build:** Poção de Vida, Abraço Demoníaco, Couraça do Defunto
+**Boots:** Plated Steelcaps
+**Start Build:** Stealth Ward, Relic Shield
+**Core Build:** Bami's Cinder > Sunfire Aegis > Winter's Approach > Thornmail
+**End Build:** Health Potion, Demonic Embrace, Dead Man's Plate

@@ -1,5 +1,5 @@
-**Talon Build ** *(Normal)*
-**Position:** Selva, Rota do Meio
+**Talon ** *(Normal)*
+**Position:** Jungler, Mid
 **Winrate:** 50.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:insp:804451124207681577> <:dom:804451124085522442>
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Ionianas da Lucidez
-**Start Build:** Sentinela Invisível, Espada Longa, Poção com Refil
-**Core Build:** Punhal Serrilhado > Lâmina Fantasma de Youmuu > Eclipse > Rancor de Serylda
-**End Build:** Anjo Guardião, Dança da Morte, Limiar da Noite
+**Boots:** Ionian Boots of Lucidity
+**Start Build:** Stealth Ward, Long Sword, Refillable Potion
+**Core Build:** Serrated Dirk > Youmuu's Ghostblade > Eclipse > Serylda's Grudge
+**End Build:** Guardian Angel, Death's Dance, Edge of Night

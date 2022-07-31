@@ -1,5 +1,5 @@
-**Volibear Build Rota Topo** *(Normal)*
-**Position:** Selva, Rota Topo
+**Volibear Top** *(Normal)*
+**Position:** Jungler, Top
 **Winrate:** 49.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Galvanizadas de Aço
-**Start Build:** Sentinela Invisível, Anel de Doran, Poção de Vida
-**Core Build:** Brasa de Bami > Manopla do Raio de Gelo > Coração Congelado > Semblante Espiritual
-**End Build:** Armadura de Espinhos, Ampulheta de Zhonya, Força da Natureza
+**Boots:** Plated Steelcaps
+**Start Build:** Stealth Ward, Doran's Ring, Health Potion
+**Core Build:** Bami's Cinder > Frostfire Gauntlet > Frozen Heart > Spirit Visage
+**End Build:** Thornmail, Zhonya's Hourglass, Force of Nature

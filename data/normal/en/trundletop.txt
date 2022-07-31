@@ -1,5 +1,5 @@
-**Trundle Build Rota Topo** *(Normal)*
-**Position:** Selva, Rota Topo
+**Trundle Top** *(Normal)*
+**Position:** Jungler, Top
 **Winrate:** 52.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Galvanizadas de Aço
-**Start Build:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Core Build:** Cetro Vampírico > Espada do Rei Destruído > Ruptor Divino > Quebracascos
-**End Build:** Armadura de Espinhos, Dança da Morte, Semblante Espiritual
+**Boots:** Plated Steelcaps
+**Start Build:** Stealth Ward, Doran's Blade, Health Potion
+**Core Build:** Vampiric Scepter > Blade of The Ruined King > Divine Sunderer > Hullbreaker
+**End Build:** Thornmail, Death's Dance, Spirit Visage

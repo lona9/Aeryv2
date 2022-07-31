@@ -1,5 +1,5 @@
-**Kog'Maw Build ** *(Normal)*
-**Position:** Atirador
+**Kog'Maw ** *(Normal)*
+**Position:** AD Carry
 **Winrate:** 51.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Grevas do Berserker
-**Start Build:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Core Build:** Faca da Fúria > Lâmina da Fúria de Guinsoo > Furacão de Runaan > Hidra Titânica
-**End Build:** Presságio de Randuin, Limite da Razão, Espada do Rei Destruído
+**Boots:** Berserker's Greaves
+**Start Build:** Stealth Ward, Doran's Blade, Health Potion
+**Core Build:** Rageknife > Guinsoo's Rageblade > Runaan's Hurricane > Titanic Hydra
+**End Build:** Randuin's Omen, Wit's End, Blade of The Ruined King

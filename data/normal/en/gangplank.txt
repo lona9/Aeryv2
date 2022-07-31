@@ -1,5 +1,5 @@
-**Gangplank Build ** *(Normal)*
-**Position:** Rota Topo
+**Gangplank ** *(Normal)*
+**Position:** Top
 **Winrate:** 47.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:valor:804451124245561394> <:insp:804451124207681577>
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Ionianas da Lucidez
-**Start Build:** Sentinela Invisível, Poção Corrupta
-**Core Build:** Fulgor > Colhedor de Essência > Garra do Espreitador > A Coletora
-**End Build:** Lembranças do Lorde Dominik, Gume do Infinito, Lembrete Mortal
+**Boots:** Ionian Boots of Lucidity
+**Start Build:** Stealth Ward, Corrupting Potion
+**Core Build:** Sheen > Essence Reaver > Prowler's Claw > The Collector
+**End Build:** Lord Dominik's Regards, Infinity Edge, Mortal Reminder

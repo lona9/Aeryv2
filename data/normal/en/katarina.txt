@@ -1,5 +1,5 @@
-**Katarina Build ** *(Normal)*
-**Position:** Rota do Meio
+**Katarina ** *(Normal)*
+**Position:** Mid
 **Winrate:** 50.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Boots:** Sapatos do Feiticeiro
-**Start Build:** Sentinela Invisível, Lacre Sombrio, Poção com Refil
-**Core Build:** Varinha Explosiva > Dente de Na'Shor > Explocinturão Hextec > Ampulheta de Zhonya
-**End Build:** Capuz da Morte de Rabadon, Cajado do Vazio, Chama Sombria
+**Boots:** Sorcerer's Shoes
+**Start Build:** Stealth Ward, Dark Seal, Refillable Potion
+**Core Build:** Blasting Wand > Nashor's Tooth > Hextech Rocketbelt > Zhonya's Hourglass
+**End Build:** Rabadon's Deathcap, Void Staff, Shadowflame

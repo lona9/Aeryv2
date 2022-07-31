@@ -1,5 +1,5 @@
-**Fizz Build ** *(Normal)*
-**Position:** Rota do Meio
+**Fizz ** *(Normal)*
+**Position:** Mid
 **Winrate:** 49.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:dom:804451124085522442> <:pres:804451123825606657>
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Boots:** Sapatos do Feiticeiro
-**Start Build:** Sentinela Invisível, Poção Corrupta
-**Core Build:** Capítulo Perdido > Tormenta de Luden > Ampulheta de Zhonya > Perdição de Lich
-**End Build:** Capuz da Morte de Rabadon, Cajado do Vazio, Chama Sombria
+**Boots:** Sorcerer's Shoes
+**Start Build:** Stealth Ward, Corrupting Potion
+**Core Build:** Lost Chapter > Luden's Tempest > Zhonya's Hourglass > Lich Bane
+**End Build:** Rabadon's Deathcap, Void Staff, Shadowflame

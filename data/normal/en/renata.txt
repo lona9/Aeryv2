@@ -1,5 +1,5 @@
-**Renata Glasc Build ** *(Normal)*
-**Position:** Suporte
+**Renata Glasc ** *(Normal)*
+**Position:** Support
 **Winrate:** 50.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:valor:804451124245561394> <:insp:804451124207681577>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Ionianas da Lucidez
-**Start Build:** Sentinela Invisível
-**Core Build:** Espelho de Bandópolis > Hino Bélico de Shurelya > Putrificador Quimtec > Redenção
-**End Build:** Gume do Ladrão Arcano, Poção de Vida, Turíbulo Ardente
+**Boots:** Ionian Boots of Lucidity
+**Start Build:** Stealth Ward
+**Core Build:** Bandleglass Mirror > Shurelya's Battlesong > Chemtech Putrifier > Redemption
+**End Build:** Spellthief's Edge, Health Potion, Ardent Censer

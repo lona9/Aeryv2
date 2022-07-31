@@ -1,5 +1,5 @@
-**Corki Build ** *(Normal)*
-**Position:** Rota do Meio
+**Corki ** *(Normal)*
+**Position:** Mid
 **Winrate:** 46.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:insp:804451124207681577> <:dom:804451124085522442>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Boots:** Sapatos do Feiticeiro
-**Start Build:** Sentinela Invisível, Lágrima da Deusa, Poção de Vida
-**Core Build:** Martelo de Guerra de Caulfield > Manamune > Tormenta de Luden > Hidra Raivosa
-**End Build:** Cajado do Vazio, Anjo Guardião, Chama Sombria
+**Boots:** Sorcerer's Shoes
+**Start Build:** Stealth Ward, Tear of the Goddess, Health Potion
+**Core Build:** Caulfield's Warhammer > Manamune > Luden's Tempest > Ravenous Hydra
+**End Build:** Void Staff, Guardian Angel, Shadowflame

@@ -1,5 +1,5 @@
-**Zilean Build ** *(Normal)*
-**Position:** Suporte
+**Zilean ** *(Normal)*
+**Position:** Support
 **Winrate:** 51.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:bruj:804451124236648478> <:dom:804451124085522442>
@@ -15,7 +15,7 @@
 >   <:5007:804451180164022312> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Botas Ionianas da Lucidez
-**Start Build:** Sentinela Invisível, Gume do Ladrão Arcano
-**Core Build:** Espelho de Bandópolis > Hino Bélico de Shurelya > Putrificador Quimtec > Ampulheta de Zhonya
-**End Build:** Poção de Vida, Cajado do Arcanjo, Ímpeto Cósmico
+**Boots:** Ionian Boots of Lucidity
+**Start Build:** Stealth Ward, Spellthief's Edge
+**Core Build:** Bandleglass Mirror > Shurelya's Battlesong > Chemtech Putrifier > Zhonya's Hourglass
+**End Build:** Health Potion, Archangel's Staff, Cosmic Drive

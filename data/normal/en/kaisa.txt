@@ -1,5 +1,5 @@
-**Kai'Sa Build ** *(Normal)*
-**Position:** Atirador
+**Kai'Sa ** *(Normal)*
+**Position:** AD Carry
 **Winrate:** 48.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runes:** <:dom:804451124085522442> <:insp:804451124207681577>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Grevas do Berserker
-**Start Build:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Core Build:** Aljava Vespertina > Mata-Cráquens > A Coletora > Dançarina Fantasma
-**End Build:** Anjo Guardião, Gume do Infinito, Lembranças do Lorde Dominik
+**Boots:** Berserker's Greaves
+**Start Build:** Stealth Ward, Doran's Blade, Health Potion
+**Core Build:** Noonquiver > Kraken Slayer > The Collector > Phantom Dancer
+**End Build:** Guardian Angel, Infinity Edge, Lord Dominik's Regards
