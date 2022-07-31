@@ -32,9 +32,9 @@ class info(commands.Cog):
 
             embed = Embed(title="Aery Information")
 
-            fields = [("\u200B", "Type `/commands` to see what Aerybot can do. Type  `/language` inside a server to change its language.\n`NOTICE`: Aerybot now works with slash commands only, due to Discord changes for bot developing.", False),
+            fields = [("\u200B", "Type `/commands` to see what Aerybot can do. Type  `/language` inside a server to change its language.", False),
 
-            ("\u200B", f"**Aerybot** wants to make it easier and faster to get builds and runes to play League of Legends. It's updated once a week, and all information is obtained from the most popular, with higher win rate builds according to League of Graphs.\n\nThis bot was updated on **{date}**.\n\nLos datos fueron obtenidos de League of Graphs, for All Regions, Platinum+, **patch {parche}**.\n\nIf you want to invite this bot to another server, you can use this link: https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands\n\nIf you liked this bot, consider buying the creator a coffee: https://www.ko-fi.com/lona9", False)]
+            ("\u200B", f"**Aerybot** wants to make it easier and faster to get builds and runes to play League of Legends. It's updated once a week, and all information is obtained from the most popular, with higher win rate builds according to League of Graphs.\n\nThis bot was updated on **{date}**.\n\nLos datos fueron obtenidos de League of Graphs, for All Regions, Platinum+, **patch {parche}**.\n\nIf you want to invite this bot to another server, you can use [this link.](https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands)\n\nIf you liked this bot, consider buying the creator a [kofi.](https://www.ko-fi.com/lona9)", False)]
 
             for name, value, inline in fields:
               embed.add_field(name=name, value=value, inline=inline)
@@ -48,8 +48,8 @@ class info(commands.Cog):
 
             embed = Embed(title="Informação de Aery")
 
-            fields = [("\u200B", "Escreva `/commands` para ver o que pode fazer Aerybot. Escreva `/language*`dentro de um servidor para mudar o idioma.\n`ATENÇÃO`: O Aerybot agora funciona apenas com comandos de barra, devido às alterações do Discord para bot developing.", False),
-            ("\u200B", f"**Aerybot** quer fazer mais fácil e rápida a busca de builds e runas para jogar League of Legends. Se atualiza uma vez por semana, e toda a informação é obtida das runas e builds mais populares e com melhor winrate de acordo com League of Graphs.\n\nEsse bot foi atualizado pela última vez no **{date}**.\n\nOs dados e builds foram obtidos de League of Graphs, para Todas as regiões, Platino+, **parche {parche}**.\n\nSe você quiser convidar o bot para outro server, pode fazê-lo com esse link: https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands\n\nSe você curtiu esse bot, considere comprar um kofi para a criadora: https://www.ko-fi.com/lona9", False)]
+            fields = [("\u200B", "`ATENÇÃO`: **O Aerybot agora funciona apenas com comandos de barra, devido às alterações do Discord para bot development.**\nEscreva `/commands` para ver o que pode fazer Aerybot. Escreva `/language*`dentro de um servidor para mudar o idioma.", False),
+            ("\u200B", f"**Aerybot** quer fazer mais fácil e rápida a busca de builds e runas para jogar League of Legends. Se atualiza uma vez por semana, e toda a informação é obtida das runas e builds mais populares e com melhor winrate de acordo com League of Graphs.\n\nEsse bot foi atualizado pela última vez no **{date}**.\n\nOs dados e builds foram obtidos de League of Graphs, para Todas as regiões, Platino+, **parche {parche}**.\n\nSe você quiser convidar o bot para outro server, pode fazê-lo com [esse link.](https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands)\n\nSe você curtiu esse bot, considere comprar um [kofi](https://www.ko-fi.com/lona9) para a criadora.", False)]
 
             for name, value, inline in fields:
               embed.add_field(name=name, value=value, inline=inline)
@@ -63,8 +63,8 @@ class info(commands.Cog):
 
             embed = Embed(title="Información de Aery")
 
-            fields = [("\u200B", "Escribe `/commands` para ver qué puede hacer Aerybot. Escribe `/language` dentro de un servidor para cambiar el idioma.\n`ATENCIÓN`: Aerybot ahora solo funciona con slash commands, debido a los cambios de Discord para desarrollar bots.", False),
-            ("\u200B", f"**Aerybot** quiere hacer más fácil y rápida la búsqueda de builds y runas para jugar League of Legends. Se actualiza una vez por semana, y toda la información es obtenida de las runas y builds más populares y con mejor winrate de acuerdo a League of Graphs.\n\nEste bot fue actualizado por ultima vez el **{date}**.\n\nLos datos y builds fueron obtenidos de League of Graphs, para Todas las regiones, Platino+, **parche {parche}**.\n\nSi quieres invitar a este bot a otro server, puedes hacerlo con este link: https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands\n\nSi te gustó este bot, considera comprar un kofi a la creadora: https://www.ko-fi.com/lona9", False)]
+            fields = [("\u200B", "`ATENCIÓN`: **Aerybot ahora solo funciona con slash commands, debido a los cambios de Discord para desarrollar bots.**\nEscribe `/commands` para ver qué puede hacer Aerybot. Escribe `/language` dentro de un servidor para cambiar el idioma.", False),
+            ("\u200B", f"**Aerybot** quiere hacer más fácil y rápida la búsqueda de builds y runas para jugar League of Legends. Se actualiza una vez por semana, y toda la información es obtenida de las runas y builds más populares y con mejor winrate de acuerdo a League of Graphs.\n\nEste bot fue actualizado por ultima vez el **{date}**.\n\nLos datos y builds fueron obtenidos de League of Graphs, para Todas las regiones, Platino+, **parche {parche}**.\n\nSi quieres invitar a este bot a otro server, puedes hacerlo con [este link.](https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands)\n\nSi te gustó este bot, considera comprar un [kofi](https://www.ko-fi.com/lona9) a la creadora.", False)]
 
             for name, value, inline in fields:
               embed.add_field(name=name, value=value, inline=inline)
@@ -185,13 +185,13 @@ class info(commands.Cog):
 
 
         if language == 'EN':
-            await ctx.send("You can invite Aery to other servers using this link: https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands")
+            await ctx.send("You can invite Aery to other servers using [this link.](https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands)")
 
         elif language == 'PT':
-            await ctx.send("Você pode convidar Aery para outros servidores com o seguinte link: https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands")
+            await ctx.send("Você pode convidar Aery para outros servidores com o [seguinte link.](https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands)")
 
         else:
-            await ctx.send("Puedes invitar a Aery a otros servers con el siguiente link: https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands")
+            await ctx.send("Puedes invitar a Aery a otros servers con el [siguiente link.](https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands)")
 
         try:
             guild_id = ctx.guild.id
@@ -210,7 +210,7 @@ class info(commands.Cog):
             db.commit()
 
             self.logs = self.bot.get_channel(991742125471432776)
-            await self.logs.send(f"aery help, guild: {guild_name}")
+            await self.logs.send(f"aery invite, guild: {guild_name}")
 
 async def setup(bot: commands.Bot) -> None:
     await bot.add_cog(info(bot))
