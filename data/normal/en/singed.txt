@@ -1,6 +1,6 @@
 **Singed ** *(Normal)*
 **Position:** Top
-**Winrate:** 48.2%
+**Winrate:** 53.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Boots:** Boots of Swiftness
 **Start Build:** Stealth Ward, Corrupting Potion
 **Core Build:** Blasting Wand > Rylai's Crystal Scepter > Demonic Embrace > Riftmaker
-**End Build:** Force of Nature, Dead Man's Plate, Zhonya's Hourglass
+**End Build:** Dead Man's Plate, Force of Nature, Zhonya's Hourglass

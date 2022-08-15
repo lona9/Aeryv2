@@ -1,6 +1,6 @@
 **Tahm Kench AD Carry** *(Normal)*
 **Position:** Top, Support
-**Winrate:** 55.1%
+**Winrate:** 55.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Doran's Shield, Health Potion
 **Core Build:** Bami's Cinder > Frostfire Gauntlet > Thornmail > Spirit Visage
-**End Build:** Frozen Heart, Randuin's Omen, Force of Nature
+**End Build:** Titanic Hydra, Force of Nature, Frozen Heart

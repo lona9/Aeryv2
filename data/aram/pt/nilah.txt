@@ -1,5 +1,5 @@
 **Nilah** *(ARAM)*
-**Porcentagem de vitorias:** 48.5%
+**Porcentagem de vitorias:** 51.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Dança da Morte
+**Botas:** Lembranças do Lorde Dominik
 **Itens Iniciais:** Aljava Vespertina
 **Itens Core:** Arco-escudo Imortal > Dançarina Fantasma > Gume do Infinito > Grevas do Berserker
-**Itens End:** Dança da Morte, Sedenta por Sangue, Lembranças do Lorde Dominik
+**Itens End:** Lembranças do Lorde Dominik, Dança da Morte, Sedenta por Sangue

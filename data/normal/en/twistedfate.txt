@@ -1,6 +1,6 @@
 **Twisted Fate ** *(Normal)*
 **Position:** Mid
-**Winrate:** 46.7%
+**Winrate:** 45.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:dom:804451124085522442> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Boots:** Ionian Boots of Lucidity
 **Start Build:** Stealth Ward, Corrupting Potion
 **Core Build:** Lost Chapter > Everfrost > Rapid Firecannon > Zhonya's Hourglass
-**End Build:** Rabadon's Deathcap, Void Staff, Lich Bane
+**End Build:** Rabadon's Deathcap, Void Staff, Morellonomicon

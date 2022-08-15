@@ -1,6 +1,6 @@
 **Nunu &amp; Willump ** *(Normal)*
 **Position:** Jungler
-**Winrate:** 50.0%
+**Winrate:** 49.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runes:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -18,4 +18,4 @@
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Hailblade, Refillable Potion
 **Core Build:** Bami's Cinder > Sunfire Aegis > Thornmail > Spirit Visage
-**End Build:** Zhonya's Hourglass, Rabadon's Deathcap, Mejai's Soulstealer
+**End Build:** Zhonya's Hourglass, Randuin's Omen, Mejai's Soulstealer

@@ -1,6 +1,6 @@
 **Vladimir Mid** *(Normal)*
 **Position:** Mid, Top
-**Winrate:** 50.9%
+**Winrate:** 51.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
 

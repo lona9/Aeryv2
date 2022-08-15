@@ -1,6 +1,6 @@
 **Ornn ** *(Normal)*
 **Position:** Top
-**Winrate:** 50.2%
+**Winrate:** 51.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Doran's Shield, Health Potion
-**Core Build:** Bami's Cinder > Sunfire Aegis > Winter's Approach > Thornmail
-**End Build:** Gargoyle Stoneplate, Warmog's Armor, Randuin's Omen
+**Core Build:** Bami's Cinder > Sunfire Aegis > Thornmail > Frozen Heart
+**End Build:** Gargoyle Stoneplate, Warmog's Armor, Anathema's Chains

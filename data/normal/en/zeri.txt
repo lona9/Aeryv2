@@ -1,6 +1,6 @@
 **Zeri ** *(Normal)*
 **Position:** AD Carry
-**Winrate:** 45.6%
+**Winrate:** 46.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 

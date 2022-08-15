@@ -1,5 +1,5 @@
 **Gragas** *(ARAM)*
-**Winrate:** 46.6%
+**Winrate:** 46.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Boots:** Void Staff
 **Start Build:** Lost Chapter
 **Core Build:** Luden's Tempest > Shadowflame > Rabadon's Deathcap > Sorcerer's Shoes
-**End Build:** Void Staff, Zhonya's Hourglass, Cosmic Drive
+**End Build:** Void Staff, Zhonya's Hourglass, Morellonomicon

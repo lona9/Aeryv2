@@ -1,6 +1,6 @@
 **Jinx ** *(Normal)*
 **Position:** AD Carry
-**Winrate:** 48.7%
+**Winrate:** 49.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runes:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Berserker's Greaves
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
-**Core Build:** Noonquiver > Kraken Slayer > Rapid Firecannon > Infinity Edge
+**Core Build:** Noonquiver > Kraken Slayer > Phantom Dancer > Infinity Edge
 **End Build:** Guardian Angel, Bloodthirster, Lord Dominik's Regards

@@ -17,4 +17,4 @@
 **Boots:** Mercury's Treads
 **Start Build:** Guardian's Horn, Tear of the Goddess
 **Core Build:** Guardian's Horn > Sunfire Aegis > Winter's Approach > Thornmail
-**End Build:** Gargoyle Stoneplate, Force of Nature, Warmog's Armor
+**End Build:** Warmog's Armor, Gargoyle Stoneplate, Force of Nature

@@ -18,4 +18,4 @@
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
 **Itens Core:** Faca da Fúria > Lâmina da Fúria de Guinsoo > Furacão de Runaan > Hidra Titânica
-**Itens End:** Presságio de Randuin, Limite da Razão, Espada do Rei Destruído
+**Itens End:** Presságio de Randuin, Limite da Razão, Anjo Guardião

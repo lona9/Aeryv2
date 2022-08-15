@@ -1,21 +1,21 @@
 **Fiddlesticks ** *(Normal)*
 **Posición:** Jungler
-**Porcentaje de victorias:** 51.9%
+**Porcentaje de victorias:** 52.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
-**Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
+**Runas:** <:insp:804451124207681577> <:dom:804451124085522442>
 
-> :cd:<:dom12:804447180362219551>:cd::cd:
->   <:dom21:804457127800078397>:cd::cd:
->   :cd::cd:<:dom33:804457129578332160>
-> :cd::cd::cd:<:dom44:804457129732866048>
-
+>   :cd::cd:<:insp13:914919550464720936>
 >   :cd::cd:<:insp23:804450563948675112>
->   :cd::cd::cd:
+>   <:insp31:804450564188536842>:cd::cd:
 >   <:insp41:804450563507879947>:cd::cd:
+
+>   <:dom21:804457127800078397>:cd::cd:
+>   :cd::cd::cd:
+> :cd::cd::cd:<:dom44:804457129732866048>
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Báculo del vacío
+**Botas:** Sombrero mortífero de Rabadon
 **Objetos iniciales:** Hoja granizo, Poción reutilizable
 **Objetos principales:** Cintomisil hextech > Reloj de arena de Zhonya > Llamasombría > Botas del hechicero
-**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón

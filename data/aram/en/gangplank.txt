@@ -1,5 +1,5 @@
 **Gangplank** *(ARAM)*
-**Winrate:** 51.9%
+**Winrate:** 52.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Boots:** Lord Dominik's Regards
-**Start Build:** Refillable Potion, Sheen, Tear of the Goddess
+**Start Build:** Boots, Long Sword, Sheen
 **Core Build:** Essence Reaver > Duskblade of Draktharr > The Collector > Ionian Boots of Lucidity
 **End Build:** Lord Dominik's Regards, Infinity Edge, Mortal Reminder

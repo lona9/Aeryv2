@@ -2,20 +2,20 @@
 **Position:** Jungler
 **Winrate:** 51.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
-**Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
+**Runes:** <:pres:804451123825606657> <:insp:804451124207681577>
 
 > :cd::cd::cd:<:precision14:804446921631596585>
 >   :cd:<:precision22:804446921414541333>:cd:
 >   :cd:<:precision32:804446921737371648>:cd:
 >   :cd::cd:<:precision43:804446921941975080>
 
+>   :cd:<:insp22:804450563793747989>:cd:
 >   :cd::cd::cd:
->   <:valor31:804449943666425907>:cd::cd:
->   :cd:<:valor42:804449943615438919>:cd:
+>   <:insp41:804450563507879947>:cd::cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Boots:** Ionian Boots of Lucidity
-**Start Build:** Stealth Ward, Emberknife, Refillable Potion
+**Start Build:** Stealth Ward, Hailblade, Refillable Potion
 **Core Build:** Ironspike Whip > Goredrinker > Death's Dance > Black Cleaver
-**End Build:** Serylda's Grudge, Guardian Angel, Edge of Night
+**End Build:** Guardian Angel, Serylda's Grudge, Edge of Night

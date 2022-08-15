@@ -1,6 +1,6 @@
 **Viego ** *(Normal)*
 **Position:** Jungler
-**Winrate:** 48.5%
+**Winrate:** 48.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runes:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Chempunk Chainsword
+**Boots:** Wit's End
 **Start Build:** Stealth Ward, Emberknife, Refillable Potion
 **Core Build:** Death's Dance > Plated Steelcaps > Guardian Angel > Maw of Malmortius
-**End Build:** Guardian Angel, Maw of Malmortius, Chempunk Chainsword
+**End Build:** Guardian Angel, Maw of Malmortius, Wit's End

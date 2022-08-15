@@ -1,7 +1,7 @@
 **Mordekaiser Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 51.9%
-**Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Porcentagem de vitorias:** 51.8%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
 > :cd::cd::cd:<:precision14:804446921631596585>
@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Escudo de Doran, Poção de Vida
 **Itens Core:** Olhar Sanguessuga > Criafendas > Cetro de Cristal de Rylai > Abraço Demoníaco
-**Itens End:** Semblante Espiritual, Armadura de Espinhos, Ampulheta de Zhonya
+**Itens End:** Armadura de Espinhos, Semblante Espiritual, Ampulheta de Zhonya

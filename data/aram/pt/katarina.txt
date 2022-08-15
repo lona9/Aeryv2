@@ -1,5 +1,5 @@
 **Katarina** *(ARAM)*
-**Porcentagem de vitorias:** 51.1%
+**Porcentagem de vitorias:** 50.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Dança da Morte
 **Itens Iniciais:** Varinha Explosiva, Tomo Amplificador
 **Itens Core:** Tomo Amplificador > Fulgor > Ruptor Divino > Hidra Titânica
-**Itens End:** Capuz da Morte de Rabadon, Ampulheta de Zhonya, Cajado do Vazio
+**Itens End:** Ampulheta de Zhonya, Capuz da Morte de Rabadon, Cajado do Vazio

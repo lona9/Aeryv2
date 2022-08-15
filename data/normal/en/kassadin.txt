@@ -1,6 +1,6 @@
 **Kassadin ** *(Normal)*
 **Position:** Mid
-**Winrate:** 50.0%
+**Winrate:** 50.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Boots:** Sorcerer's Shoes
-**Start Build:** Stealth Ward, Dark Seal, Refillable Potion
+**Start Build:** Stealth Ward, Doran's Shield, Health Potion
 **Core Build:** Lost Chapter > Everfrost > Archangel's Staff > Zhonya's Hourglass
 **End Build:** Rabadon's Deathcap, Void Staff, Mejai's Soulstealer

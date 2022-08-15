@@ -16,9 +16,9 @@ class info(commands.Cog):
     description = "Bot general information.")
     async def ayuda(self, ctx: commands.Context) -> None:
 
-        date = "31/07/2022"
+        date = "15/08/2022"
 
-        parche = "12.14"
+        parche = "12.15"
 
         try:
             language = db.record("SELECT GuildLang FROM languages WHERE GuildID = ?", ctx.guild.id)
@@ -48,7 +48,7 @@ class info(commands.Cog):
 
             embed = Embed(title="Informação de Aery")
 
-            fields = [("\u200B", "`ATENÇÃO`: Comandos prefixados funcionarão instáveis ​​até 31 de agosto, após essa data apenas slash commands funcionarão. Ambos estarão disponíveis até essa data, mas sujeitos a apagões do Discord, que não dependem de mim. Desculpe pelo inconveniente, é culpa do Discord :P\nEscreva `/commands` para ver o que pode fazer Aerybot. Escreva `/language*`dentro de um servidor para mudar o idioma.", False),
+            fields = [("\u200B", "Escreva `/commands` para ver o que pode fazer Aerybot. Escreva `/language*`dentro de um servidor para mudar o idioma.", False),
             ("\u200B", f"**Aerybot** quer fazer mais fácil e rápida a busca de builds e runas para jogar League of Legends. Se atualiza uma vez por semana, e toda a informação é obtida das runas e builds mais populares e com melhor winrate de acordo com League of Graphs.\n\nEsse bot foi atualizado pela última vez no **{date}**.\n\nOs dados e builds foram obtidos de League of Graphs, para Todas as regiões, Platino+, **parche {parche}**.\n\nSe você quiser convidar o bot para outro server, pode fazê-lo com [esse link.](https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands)\n\nSe você curtiu esse bot, considere comprar um [kofi](https://www.ko-fi.com/lona9) para a criadora.", False)]
 
             for name, value, inline in fields:
@@ -63,7 +63,7 @@ class info(commands.Cog):
 
             embed = Embed(title="Información de Aery")
 
-            fields = [("\u200B", "`ATENCIÓN`: Los comandos con prefijo funcionarán inestablemente hasta el 31 de agosto, después de esa fecha solo funcionarán los slash commands. Ambos estarán disponibles hasta esa fecha, pero sujetos a los blackouts de Discord, que no dependen de mí. Disculpas por los inconvenientes, es culpa de Discord :P\nEscribe `/commands` para ver qué puede hacer Aerybot. Escribe `/language` dentro de un servidor para cambiar el idioma. / Escreva `/language`dentro de um servidor para mudar o idioma. / Type `/language` inside a server to change its language.", False),
+            fields = [("\u200B", "Escribe `/commands` para ver qué puede hacer Aerybot. Escribe `/language` dentro de un servidor para cambiar el idioma. / Escreva `/language`dentro de um servidor para mudar o idioma. / Type `/language` inside a server to change its language.", False),
             ("\u200B", f"**Aerybot** quiere hacer más fácil y rápida la búsqueda de builds y runas para jugar League of Legends. Se actualiza una vez por semana, y toda la información es obtenida de las runas y builds más populares y con mejor winrate de acuerdo a League of Graphs.\n\nEste bot fue actualizado por ultima vez el **{date}**.\n\nLos datos y builds fueron obtenidos de League of Graphs, para Todas las regiones, Platino+, **parche {parche}**.\n\nSi quieres invitar a este bot a otro server, puedes hacerlo con [este link.](https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands)\n\nSi te gustó este bot, considera comprar un [kofi](https://www.ko-fi.com/lona9) a la creadora.", False)]
 
             for name, value, inline in fields:

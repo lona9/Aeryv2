@@ -1,6 +1,6 @@
 **Nasus ** *(Normal)*
 **Position:** Top
-**Winrate:** 48.9%
+**Winrate:** 48.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Boots:** Ionian Boots of Lucidity
 **Start Build:** Stealth Ward, Doran's Shield, Health Potion
 **Core Build:** Sheen > Divine Sunderer > Frozen Heart > Spirit Visage
-**End Build:** Gargoyle Stoneplate, Thornmail, Dead Man's Plate
+**End Build:** Gargoyle Stoneplate, Thornmail, Force of Nature

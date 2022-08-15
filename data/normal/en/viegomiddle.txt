@@ -1,6 +1,6 @@
 **Viego Mid** *(Normal)*
 **Position:** Jungler
-**Winrate:** 49.5%
+**Winrate:** 50.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Mercury's Treads
 **Start Build:** Stealth Ward, Doran's Shield, Health Potion
-**Core Build:** Vampiric Scepter > Blade of The Ruined King > Divine Sunderer > Death's Dance
-**End Build:** Guardian Angel, Wit's End, Infinity Edge
+**Core Build:** Vampiric Scepter > Blade of The Ruined King > Kraken Slayer > Death's Dance
+**End Build:** Guardian Angel, Maw of Malmortius, Wit's End

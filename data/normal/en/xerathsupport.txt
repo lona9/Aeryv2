@@ -1,6 +1,6 @@
 **Xerath Support** *(Normal)*
 **Position:** Support, Mid
-**Winrate:** 51.2%
+**Winrate:** 50.8%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runes:** <:insp:804451124207681577> <:bruj:804451124236648478>
 
@@ -18,4 +18,4 @@
 **Boots:** Sorcerer's Shoes
 **Start Build:** Stealth Ward, Spellthief's Edge, Health Potion
 **Core Build:** Lost Chapter > Luden's Tempest > Horizon Focus > Zhonya's Hourglass
-**End Build:** Rabadon's Deathcap, Shadowflame, Void Staff
+**End Build:** Rabadon's Deathcap, Void Staff, Morellonomicon

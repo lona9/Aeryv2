@@ -1,6 +1,6 @@
 **Qiyana ** *(Normal)*
 **Posición:** Mid, Jungler
-**Porcentaje de victorias:** 50.9%
+**Porcentaje de victorias:** 49.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:insp:804451124207681577> <:dom:804451124085522442>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Espada larga, Poción reutilizable
 **Objetos principales:** Puñal serrado > Eclipse > Manamune > Rencor de Serylda
-**Objetos finales:** Ángel Guardián, Danza de la muerte, Cuchilla oscura
+**Objetos finales:** Ángel Guardián, Cuchilla oscura, Danza de la muerte

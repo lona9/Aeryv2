@@ -1,5 +1,5 @@
 **Urgot** *(ARAM)*
-**Winrate:** 51.3%
+**Winrate:** 52.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -17,4 +17,4 @@
 **Boots:** Mercury's Treads
 **Start Build:** Refillable Potion, Tiamat
 **Core Build:** Tiamat > Titanic Hydra > Frostfire Gauntlet > Black Cleaver
-**End Build:** Thornmail, Force of Nature, Spirit Visage
+**End Build:** Thornmail, Force of Nature, Death's Dance

@@ -1,6 +1,6 @@
 **Karthus ** *(Normal)*
-**Position:** Jungler, AD Carry
-**Winrate:** 49.7%
+**Position:** Jungler
+**Winrate:** 48.9%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runes:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Sorcerer's Shoes
 **Start Build:** Stealth Ward, Doran's Ring, Health Potion
-**Core Build:** Lost Chapter > Liandry's Anguish > Shadowflame > Zhonya's Hourglass
-**End Build:** Void Staff, Rabadon's Deathcap, Morellonomicon
+**Core Build:** Lost Chapter > Liandry's Anguish > Shadowflame > Rabadon's Deathcap
+**End Build:** Void Staff, Zhonya's Hourglass, Morellonomicon

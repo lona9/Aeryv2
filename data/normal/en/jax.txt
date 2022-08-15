@@ -1,6 +1,6 @@
 **Jax ** *(Normal)*
 **Position:** Top
-**Winrate:** 48.9%
+**Winrate:** 49.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:pres:804451123825606657> <:insp:804451124207681577>
 

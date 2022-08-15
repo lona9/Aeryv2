@@ -1,6 +1,6 @@
 **Udyr ** *(Normal)*
 **Position:** Jungler
-**Winrate:** 48.3%
+**Winrate:** 47.7%
 **Summoner Spells:** <:Ghost:804555480856002610> <:Smite:804555481494061086>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Hailblade, Refillable Potion
 **Core Build:** Bami's Cinder > Sunfire Aegis > Frozen Heart > Force of Nature
-**End Build:** Thornmail, Mejai's Soulstealer, Dead Man's Plate
+**End Build:** Thornmail, Dead Man's Plate, Gargoyle Stoneplate

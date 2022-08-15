@@ -226,32 +226,6 @@ class builds(commands.Cog):
                         text = f.read()
                         await ctx.send(text)
 
-                    if language == 'PT':
-                        embed = Embed(title="Informação de Aery")
-
-                        fields = [("\u200B", "`ATENÇÃO`: Comandos prefixados funcionarão instáveis ​​até 31 de agosto, após essa data apenas slash commands funcionarão. Ambos estarão disponíveis até essa data, mas sujeitos a apagões do Discord, que não dependem de mim. Desculpe pelo inconveniente, é culpa do Discord :P\nEscreva `/commands` para ver o que pode fazer Aerybot.", False)]
-
-                        for name, value, inline in fields:
-                            embed.add_field(name=name, value=value, inline=inline)
-
-                        embed.set_author(name='Aerybot', icon_url="https://cdn.discordapp.com/attachments/827220123299086447/827222701349404771/Summon_Aery_rune.png")
-                        embed.set_footer(text="Se eu apresentar problemas ou você precisa de mais ajuda, envie uma mensagem a lona#4817")
-
-                        await ctx.send(embed=embed)
-
-                    elif language == 'SP':
-                        embed = Embed(title="Información de Aery")
-
-                        fields = [("\u200B", "`ATENCIÓN`: Los comandos con prefijo funcionarán inestablemente hasta el 31 de agosto, después de esa fecha solo funcionarán los slash commands. Ambos estarán disponibles hasta esa fecha, pero sujetos a los blackouts de Discord, lo cual no depende de mi desarrollo. Disculpas por los inconvenientes, es culpa de Discord :P\nEscribe `/commands` para ver qué puede hacer Aerybot.", False)]
-
-                        for name, value, inline in fields:
-                          embed.add_field(name=name, value=value, inline=inline)
-
-                        embed.set_author(name='Aerybot', icon_url="https://cdn.discordapp.com/attachments/827220123299086447/827222701349404771/Summon_Aery_rune.png")
-                        embed.set_footer(text="Si presento problemas o necesitas más ayuda, envía un mensaje a lona#4817")
-
-                        await ctx.send(embed=embed)
-
                     try:
                         guild_id = ctx.guild.id
                         guild_name = ctx.guild.name
@@ -559,33 +533,6 @@ class builds(commands.Cog):
                     with open(path, encoding="latin-1") as f:
                         text = f.read()
                         await ctx.send(text)
-
-
-                    if language == 'PT':
-                        embed = Embed(title="Informação de Aery")
-
-                        fields = [("\u200B", "`ATENÇÃO`: **Comandos prefixados funcionarão instáveis ​​até 31 de agosto, após essa data apenas slash commands funcionarão. Ambos estarão disponíveis até essa data, mas sujeitos a apagões do Discord, que não dependem de mim. Desculpe pelo inconveniente, é culpa do Discord :P**\nEscreva `/commands` para ver o que pode fazer Aerybot.", False)]
-
-                        for name, value, inline in fields:
-                            embed.add_field(name=name, value=value, inline=inline)
-
-                        embed.set_author(name='Aerybot', icon_url="https://cdn.discordapp.com/attachments/827220123299086447/827222701349404771/Summon_Aery_rune.png")
-                        embed.set_footer(text="Se eu apresentar problemas ou você precisa de mais ajuda, envie uma mensagem a lona#4817")
-
-                        await ctx.send(embed=embed)
-
-                    elif language == 'SP':
-                        embed = Embed(title="Información de Aery")
-
-                        fields = [("\u200B", "`ATENCIÓN`: **Los comandos con prefijo funcionarán inestablemente hasta el 31 de agosto, después de esa fecha solo funcionarán los slash commands. Ambos estarán disponibles hasta esa fecha, pero sujetos a los blackouts de Discord, lo cual no depende de mi desarrollo. Disculpas por los inconvenientes, es culpa de Discord :P**\nEscribe `/commands` para ver qué puede hacer Aerybot.", False)]
-
-                        for name, value, inline in fields:
-                          embed.add_field(name=name, value=value, inline=inline)
-
-                        embed.set_author(name='Aerybot', icon_url="https://cdn.discordapp.com/attachments/827220123299086447/827222701349404771/Summon_Aery_rune.png")
-                        embed.set_footer(text="Si presento problemas o necesitas más ayuda, envía un mensaje a lona#4817")
-
-                        await ctx.send(embed=embed)
 
                     try:
                         guild_id = ctx.guild.id

@@ -1,6 +1,6 @@
 **Gragas Top** *(Normal)*
-**Position:** Top
-**Winrate:** 49.1%
+**Position:** Top, Jungler
+**Winrate:** 49.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:insp:804451124207681577> <:bruj:804451124236648478>
 

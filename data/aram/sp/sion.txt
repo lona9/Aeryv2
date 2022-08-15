@@ -1,5 +1,5 @@
 **Sion ** *(ARAM)*
-**Porcentaje de victorias:** 52.6%
+**Porcentaje de victorias:** 53.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Botas, Ceniza de Bami
-**Objetos principales:** Puñal serrado > Garra de merodeador > Filo fantasmal de Youmuu > El Coleccionista
-**Objetos finales:** Hidra titánica, Cota de espinas, Fuerza de la naturaleza
+**Objetos principales:** Cuerno del guardián > Égida de fuego solar > Armadura de Warmog > Cota de espinas
+**Objetos finales:** Hidra titánica, Fuerza de la naturaleza, Armadura pétrea

@@ -1,6 +1,6 @@
 **Swain AD Carry** *(Normal)*
 **Position:** Support, Mid
-**Winrate:** 52.0%
+**Winrate:** 50.8%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Boots:** Sorcerer's Shoes
 **Start Build:** Stealth Ward, Doran's Ring, Health Potion
 **Core Build:** Lost Chapter > Liandry's Anguish > Zhonya's Hourglass > Rylai's Crystal Scepter
-**End Build:** Spirit Visage, Demonic Embrace, Frozen Heart
+**End Build:** Demonic Embrace, Spirit Visage, Morellonomicon

@@ -1,5 +1,5 @@
 **Kayn** *(ARAM)*
-**Winrate:** 51.8%
+**Winrate:** 51.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Mercury's Treads
-**Start Build:** Refillable Potion, Ironspike Whip
-**Core Build:** Ironspike Whip > Goredrinker > Death's Dance > Spirit Visage
-**End Build:** Black Cleaver, Maw of Malmortius, Serylda's Grudge
+**Boots:** Manamune
+**Start Build:** Boots, Long Sword, Tear of the Goddess, Health Potion
+**Core Build:** Tear of the Goddess > Health Potion > Ironspike Whip > Goredrinker
+**End Build:** Serylda's Grudge, Black Cleaver, Maw of Malmortius

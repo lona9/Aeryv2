@@ -1,5 +1,5 @@
 **Lulu** *(ARAM)*
-**Winrate:** 49.0%
+**Winrate:** 48.4%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runes:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -16,5 +16,5 @@
 **Build**
 **Boots:** Ionian Boots of Lucidity
 **Start Build:** Tear of the Goddess, Bandleglass Mirror
-**Core Build:** Bandleglass Mirror > Shurelya's Battlesong > Chemtech Putrifier > Archangel's Staff
-**End Build:** Redemption, Staff of Flowing Water, Ardent Censer
+**Core Build:** Bandleglass Mirror > Shurelya's Battlesong > Chemtech Putrifier > Ardent Censer
+**End Build:** Redemption, Staff of Flowing Water, Mikael's Blessing

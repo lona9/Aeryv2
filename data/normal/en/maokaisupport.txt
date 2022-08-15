@@ -1,6 +1,6 @@
 **Maokai Support** *(Normal)*
 **Position:** Support, Top
-**Winrate:** 51.6%
+**Winrate:** 50.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Plated Steelcaps
-**Start Build:** Stealth Ward, Relic Shield
+**Boots:** Sorcerer's Shoes
+**Start Build:** Stealth Ward
 **Core Build:** Bandleglass Mirror > Imperial Mandate > Demonic Embrace > Morellonomicon
-**End Build:** Health Potion, Dead Man's Plate, Thornmail
+**End Build:** Spellthief's Edge, Health Potion, Dead Man's Plate

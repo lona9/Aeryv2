@@ -1,5 +1,5 @@
 **Wukong** *(ARAM)*
-**Porcentagem de vitorias:** 50.4%
+**Porcentagem de vitorias:** 50.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Mandíbula de Malmortius
-**Itens Iniciais:** Poção com Refil, Fulgor, Lágrima da Deusa
-**Itens Core:** Lágrima da Deusa > Fulgor > Ruptor Divino > Dança da Morte
-**Itens End:** Hidra Raivosa, Cutelo Negro, Semblante Espiritual
+**Itens Iniciais:** Botas, Espada Longa, Fulgor
+**Itens Core:** Fulgor > Fulgor > Ruptor Divino > Dança da Morte
+**Itens End:** Cutelo Negro, Hidra Raivosa, Semblante Espiritual

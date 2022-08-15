@@ -1,6 +1,6 @@
 **Caitlyn ** *(Normal)*
 **Position:** AD Carry
-**Winrate:** 50.1%
+**Winrate:** 49.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runes:** <:pres:804451123825606657> <:bruj:804451124236648478>
 

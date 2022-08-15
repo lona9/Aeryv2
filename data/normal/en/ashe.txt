@@ -1,6 +1,6 @@
 **Ashe ** *(Normal)*
 **Position:** Support, AD Carry
-**Winrate:** 50.5%
+**Winrate:** 49.8%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runes:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
@@ -18,4 +18,4 @@
 **Boots:** Ionian Boots of Lucidity
 **Start Build:** Stealth Ward, Spectral Sickle, Health Potion
 **Core Build:** Bandleglass Mirror > Imperial Mandate > Manamune > Chempunk Chainsword
-**End Build:** Guardian Angel, Lord Dominik's Regards, Runaan's Hurricane
+**End Build:** Guardian Angel, Lord Dominik's Regards, Blade of The Ruined King
