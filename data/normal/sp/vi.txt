@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
 **Objetos principales:** Puñal serrado > Eclipse > El Coleccionista > Saqueador de esencias
-**Objetos finales:** Ángel Guardián, Cuchilla oscura, Fauces de Malmortius
+**Objetos finales:** Ángel Guardián, Cuchilla oscura, Danza de la muerte

@@ -1,7 +1,7 @@
 **Swain Build Atirador** *(Normal)*
-**Rota:** Suporte, Rota do Meio
-**Porcentagem de vitorias:** 50.8%
-**Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
+**Rota:** Rota do Meio, Suporte
+**Porcentagem de vitorias:** 52.1%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
 > :cd::cd::cd:<:precision14:804446921631596585>

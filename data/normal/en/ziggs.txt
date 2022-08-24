@@ -1,6 +1,6 @@
 **Ziggs ** *(Normal)*
 **Position:** Mid, AD Carry
-**Winrate:** 49.0%
+**Winrate:** 48.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Boots:** Sorcerer's Shoes
 **Start Build:** Stealth Ward, Doran's Ring, Health Potion
 **Core Build:** Lost Chapter > Liandry's Anguish > Archangel's Staff > Shadowflame
-**End Build:** Void Staff, Rabadon's Deathcap, Zhonya's Hourglass
+**End Build:** Void Staff, Rabadon's Deathcap, Morellonomicon

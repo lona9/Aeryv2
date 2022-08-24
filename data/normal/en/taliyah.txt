@@ -1,6 +1,6 @@
 **Taliyah ** *(Normal)*
 **Position:** Mid, Jungler
-**Winrate:** 49.1%
+**Winrate:** 49.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runes:** <:insp:804451124207681577> <:bruj:804451124236648478>
 

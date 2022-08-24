@@ -1,5 +1,5 @@
 **Lux** *(ARAM)*
-**Winrate:** 50.0%
+**Winrate:** 49.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
 **Runes:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Sorcerer's Shoes
+**Boots:** Luden's Tempest
 **Start Build:** Lost Chapter
-**Core Build:** Lost Chapter > Luden's Tempest > Horizon Focus > Shadowflame
+**Core Build:** Light Binding > Prismatic Barrier > Lost Chapter > Lost Chapter
 **End Build:** Void Staff, Rabadon's Deathcap, Morellonomicon

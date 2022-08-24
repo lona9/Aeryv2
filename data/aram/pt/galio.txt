@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Berrante do Guardião, Lágrima da Deusa
 **Itens Core:** Berrante do Guardião > Égide de Fogo Solar > Aproximação Invernal > Armadura de Espinhos
-**Itens End:** Armadura de Warmog, Placa Gargolítica, Força da Natureza
+**Itens End:** Armadura de Warmog, Placa Gargolítica, Presságio de Randuin

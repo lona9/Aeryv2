@@ -1,6 +1,6 @@
 **Fiddlesticks ** *(Normal)*
 **Position:** Jungler
-**Winrate:** 52.5%
+**Winrate:** 52.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runes:** <:insp:804451124207681577> <:dom:804451124085522442>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Rabadon's Deathcap
+**Boots:** Void Staff
 **Start Build:** Hailblade, Refillable Potion
 **Core Build:** Hextech Rocketbelt > Zhonya's Hourglass > Shadowflame > Sorcerer's Shoes
-**End Build:** Rabadon's Deathcap, Void Staff, Morellonomicon
+**End Build:** Void Staff, Rabadon's Deathcap, Morellonomicon

@@ -1,5 +1,5 @@
 **Thresh** *(ARAM)*
-**Porcentagem de vitorias:** 50.6%
+**Porcentagem de vitorias:** 50.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5007:804451180164022312> <:5002:804451180104908870> <:5001:804451180112642088>
 
 **Build**
-**Botas:** Armadura de Warmog
+**Botas:** Armadura de Espinhos
 **Itens Iniciais:** Berrante do Guardião, Lágrima da Deusa
-**Itens Core:** Lágrima da Deusa > Berrante do Guardião > Medalhão dos Solari de Ferro > Aproximação Invernal
-**Itens End:** Força da Natureza, Armadura de Espinhos, Coração Congelado
+**Itens Core:** Lágrima da Deusa > Berrante do Guardião > Égide de Fogo Solar > Aproximação Invernal
+**Itens End:** Força da Natureza, Armadura de Warmog, Coração Congelado

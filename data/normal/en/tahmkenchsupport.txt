@@ -1,6 +1,6 @@
 **Tahm Kench Support** *(Normal)*
 **Position:** Top, Support
-**Winrate:** 48.1%
+**Winrate:** 46.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Boots:** Plated Steelcaps
-**Start Build:** Stealth Ward, Relic Shield
+**Start Build:** Stealth Ward
 **Core Build:** Bami's Cinder > Frostfire Gauntlet > Thornmail > Spirit Visage
-**End Build:** Health Potion, Knight's Vow, Dead Man's Plate
+**End Build:** Relic Shield, Health Potion, Knight's Vow

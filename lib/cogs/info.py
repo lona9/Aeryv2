@@ -16,7 +16,7 @@ class info(commands.Cog):
     description = "Bot general information.")
     async def ayuda(self, ctx: commands.Context) -> None:
 
-        date = "15/08/2022"
+        date = "24/08/2022"
 
         parche = "12.15"
 

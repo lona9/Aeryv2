@@ -1,6 +1,6 @@
 **Lucian AD Carry** *(Normal)*
 **Position:** AD Carry
-**Winrate:** 49.5%
+**Winrate:** 49.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runes:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Boots:** Berserker's Greaves
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
 **Core Build:** Noonquiver > Galeforce > The Collector > Serylda's Grudge
-**End Build:** Guardian Angel, Infinity Edge, Rapid Firecannon
+**End Build:** Guardian Angel, Infinity Edge, Lord Dominik's Regards

@@ -17,4 +17,4 @@
 **Boots:** Berserker's Greaves
 **Start Build:** Noonquiver
 **Core Build:** Noonquiver > Kraken Slayer > The Collector > Bloodthirster
-**End Build:** Lord Dominik's Regards, Infinity Edge, Rapid Firecannon
+**End Build:** Infinity Edge, Lord Dominik's Regards, Rapid Firecannon

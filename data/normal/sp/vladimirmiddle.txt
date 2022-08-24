@@ -1,6 +1,6 @@
 **Vladimir Mid** *(Normal)*
-**Posición:** Mid, Top
-**Porcentaje de victorias:** 51.5%
+**Posición:** Mid
+**Porcentaje de victorias:** 50.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Sello oscuro, Poción reutilizable
 **Objetos principales:** Códice diabólico > Cosechador nocturno > Sombrero mortífero de Rabadon > Báculo del vacío
-**Objetos finales:** Reloj de arena de Zhonya, Robaalmas de Mejai, Llamasombría
+**Objetos finales:** Robaalmas de Mejai, Reloj de arena de Zhonya, Llamasombría

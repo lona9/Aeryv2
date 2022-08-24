@@ -1,6 +1,6 @@
 **Darius ** *(Normal)*
 **Position:** Top
-**Winrate:** 51.4%
+**Winrate:** 51.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Doran's Shield, Health Potion
 **Core Build:** Hearthbound Axe > Trinity Force > Death's Dance > Dead Man's Plate
-**End Build:** Sterak's Gage, Thornmail, Force of Nature
+**End Build:** Sterak's Gage, Force of Nature, Thornmail

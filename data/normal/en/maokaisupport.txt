@@ -1,6 +1,6 @@
 **Maokai Support** *(Normal)*
 **Position:** Support, Top
-**Winrate:** 50.9%
+**Winrate:** 50.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:valor:804451124245561394> <:insp:804451124207681577>
 

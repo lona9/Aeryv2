@@ -1,6 +1,6 @@
 **Miss Fortune ** *(Normal)*
 **Position:** AD Carry
-**Winrate:** 50.3%
+**Winrate:** 51.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
 

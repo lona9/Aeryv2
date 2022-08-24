@@ -1,5 +1,5 @@
 **Yone** *(ARAM)*
-**Winrate:** 46.6%
+**Winrate:** 46.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Boots:** Berserker's Greaves
 **Start Build:** Noonquiver
 **Core Build:** Noonquiver > Immortal Shieldbow > Infinity Edge > Death's Dance
-**End Build:** Bloodthirster, Spirit Visage, Mortal Reminder
+**End Build:** Spirit Visage, Bloodthirster, Mortal Reminder

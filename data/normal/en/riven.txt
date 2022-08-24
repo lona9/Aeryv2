@@ -1,6 +1,6 @@
 **Riven ** *(Normal)*
 **Position:** Top
-**Winrate:** 50.3%
+**Winrate:** 50.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
@@ -9,13 +9,13 @@
 >   :cd:<:precision32:804446921737371648>:cd:
 >   :cd::cd:<:precision43:804446921941975080>
 
->   :cd::cd::cd:
+>   :cd::cd:<:bruj23:804448797425532928>
 >   <:bruj31:804448797395910716>:cd::cd:
->   :cd::cd:<:bruj43:804448797631316069>
+>   :cd::cd::cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Boots:** Ionian Boots of Lucidity
-**Start Build:** Stealth Ward, Doran's Blade, Health Potion
-**Core Build:** Caulfield's Warhammer > Goredrinker > Black Cleaver > Death's Dance
+**Start Build:** Stealth Ward, Long Sword, Health Potion
+**Core Build:** Ironspike Whip > Goredrinker > Black Cleaver > Death's Dance
 **End Build:** Guardian Angel, Serylda's Grudge, Maw of Malmortius

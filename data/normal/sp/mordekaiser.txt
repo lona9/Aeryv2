@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
 **Objetos principales:** Mirada absorbente > Agrietador > Cetro de cristal de Rylai > Abrazo demoníaco
-**Objetos finales:** Cota de espinas, Apariencia espiritual, Reloj de arena de Zhonya
+**Objetos finales:** Reloj de arena de Zhonya, Apariencia espiritual, Cota de espinas

@@ -1,6 +1,6 @@
 **Galio Mid** *(Normal)*
 **Position:** Mid
-**Winrate:** 51.3%
+**Winrate:** 50.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:valor:804451124245561394> <:bruj:804451124236648478>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Sorcerer's Shoes
 **Start Build:** Stealth Ward, Doran's Ring, Health Potion
-**Core Build:** Lost Chapter > Everfrost > Zhonya's Hourglass > Morellonomicon
-**End Build:** Void Staff, Rabadon's Deathcap, Banshee's Veil
+**Core Build:** Lost Chapter > Everfrost > Zhonya's Hourglass > Demonic Embrace
+**End Build:** Void Staff, Rabadon's Deathcap, Morellonomicon

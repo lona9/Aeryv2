@@ -1,6 +1,6 @@
 **Maokai Top** *(Normal)*
 **Position:** Support, Top
-**Winrate:** 49.9%
+**Winrate:** 48.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Doran's Shield, Health Potion
 **Core Build:** Bami's Cinder > Sunfire Aegis > Winter's Approach > Thornmail
-**End Build:** Spirit Visage, Force of Nature, Frozen Heart
+**End Build:** Frozen Heart, Anathema's Chains, Force of Nature

@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Mercury's Treads
-**Start Build:** Guardian's Horn, Tear of the Goddess
-**Core Build:** Guardian's Horn > Frostfire Gauntlet > Winter's Approach > Spirit Visage
-**End Build:** Frozen Heart, Thornmail, Force of Nature
+**Boots:** Spirit Visage
+**Start Build:** Faerie Charm, Refillable Potion, Guardian's Horn
+**Core Build:** Guardian's Horn > Guardian's Horn > Frostfire Gauntlet > Winter's Approach
+**End Build:** Thornmail, Frozen Heart, Force of Nature

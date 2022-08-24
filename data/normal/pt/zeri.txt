@@ -1,7 +1,7 @@
 **Zeri Build ** *(Normal)*
 **Rota:** Atirador
-**Porcentagem de vitorias:** 46.0%
-**Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
+**Porcentagem de vitorias:** 46.2%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
 > :cd:<:precision12:804446921522675733>:cd::cd:

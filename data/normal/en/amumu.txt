@@ -1,6 +1,6 @@
 **Amumu ** *(Normal)*
 **Position:** Support, Jungler
-**Winrate:** 51.2%
+**Winrate:** 52.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:valor:804451124245561394> <:dom:804451124085522442>
 

@@ -1,6 +1,6 @@
 **Hecarim ** *(Normal)*
 **Position:** Jungler
-**Winrate:** 47.7%
+**Winrate:** 46.6%
 **Summoner Spells:** <:Ghost:804555480856002610> <:Smite:804555481494061086>
 **Runes:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -18,4 +18,4 @@
 **Boots:** Ionian Boots of Lucidity
 **Start Build:** Stealth Ward, Emberknife, Refillable Potion
 **Core Build:** Executioner's Calling > Chempunk Chainsword > Turbo Chemtank > Manamune
-**End Build:** Force of Nature, Dead Man's Plate, Frozen Heart
+**End Build:** Force of Nature, Death's Dance, Dead Man's Plate

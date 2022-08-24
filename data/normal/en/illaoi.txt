@@ -1,6 +1,6 @@
 **Illaoi ** *(Normal)*
 **Position:** Top
-**Winrate:** 50.4%
+**Winrate:** 51.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 

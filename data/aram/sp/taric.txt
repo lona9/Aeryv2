@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas de mercurio
-**Objetos iniciales:** Cuerno del guardián, Lágrima de la diosa
-**Objetos principales:** Cuerno del guardián > Guantelete de fuego escarchado > Umbral del invierno > Apariencia espiritual
-**Objetos finales:** Corazón de hielo, Cota de espinas, Fuerza de la naturaleza
+**Botas:** Apariencia espiritual
+**Objetos iniciales:** Amuleto de las hadas, Poción reutilizable, Cuerno del guardián
+**Objetos principales:** Cuerno del guardián > Cuerno del guardián > Guantelete de fuego escarchado > Umbral del invierno
+**Objetos finales:** Cota de espinas, Corazón de hielo, Fuerza de la naturaleza

@@ -1,6 +1,6 @@
 **Pantheon Support** *(Normal)*
 **Position:** Jungler, Support
-**Winrate:** 47.2%
+**Winrate:** 46.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -18,4 +18,4 @@
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Steel Shoulderguards, Health Potion
 **Core Build:** Serrated Dirk > Umbral Glaive > Eclipse > Edge of Night
-**End Build:** Serylda's Grudge, Guardian Angel, Youmuu's Ghostblade
+**End Build:** Black Cleaver, Serylda's Grudge, Guardian Angel

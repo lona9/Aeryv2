@@ -16,5 +16,5 @@
 **Build**
 **Boots:** Sorcerer's Shoes
 **Start Build:** Boots, Hextech Alternator
-**Core Build:** Hextech Alternator > Night Harvester > Shadowflame > Rabadon's Deathcap
+**Core Build:** Lost Chapter > Luden's Tempest > Shadowflame > Rabadon's Deathcap
 **End Build:** Void Staff, Zhonya's Hourglass, Cosmic Drive

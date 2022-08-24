@@ -1,7 +1,7 @@
 **Kog'Maw ** *(Normal)*
 **Position:** AD Carry
-**Winrate:** 51.4%
-**Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
+**Winrate:** 50.9%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
 > :cd:<:precision12:804446921522675733>:cd::cd:
@@ -18,4 +18,4 @@
 **Boots:** Berserker's Greaves
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
 **Core Build:** Rageknife > Guinsoo's Rageblade > Runaan's Hurricane > Titanic Hydra
-**End Build:** Randuin's Omen, Wit's End, Guardian Angel
+**End Build:** Randuin's Omen, Wit's End, Blade of The Ruined King

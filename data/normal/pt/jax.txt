@@ -1,7 +1,7 @@
 **Jax Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 49.8%
-**Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Porcentagem de vitorias:** 49.6%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
 > :cd:<:precision12:804446921522675733>:cd::cd:
@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Poção Corrupta
 **Itens Core:** Fulgor > Ruptor Divino > Espada do Rei Destruído > Dança da Morte
-**Itens End:** Anjo Guardião, Mandíbula de Malmortius, Coração Congelado
+**Itens End:** Anjo Guardião, Coração Congelado, Mandíbula de Malmortius

@@ -1,6 +1,6 @@
 **Tahm Kench Top** *(Normal)*
 **Position:** Top, Support
-**Winrate:** 48.7%
+**Winrate:** 50.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -18,4 +18,4 @@
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Doran's Shield, Health Potion
 **Core Build:** Bami's Cinder > Frostfire Gauntlet > Thornmail > Spirit Visage
-**End Build:** Frozen Heart, Randuin's Omen, Gargoyle Stoneplate
+**End Build:** Gargoyle Stoneplate, Frozen Heart, Randuin's Omen

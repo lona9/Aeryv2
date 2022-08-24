@@ -1,6 +1,6 @@
 **Zac ** *(Normal)*
 **Position:** Jungler
-**Winrate:** 50.8%
+**Winrate:** 51.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runes:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -18,4 +18,4 @@
 **Boots:** Ionian Boots of Lucidity
 **Start Build:** Stealth Ward, Hailblade, Refillable Potion
 **Core Build:** Bami's Cinder > Sunfire Aegis > Demonic Embrace > Thornmail
-**End Build:** Randuin's Omen, Gargoyle Stoneplate, Spirit Visage
+**End Build:** Randuin's Omen, Spirit Visage, Gargoyle Stoneplate

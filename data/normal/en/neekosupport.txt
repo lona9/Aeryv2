@@ -1,6 +1,6 @@
 **Neeko Support** *(Normal)*
 **Position:** Mid, Support
-**Winrate:** 47.6%
+**Winrate:** 47.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Boots:** Sorcerer's Shoes
 **Start Build:** Stealth Ward, Spellthief's Edge
 **Core Build:** Lost Chapter > Everfrost > Zhonya's Hourglass > Morellonomicon
-**End Build:** Health Potion, Phantom Dancer, Shadowflame
+**End Build:** Health Potion, Rabadon's Deathcap, Shadowflame

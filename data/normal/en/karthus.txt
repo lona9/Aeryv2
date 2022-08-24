@@ -1,5 +1,5 @@
 **Karthus ** *(Normal)*
-**Position:** Jungler
+**Position:** Jungler, AD Carry
 **Winrate:** 48.9%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runes:** <:dom:804451124085522442> <:pres:804451123825606657>
@@ -11,7 +11,7 @@
 
 >   :cd::cd:<:precision23:804446921628057630>
 >   :cd::cd::cd:
->   :cd::cd:<:precision43:804446921941975080>
+>   <:precision41:804446922151690300>:cd::cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**

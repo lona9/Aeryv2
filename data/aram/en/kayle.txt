@@ -1,5 +1,5 @@
 **Kayle** *(ARAM)*
-**Winrate:** 52.9%
+**Winrate:** 53.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Wit's End
-**Start Build:** Boots, Recurve Bow
-**Core Build:** Recurve Bow > Recurve Bow > Nashor's Tooth > Riftmaker
+**Boots:** Berserker's Greaves
+**Start Build:** Noonquiver
+**Core Build:** Recurve Bow > Nashor's Tooth > Riftmaker > Wit's End
 **End Build:** Guinsoo's Rageblade, Rabadon's Deathcap, Blade of The Ruined King

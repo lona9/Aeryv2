@@ -1,5 +1,5 @@
 **Tristana** *(ARAM)*
-**Winrate:** 47.2%
+**Winrate:** 46.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runes:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Boots:** Berserker's Greaves
 **Start Build:** Noonquiver
 **Core Build:** Noonquiver > Kraken Slayer > Rapid Firecannon > Infinity Edge
-**End Build:** Lord Dominik's Regards, Bloodthirster, Mortal Reminder
+**End Build:** Lord Dominik's Regards, Bloodthirster, Phantom Dancer

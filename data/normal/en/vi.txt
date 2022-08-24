@@ -18,4 +18,4 @@
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Emberknife, Refillable Potion
 **Core Build:** Serrated Dirk > Eclipse > The Collector > Essence Reaver
-**End Build:** Guardian Angel, Black Cleaver, Maw of Malmortius
+**End Build:** Guardian Angel, Black Cleaver, Death's Dance

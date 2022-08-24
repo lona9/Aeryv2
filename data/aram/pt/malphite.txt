@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Botas, Alternador Hextec
-**Itens Core:** Alternador Hextec > Colhedor Noturno > Chama Sombria > Capuz da Morte de Rabadon
+**Itens Core:** Capítulo Perdido > Tormenta de Luden > Chama Sombria > Capuz da Morte de Rabadon
 **Itens End:** Cajado do Vazio, Ampulheta de Zhonya, Ímpeto Cósmico

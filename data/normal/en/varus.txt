@@ -1,6 +1,6 @@
 **Varus ** *(Normal)*
 **Position:** AD Carry
-**Winrate:** 49.8%
+**Winrate:** 50.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 

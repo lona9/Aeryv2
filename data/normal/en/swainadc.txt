@@ -1,7 +1,7 @@
 **Swain AD Carry** *(Normal)*
-**Position:** Support, Mid
-**Winrate:** 50.8%
-**Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
+**Position:** Mid, Support
+**Winrate:** 52.1%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
 > :cd::cd::cd:<:precision14:804446921631596585>

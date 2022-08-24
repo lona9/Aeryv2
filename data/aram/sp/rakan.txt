@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Cuerno del guardián, Lágrima de la diosa
-**Objetos principales:** Cuerno del guardián > Canción de batalla de Shurelya > Umbral del invierno > Fuerza de la naturaleza
-**Objetos finales:** Armadura de Warmog, Cota de espinas, Redención
+**Objetos principales:** Cuerno del guardián > Relicario de los Solari de Hierro > Umbral del invierno > Armadura de Warmog
+**Objetos finales:** Fuerza de la naturaleza, Cota de espinas, Redención

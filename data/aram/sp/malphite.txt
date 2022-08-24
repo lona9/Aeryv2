@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Botas, Alternador hextech
-**Objetos principales:** Alternador hextech > Cosechador nocturno > Llamasombría > Sombrero mortífero de Rabadon
+**Objetos principales:** Capítulo perdido > Tempestad de Luden > Llamasombría > Sombrero mortífero de Rabadon
 **Objetos finales:** Báculo del vacío, Reloj de arena de Zhonya, Impulso cósmico

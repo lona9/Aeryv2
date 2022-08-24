@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Passos de Mercúrio
-**Itens Iniciais:** Berrante do Guardião, Lágrima da Deusa
-**Itens Core:** Berrante do Guardião > Manopla do Raio de Gelo > Aproximação Invernal > Semblante Espiritual
-**Itens End:** Coração Congelado, Armadura de Espinhos, Força da Natureza
+**Botas:** Semblante Espiritual
+**Itens Iniciais:** Amuleto da Fada, Poção com Refil, Berrante do Guardião
+**Itens Core:** Berrante do Guardião > Berrante do Guardião > Manopla do Raio de Gelo > Aproximação Invernal
+**Itens End:** Armadura de Espinhos, Coração Congelado, Força da Natureza
