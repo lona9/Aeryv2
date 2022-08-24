@@ -246,10 +246,12 @@ class builds(commands.Cog):
                         await self.logs.send(f"aery aram {champ}, guild: {guild_name}")
 
             if counter == 0:
-                if language == "SP":
-                    await ctx.send("¡No existe información para este champ! ¿Escribiste bien el nombre?")
-                else:
+                if language == "EN":
+                    await ctx.send("There's not information for that champ! Did you type the name correctly?")
+                elif language == "PT":
                     await ctx.send("Não há informações para esse champ. Você soletrou o nome corretamente?")
+                else:
+                    await ctx.send("¡No existe información para este champ! ¿Escribiste bien el nombre?")
 
 
     @commands.hybrid_command(name = "normal",
