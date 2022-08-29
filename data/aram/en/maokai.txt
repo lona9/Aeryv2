@@ -1,5 +1,5 @@
 **Maokai** *(ARAM)*
-**Winrate:** 54.8%
+**Winrate:** 53.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Boots:** Sorcerer's Shoes
 **Start Build:** Lost Chapter
 **Core Build:** Lost Chapter > Liandry's Anguish > Demonic Embrace > Morellonomicon
-**End Build:** Thornmail, Void Staff, Rabadon's Deathcap
+**End Build:** Thornmail, Rabadon's Deathcap, Void Staff

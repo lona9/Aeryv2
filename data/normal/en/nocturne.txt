@@ -1,6 +1,6 @@
 **Nocturne ** *(Normal)*
 **Position:** Jungler
-**Winrate:** 49.6%
+**Winrate:** 49.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -18,4 +18,4 @@
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Emberknife, Refillable Potion
 **Core Build:** Ironspike Whip > Stridebreaker > Death's Dance > Maw of Malmortius
-**End Build:** Guardian Angel, Serylda's Grudge, Black Cleaver
+**End Build:** Guardian Angel, Serylda's Grudge, Chempunk Chainsword

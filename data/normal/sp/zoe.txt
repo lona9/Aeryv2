@@ -18,4 +18,4 @@
 **Botas:** Reloj de arena de Zhonya
 **Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
 **Objetos principales:** Poción de vida > Capítulo perdido > Tempestad de Luden > Llamasombría
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Robaalmas de Mejai
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Robaalmas de Mejai

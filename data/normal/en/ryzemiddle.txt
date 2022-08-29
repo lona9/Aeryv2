@@ -1,6 +1,6 @@
 **Ryze Mid** *(Normal)*
 **Position:** Mid, Top
-**Winrate:** 45.4%
+**Winrate:** 45.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Boots:** Sorcerer's Shoes
 **Start Build:** Stealth Ward, Tear of the Goddess, Health Potion
 **Core Build:** Lost Chapter > Everfrost > Archangel's Staff > Zhonya's Hourglass
-**End Build:** Rabadon's Deathcap, Void Staff, Shadowflame
+**End Build:** Rabadon's Deathcap, Void Staff, Frozen Heart

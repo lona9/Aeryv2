@@ -1,6 +1,6 @@
 **Pantheon ** *(Normal)*
-**Position:** Jungler, Support
-**Winrate:** 49.0%
+**Position:** Jungler, Support, Top
+**Winrate:** 49.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Boots:** Death's Dance
-**Start Build:** Stealth Ward, Emberknife, Refillable Potion
-**Core Build:** Refillable Potion > Serrated Dirk > Eclipse > Black Cleaver
-**End Build:** Guardian Angel, Serylda's Grudge, Maw of Malmortius
+**Start Build:** Stealth Ward, Steel Shoulderguards, Health Potion
+**Core Build:** Health Potion > Serrated Dirk > Eclipse > Black Cleaver
+**End Build:** Guardian Angel, Serylda's Grudge, Chempunk Chainsword

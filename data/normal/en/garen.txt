@@ -1,6 +1,6 @@
 **Garen ** *(Normal)*
 **Position:** Top
-**Winrate:** 50.8%
+**Winrate:** 50.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 

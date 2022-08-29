@@ -1,7 +1,7 @@
 **Sona ** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 51.8%
-**Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
+**Porcentaje de victorias:** 52.2%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:valor:804451124245561394>
 
 >   <:bruj11:804448796104589323>:cd::cd:

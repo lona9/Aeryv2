@@ -14,7 +14,7 @@
 >   <:5007:804451180164022312> <:5002:804451180104908870> <:5001:804451180112642088>
 
 **Build**
-**Botas:** Armadura de Espinhos
+**Botas:** Armadura de Warmog
 **Itens Iniciais:** Berrante do Guardião, Lágrima da Deusa
 **Itens Core:** Lágrima da Deusa > Berrante do Guardião > Égide de Fogo Solar > Aproximação Invernal
-**Itens End:** Força da Natureza, Armadura de Warmog, Coração Congelado
+**Itens End:** Força da Natureza, Coração Congelado, Armadura de Espinhos

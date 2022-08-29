@@ -1,5 +1,5 @@
 **Senna** *(ARAM)*
-**Winrate:** 54.7%
+**Winrate:** 50.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Manamune
-**Start Build:** Refillable Potion, Tear of the Goddess, Long Sword
-**Core Build:** Tear of the Goddess > Long Sword > Noonquiver > Kraken Slayer
+**Boots:** Berserker's Greaves
+**Start Build:** Noonquiver
+**Core Build:** Noonquiver > Kraken Slayer > Manamune > Rapid Firecannon
 **End Build:** Lord Dominik's Regards, Infinity Edge, Guinsoo's Rageblade

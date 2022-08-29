@@ -14,7 +14,7 @@
 >   <:5007:804451180164022312> <:5002:804451180104908870> <:5001:804451180112642088>
 
 **Build**
-**Boots:** Thornmail
+**Boots:** Warmog's Armor
 **Start Build:** Guardian's Horn, Tear of the Goddess
 **Core Build:** Tear of the Goddess > Guardian's Horn > Sunfire Aegis > Winter's Approach
-**End Build:** Force of Nature, Warmog's Armor, Frozen Heart
+**End Build:** Force of Nature, Frozen Heart, Thornmail

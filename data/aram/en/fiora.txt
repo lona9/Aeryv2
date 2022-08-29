@@ -15,6 +15,6 @@
 
 **Build**
 **Boots:** Mercury's Treads
-**Start Build:** Ironspike Whip, Health Potion
+**Start Build:** Refillable Potion, Ironspike Whip
 **Core Build:** Ironspike Whip > Goredrinker > Death's Dance > Ravenous Hydra
 **End Build:** Spirit Visage, Blade of The Ruined King, Maw of Malmortius

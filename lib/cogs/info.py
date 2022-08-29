@@ -16,9 +16,9 @@ class info(commands.Cog):
     description = "Bot general information.")
     async def ayuda(self, ctx: commands.Context) -> None:
 
-        date = "24/08/2022"
+        date = "29/08/2022"
 
-        parche = "12.15"
+        parche = "12.16"
 
         try:
             language = db.record("SELECT GuildLang FROM languages WHERE GuildID = ?", ctx.guild.id)
@@ -34,7 +34,7 @@ class info(commands.Cog):
 
             fields = [("\u200B", "Type `/commands` to see what Aerybot can do. Type `/language` inside a server to change its language.", False),
 
-            ("\u200B", f"**Aerybot** wants to make it easier and faster to get builds and runes to play League of Legends. It's updated once a week, and all information is obtained from the most popular, with higher win rate builds according to League of Graphs.\n\nThis bot was updated on **{date}**.\n\nLos datos fueron obtenidos de League of Graphs, for All Regions, Platinum+, **patch {parche}**.\n\nIf you want to invite this bot to another server, you can use [this link.](https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands)\n\nIf you liked this bot, consider buying the creator a [kofi.](https://www.ko-fi.com/lona9)", False)]
+            ("\u200B", f"**Aerybot** wants to make it easier and faster to get builds and runes to play League of Legends. It's updated once a week, and all information is obtained from the most popular, with higher win rate builds according to League of Graphs.\n\nThis bot was updated on **{date}**.\n\nData was obtained from League of Graphs, for All Regions, Platinum+, **patch {parche}**.\n\nIf you want to invite this bot to another server, you can use [this link.](https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands)\n\nIf you liked this bot, consider buying the creator a [kofi.](https://www.ko-fi.com/lona9)", False)]
 
             for name, value, inline in fields:
               embed.add_field(name=name, value=value, inline=inline)

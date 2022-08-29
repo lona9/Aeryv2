@@ -1,6 +1,6 @@
 **Warwick ** *(Normal)*
 **Position:** Jungler, Top
-**Winrate:** 51.5%
+**Winrate:** 52.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Boots:** Plated Steelcaps
-**Start Build:** Stealth Ward, Doran's Blade, Health Potion
+**Start Build:** Stealth Ward, Emberknife, Refillable Potion
 **Core Build:** Tiamat > Divine Sunderer > Titanic Hydra > Thornmail
 **End Build:** Spirit Visage, Death's Dance, Dead Man's Plate

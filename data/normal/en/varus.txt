@@ -1,6 +1,6 @@
 **Varus ** *(Normal)*
 **Position:** AD Carry
-**Winrate:** 50.0%
+**Winrate:** 49.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -18,4 +18,4 @@
 **Boots:** Berserker's Greaves
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
 **Core Build:** Noonquiver > Immortal Shieldbow > Guinsoo's Rageblade > Runaan's Hurricane
-**End Build:** Guardian Angel, Bloodthirster, Lord Dominik's Regards
+**End Build:** Guardian Angel, Bloodthirster, Void Staff

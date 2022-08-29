@@ -1,6 +1,6 @@
 **Akali Top** *(Normal)*
 **Position:** Mid, Top
-**Winrate:** 47.2%
+**Winrate:** 47.5%
 **Summoner Spells:** <:Teleport:804555481699713034> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 

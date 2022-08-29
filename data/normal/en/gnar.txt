@@ -1,6 +1,6 @@
 **Gnar ** *(Normal)*
 **Position:** Top
-**Winrate:** 48.0%
+**Winrate:** 48.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
 **Core Build:** Hearthbound Axe > Trinity Force > Black Cleaver > Death's Dance
-**End Build:** Thornmail, Randuin's Omen, Force of Nature
+**End Build:** Randuin's Omen, Force of Nature, Thornmail

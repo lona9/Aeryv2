@@ -1,6 +1,6 @@
 **Maokai Build ** *(Normal)*
-**Rota:** Suporte, Rota Topo
-**Porcentagem de vitorias:** 50.3%
+**Rota:** Suporte
+**Porcentagem de vitorias:** 49.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Galvanizadas de Aço
-**Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano
-**Itens Core:** Brasa de Bami > Égide de Fogo Solar > Aproximação Invernal > Armadura de Espinhos
-**Itens End:** Poção de Vida, Abraço Demoníaco, Couraça do Defunto
+**Itens Iniciais:** Sentinela Invisível, Escudo Relicário
+**Itens Core:** Espelho de Bandópolis > Mandato Imperial > Abraço Demoníaco > Morellonomicon
+**Itens End:** Poção de Vida, Armadura de Espinhos, Couraça do Defunto

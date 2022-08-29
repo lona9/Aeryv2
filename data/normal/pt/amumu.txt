@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Escudo Relicário, Poção de Vida
 **Itens Core:** Brasa de Bami > Égide de Fogo Solar > Abraço Demoníaco > Armadura de Espinhos
-**Itens End:** Coração Congelado, Placa Gargolítica, Força da Natureza
+**Itens End:** Coração Congelado, Força da Natureza, Presságio de Randuin

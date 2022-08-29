@@ -1,5 +1,5 @@
 **Volibear** *(ARAM)*
-**Winrate:** 49.3%
+**Winrate:** 47.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Boots:** Mercury's Treads
-**Start Build:** Boots, Bami's Cinder
+**Start Build:** Guardian's Horn, Tear of the Goddess
 **Core Build:** Guardian's Horn > Frostfire Gauntlet > Winter's Approach > Thornmail
-**End Build:** Gargoyle Stoneplate, Spirit Visage, Force of Nature
+**End Build:** Force of Nature, Gargoyle Stoneplate, Warmog's Armor

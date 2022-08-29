@@ -1,5 +1,5 @@
 **Nami** *(ARAM)*
-**Winrate:** 53.6%
+**Winrate:** 53.5%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runes:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Boots:** Ionian Boots of Lucidity
 **Start Build:** Tear of the Goddess, Bandleglass Mirror
 **Core Build:** Bandleglass Mirror > Imperial Mandate > Archangel's Staff > Chemtech Putrifier
-**End Build:** Redemption, Ardent Censer, Staff of Flowing Water
+**End Build:** Redemption, Staff of Flowing Water, Ardent Censer

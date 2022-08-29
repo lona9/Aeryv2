@@ -1,5 +1,5 @@
 **Garen** *(ARAM)*
-**Winrate:** 48.4%
+**Winrate:** 48.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -16,5 +16,5 @@
 **Build**
 **Boots:** Mercury's Treads
 **Start Build:** Boots, Bami's Cinder
-**Core Build:** Guardian's Horn > Stridebreaker > Dead Man's Plate > Force of Nature
-**End Build:** Death's Dance, Black Cleaver, Thornmail
+**Core Build:** Ironspike Whip > Stridebreaker > Dead Man's Plate > Force of Nature
+**End Build:** Thornmail, Black Cleaver, Death's Dance

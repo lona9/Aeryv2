@@ -1,6 +1,6 @@
 **Gragas Support** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 47.7%
+**Porcentaje de victorias:** 46.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible
+**Objetos iniciales:** 
 **Objetos principales:** Capítulo perdido > Escarcha eterna > Reloj de arena de Zhonya > Impulso cósmico
-**Objetos finales:** Filo del Robahechizos, Poción de vida, Maldición del liche
+**Objetos finales:** Centinela invisible, Filo del Robahechizos, Poción de vida

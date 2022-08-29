@@ -1,6 +1,6 @@
 **Shaco ** *(Normal)*
 **Position:** Jungler
-**Winrate:** 50.6%
+**Winrate:** 50.8%
 **Summoner Spells:** <:Ignite:804555481167298570> <:Smite:804555481494061086>
 **Runes:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -18,4 +18,4 @@
 **Boots:** Berserker's Greaves
 **Start Build:** Stealth Ward, Hailblade, Refillable Potion
 **Core Build:** Serrated Dirk > Duskblade of Draktharr > Essence Reaver > The Collector
-**End Build:** Infinity Edge, Lord Dominik's Regards, Guardian Angel
+**End Build:** Infinity Edge, Guardian Angel, Lord Dominik's Regards

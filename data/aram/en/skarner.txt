@@ -17,4 +17,4 @@
 **Boots:** Mercury's Treads
 **Start Build:** Guardian's Horn, Tear of the Goddess
 **Core Build:** Guardian's Horn > Turbo Chemtank > Winter's Approach > Dead Man's Plate
-**End Build:** Warmog's Armor, Thornmail, Force of Nature
+**End Build:** Thornmail, Warmog's Armor, Force of Nature

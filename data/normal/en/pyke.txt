@@ -1,6 +1,6 @@
 **Pyke ** *(Normal)*
 **Position:** Support
-**Winrate:** 50.3%
+**Winrate:** 49.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:dom:804451124085522442> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Boots:** Mobility Boots
 **Start Build:** Stealth Ward, Steel Shoulderguards, Health Potion
 **Core Build:** Serrated Dirk > Umbral Glaive > Duskblade of Draktharr > Edge of Night
-**End Build:** Guardian Angel, Youmuu's Ghostblade, Maw of Malmortius
+**End Build:** Guardian Angel, Youmuu's Ghostblade, Death's Dance

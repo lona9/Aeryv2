@@ -1,5 +1,5 @@
 **Taric** *(ARAM)*
-**Winrate:** 56.1%
+**Winrate:** 54.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Spirit Visage
-**Start Build:** Faerie Charm, Refillable Potion, Guardian's Horn
-**Core Build:** Guardian's Horn > Guardian's Horn > Frostfire Gauntlet > Winter's Approach
-**End Build:** Thornmail, Frozen Heart, Force of Nature
+**Boots:** Mercury's Treads
+**Start Build:** Guardian's Horn, Tear of the Goddess
+**Core Build:** Guardian's Horn > Frostfire Gauntlet > Winter's Approach > Spirit Visage
+**End Build:** Frozen Heart, Thornmail, Force of Nature

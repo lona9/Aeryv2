@@ -1,6 +1,6 @@
 **Rell ** *(Normal)*
 **Position:** Support
-**Winrate:** 49.8%
+**Winrate:** 49.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:insp:804451124207681577> <:valor:804451124245561394>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Boots:** Plated Steelcaps
-**Start Build:** Stealth Ward
+**Start Build:** Stealth Ward, Relic Shield
 **Core Build:** Kindlegem > Evenshroud > Zeke's Convergence > Knight's Vow
-**End Build:** Relic Shield, Health Potion, Thornmail
+**End Build:** Health Potion, Thornmail, Frozen Heart

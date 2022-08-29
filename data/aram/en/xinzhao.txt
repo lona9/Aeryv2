@@ -1,5 +1,5 @@
 **Xin Zhao** *(ARAM)*
-**Winrate:** 48.3%
+**Winrate:** 47.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Boots:** Mercury's Treads
 **Start Build:** Refillable Potion, Ironspike Whip
 **Core Build:** Ironspike Whip > Goredrinker > Death's Dance > Maw of Malmortius
-**End Build:** Blade of The Ruined King, Spirit Visage, Thornmail
+**End Build:** Thornmail, Blade of The Ruined King, Spirit Visage

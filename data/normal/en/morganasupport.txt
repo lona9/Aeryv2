@@ -1,6 +1,6 @@
 **Morgana Support** *(Normal)*
 **Position:** Support
-**Winrate:** 50.2%
+**Winrate:** 49.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Boots:** Sorcerer's Shoes
-**Start Build:** Stealth Ward, Spellthief's Edge
+**Start Build:** Stealth Ward
 **Core Build:** Lost Chapter > Liandry's Anguish > Zhonya's Hourglass > Morellonomicon
-**End Build:** Health Potion, Demonic Embrace, Rylai's Crystal Scepter
+**End Build:** Spellthief's Edge, Health Potion, Rylai's Crystal Scepter

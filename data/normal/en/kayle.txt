@@ -1,6 +1,6 @@
 **Kayle ** *(Normal)*
 **Position:** Top
-**Winrate:** 49.9%
+**Winrate:** 50.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Boots:** Rabadon's Deathcap
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
 **Core Build:** Health Potion > Recurve Bow > Nashor's Tooth > Riftmaker
-**End Build:** Zhonya's Hourglass, Void Staff, Rylai's Crystal Scepter
+**End Build:** Zhonya's Hourglass, Rylai's Crystal Scepter, Void Staff

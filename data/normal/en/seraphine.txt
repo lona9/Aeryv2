@@ -1,6 +1,6 @@
 **Seraphine ** *(Normal)*
 **Position:** Support, AD Carry
-**Winrate:** 50.6%
+**Winrate:** 51.5%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
 

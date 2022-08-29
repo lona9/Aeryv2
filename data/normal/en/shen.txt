@@ -1,6 +1,6 @@
 **Shen ** *(Normal)*
 **Position:** Top
-**Winrate:** 51.8%
+**Winrate:** 52.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:valor:804451124245561394> <:dom:804451124085522442>
 
@@ -18,4 +18,4 @@
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Doran's Shield, Health Potion
 **Core Build:** Bami's Cinder > Frostfire Gauntlet > Titanic Hydra > Thornmail
-**End Build:** Randuin's Omen, Force of Nature, Anathema's Chains
+**End Build:** Randuin's Omen, Force of Nature, Demonic Embrace

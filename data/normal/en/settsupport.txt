@@ -1,6 +1,6 @@
 **Sett Support** *(Normal)*
 **Position:** Top
-**Winrate:** 47.9%
+**Winrate:** 45.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Boots of Swiftness
+**Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward
 **Core Build:** Bami's Cinder > Turbo Chemtank > Dead Man's Plate > Thornmail
 **End Build:** Steel Shoulderguards, Health Potion, Force of Nature

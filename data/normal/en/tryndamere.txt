@@ -1,6 +1,6 @@
 **Tryndamere ** *(Normal)*
 **Position:** Top
-**Winrate:** 49.6%
+**Winrate:** 49.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Boots:** Berserker's Greaves
 **Start Build:** Stealth Ward, Doran's Shield, Health Potion
 **Core Build:** Noonquiver > Galeforce > Navori Quickblades > Infinity Edge
-**End Build:** Serylda's Grudge, Phantom Dancer, Guardian Angel
+**End Build:** Serylda's Grudge, Guardian Angel, Phantom Dancer

@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** Látigo férreo, Poción de vida
+**Objetos iniciales:** Poción reutilizable, Látigo férreo
 **Objetos principales:** Látigo férreo > Bebedor de sangre > Danza de la muerte > Hidra voraz
 **Objetos finales:** Apariencia espiritual, Hoja del rey arruinado, Fauces de Malmortius

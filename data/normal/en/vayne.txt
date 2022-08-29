@@ -1,6 +1,6 @@
 **Vayne ** *(Normal)*
 **Position:** AD Carry
-**Winrate:** 49.9%
+**Winrate:** 50.1%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Berserker's Greaves
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
-**Core Build:** Noonquiver > Immortal Shieldbow > Guinsoo's Rageblade > Wit's End
+**Core Build:** Noonquiver > Immortal Shieldbow > Guinsoo's Rageblade > Blade of The Ruined King
 **End Build:** Guardian Angel, Randuin's Omen, Mercurial Scimitar

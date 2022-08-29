@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Sorcerer's Shoes
 **Start Build:** Stealth Ward, Doran's Ring, Health Potion
-**Core Build:** Hextech Alternator > Hextech Rocketbelt > Shadowflame > Zhonya's Hourglass
+**Core Build:** Hextech Alternator > Hextech Rocketbelt > Zhonya's Hourglass > Shadowflame
 **End Build:** Rabadon's Deathcap, Void Staff, Morellonomicon

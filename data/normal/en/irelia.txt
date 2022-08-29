@@ -1,6 +1,6 @@
 **Irelia ** *(Normal)*
 **Position:** Top, Mid
-**Winrate:** 48.3%
+**Winrate:** 49.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 

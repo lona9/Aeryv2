@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Capítulo Perdido
-**Itens Core:** Capítulo Perdido > Tormenta de Luden > Ímpeto Cósmico > Morellonomicon
-**Itens End:** Cajado do Vazio, Chama Sombria, Capuz da Morte de Rabadon
+**Itens Core:** Capítulo Perdido > Tormenta de Luden > Chama Sombria > Capuz da Morte de Rabadon
+**Itens End:** Cajado do Vazio, Morellonomicon, Ampulheta de Zhonya

@@ -17,4 +17,4 @@
 **Botas:** Danza de la muerte
 **Objetos iniciales:** Botas, Espada larga, Brillo
 **Objetos principales:** Brillo > Brillo > Cercenador divino > Hoja del rey arruinado
-**Objetos finales:** Apariencia espiritual, Fauces de Malmortius, Cota de espinas
+**Objetos finales:** Apariencia espiritual, Fauces de Malmortius, Al filo de la Cordura

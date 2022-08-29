@@ -16,5 +16,5 @@
 **Build**
 **Boots:** Sorcerer's Shoes
 **Start Build:** Lost Chapter
-**Core Build:** Lost Chapter > Luden's Tempest > Cosmic Drive > Morellonomicon
-**End Build:** Void Staff, Shadowflame, Rabadon's Deathcap
+**Core Build:** Lost Chapter > Luden's Tempest > Shadowflame > Rabadon's Deathcap
+**End Build:** Void Staff, Morellonomicon, Zhonya's Hourglass

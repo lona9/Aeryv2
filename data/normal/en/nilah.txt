@@ -1,6 +1,6 @@
 **Nilah ** *(Normal)*
 **Position:** AD Carry
-**Winrate:** 51.5%
+**Winrate:** 50.9%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 

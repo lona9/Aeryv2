@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Berrante do Guardião, Lágrima da Deusa
 **Itens Core:** Berrante do Guardião > Quimiotanque Turbo > Aproximação Invernal > Couraça do Defunto
-**Itens End:** Armadura de Warmog, Armadura de Espinhos, Força da Natureza
+**Itens End:** Armadura de Espinhos, Armadura de Warmog, Força da Natureza

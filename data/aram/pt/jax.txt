@@ -17,4 +17,4 @@
 **Botas:** Dança da Morte
 **Itens Iniciais:** Botas, Espada Longa, Fulgor
 **Itens Core:** Fulgor > Fulgor > Ruptor Divino > Espada do Rei Destruído
-**Itens End:** Semblante Espiritual, Mandíbula de Malmortius, Armadura de Espinhos
+**Itens End:** Semblante Espiritual, Mandíbula de Malmortius, Limite da Razão

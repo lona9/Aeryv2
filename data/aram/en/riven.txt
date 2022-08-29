@@ -1,5 +1,5 @@
 **Riven** *(ARAM)*
-**Winrate:** 51.1%
+**Winrate:** 51.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Boots:** Mercury's Treads
 **Start Build:** Refillable Potion, Ironspike Whip
 **Core Build:** Ironspike Whip > Goredrinker > Death's Dance > Black Cleaver
-**End Build:** Ravenous Hydra, Spirit Visage, Chempunk Chainsword
+**End Build:** Ravenous Hydra, Spirit Visage, Maw of Malmortius

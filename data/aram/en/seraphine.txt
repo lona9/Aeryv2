@@ -1,5 +1,5 @@
 **Seraphine** *(ARAM)*
-**Winrate:** 53.9%
+**Winrate:** 53.5%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runes:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Boots:** Sorcerer's Shoes
 **Start Build:** Lost Chapter
 **Core Build:** Lost Chapter > Liandry's Anguish > Rylai's Crystal Scepter > Demonic Embrace
-**End Build:** Rabadon's Deathcap, Void Staff, Chemtech Putrifier
+**End Build:** Rabadon's Deathcap, Void Staff, Zhonya's Hourglass

@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Passos de Mercúrio
-**Itens Iniciais:** Chicote Ferrifarpo, Poção de Vida
+**Itens Iniciais:** Poção com Refil, Chicote Ferrifarpo
 **Itens Core:** Chicote Ferrifarpo > Hemodrenário > Dança da Morte > Hidra Raivosa
 **Itens End:** Semblante Espiritual, Espada do Rei Destruído, Mandíbula de Malmortius
