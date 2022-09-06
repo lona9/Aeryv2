@@ -1,6 +1,6 @@
 **Gragas Build Rota Topo** *(Normal)*
-**Rota:** Rota Topo
-**Porcentagem de vitorias:** 48.7%
+**Rota:** Rota Topo, Selva
+**Porcentagem de vitorias:** 48.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:insp:804451124207681577> <:bruj:804451124236648478>
 

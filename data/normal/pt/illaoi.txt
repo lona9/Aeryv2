@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Poção Corrupta
 **Itens Core:** Fulgor > Ruptor Divino > Quebracascos > Dança da Morte
-**Itens End:** Semblante Espiritual, Armadura de Espinhos, Sinal de Sterak
+**Itens End:** Semblante Espiritual, Sinal de Sterak, Armadura de Espinhos

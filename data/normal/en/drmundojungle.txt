@@ -1,6 +1,6 @@
 **Dr. Mundo Jungler** *(Normal)*
 **Position:** Top
-**Winrate:** 49.6%
+**Winrate:** 47.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runes:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Hailblade, Refillable Potion
 **Core Build:** Bami's Cinder > Sunfire Aegis > Thornmail > Spirit Visage
-**End Build:** Force of Nature, Dead Man's Plate, Warmog's Armor
+**End Build:** Randuin's Omen, Warmog's Armor, Titanic Hydra

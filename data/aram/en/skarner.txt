@@ -1,5 +1,5 @@
 **Skarner** *(ARAM)*
-**Winrate:** 50.2%
+**Winrate:** 51.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -16,5 +16,5 @@
 **Build**
 **Boots:** Mercury's Treads
 **Start Build:** Guardian's Horn, Tear of the Goddess
-**Core Build:** Guardian's Horn > Turbo Chemtank > Winter's Approach > Dead Man's Plate
+**Core Build:** Bami's Cinder > Turbo Chemtank > Winter's Approach > Dead Man's Plate
 **End Build:** Thornmail, Warmog's Armor, Force of Nature

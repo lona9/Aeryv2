@@ -1,6 +1,6 @@
 **Ivern ** *(Normal)*
 **Position:** Jungler
-**Winrate:** 49.6%
+**Winrate:** 48.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Ionian Boots of Lucidity
 **Start Build:** Stealth Ward, Hailblade, Refillable Potion
-**Core Build:** Bandleglass Mirror > Moonstone Renewer > Chemtech Putrifier > Zhonya's Hourglass
-**End Build:** Redemption, Ardent Censer, Mejai's Soulstealer
+**Core Build:** Bandleglass Mirror > Shurelya's Battlesong > Chemtech Putrifier > Zhonya's Hourglass
+**End Build:** Staff of Flowing Water, Ardent Censer, Redemption

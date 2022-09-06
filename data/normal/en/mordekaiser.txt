@@ -1,6 +1,6 @@
 **Mordekaiser ** *(Normal)*
 **Position:** Top
-**Winrate:** 52.0%
+**Winrate:** 51.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Doran's Shield, Health Potion
 **Core Build:** Leeching Leer > Riftmaker > Rylai's Crystal Scepter > Demonic Embrace
-**End Build:** Thornmail, Spirit Visage, Zhonya's Hourglass
+**End Build:** Thornmail, Zhonya's Hourglass, Spirit Visage

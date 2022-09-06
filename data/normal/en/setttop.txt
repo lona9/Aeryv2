@@ -1,6 +1,6 @@
 **Sett Top** *(Normal)*
 **Position:** Top
-**Winrate:** 49.8%
+**Winrate:** 49.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Doran's Shield, Health Potion
 **Core Build:** Vampiric Scepter > Blade of The Ruined King > Stridebreaker > Death's Dance
-**End Build:** Sterak's Gage, Titanic Hydra, Thornmail
+**End Build:** Titanic Hydra, Sterak's Gage, Thornmail

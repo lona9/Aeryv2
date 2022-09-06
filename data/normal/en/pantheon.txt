@@ -1,6 +1,6 @@
 **Pantheon ** *(Normal)*
 **Position:** Jungler, Support, Top
-**Winrate:** 49.5%
+**Winrate:** 49.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 

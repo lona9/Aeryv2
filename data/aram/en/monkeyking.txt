@@ -1,5 +1,5 @@
 **Wukong** *(ARAM)*
-**Winrate:** 50.1%
+**Winrate:** 50.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Boots:** Maw of Malmortius
 **Start Build:** Boots, Long Sword, Sheen
 **Core Build:** Sheen > Sheen > Divine Sunderer > Death's Dance
-**End Build:** Black Cleaver, Ravenous Hydra, Spirit Visage
+**End Build:** Ravenous Hydra, Black Cleaver, Spirit Visage

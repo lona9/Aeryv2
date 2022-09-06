@@ -1,6 +1,6 @@
 **Galio Support** *(Normal)*
 **Position:** Mid
-**Winrate:** 46.4%
+**Winrate:** 46.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:valor:804451124245561394> <:bruj:804451124236648478>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward
-**Core Build:** Lost Chapter > Everfrost > Zhonya's Hourglass > Demonic Embrace
+**Core Build:** Lost Chapter > Everfrost > Zhonya's Hourglass > Morellonomicon
 **End Build:** Relic Shield, Health Potion, Thornmail

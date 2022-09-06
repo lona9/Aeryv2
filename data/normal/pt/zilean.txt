@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano
+**Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
 **Itens Core:** Espelho de Bandópolis > Hino Bélico de Shurelya > Putrificador Quimtec > Ampulheta de Zhonya
-**Itens End:** Poção de Vida, Cajado do Arcanjo, Ímpeto Cósmico
+**Itens End:** Capuz da Morte de Rabadon, Cajado do Arcanjo, Ímpeto Cósmico

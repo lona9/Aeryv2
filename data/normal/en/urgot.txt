@@ -1,6 +1,6 @@
 **Urgot ** *(Normal)*
 **Position:** Top
-**Winrate:** 51.3%
+**Winrate:** 50.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
 **Core Build:** Tiamat > Titanic Hydra > Black Cleaver > Frostfire Gauntlet
-**End Build:** Thornmail, Sterak's Gage, Death's Dance
+**End Build:** Death's Dance, Thornmail, Sterak's Gage

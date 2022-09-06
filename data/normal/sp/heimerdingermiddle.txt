@@ -1,7 +1,7 @@
 **Heimerdinger Mid** *(Normal)*
-**Posición:** Mid, Support, Top
-**Porcentaje de victorias:** 53.2%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Posición:** Mid, Top, Support
+**Porcentaje de victorias:** 53.7%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
 >   :cd:<:bruj12:804448797001252864>:cd:

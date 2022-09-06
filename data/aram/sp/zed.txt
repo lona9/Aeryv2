@@ -17,4 +17,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Poción reutilizable, Puñal serrado
 **Objetos principales:** Puñal serrado > Filoscuro de Draktharr > Arco axiomático > El Coleccionista
-**Objetos finales:** Rencor de Serylda, Filo de la noche, Fauces de Malmortius
+**Objetos finales:** Filo de la noche, Rencor de Serylda, Fauces de Malmortius

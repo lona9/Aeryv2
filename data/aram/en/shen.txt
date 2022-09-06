@@ -1,5 +1,5 @@
 **Shen** *(ARAM)*
-**Winrate:** 51.9%
+**Winrate:** 52.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Boots:** Mercury's Treads
 **Start Build:** Boots, Bami's Cinder
 **Core Build:** Bami's Cinder > Sunfire Aegis > Warmog's Armor > Thornmail
-**End Build:** Gargoyle Stoneplate, Titanic Hydra, Force of Nature
+**End Build:** Titanic Hydra, Gargoyle Stoneplate, Randuin's Omen

@@ -1,6 +1,6 @@
 **Volibear ** *(Normal)*
 **Position:** Jungler, Top
-**Winrate:** 50.6%
+**Winrate:** 50.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runes:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
@@ -18,4 +18,4 @@
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Hailblade, Refillable Potion
 **Core Build:** Bami's Cinder > Turbo Chemtank > Dead Man's Plate > Force of Nature
-**End Build:** Thornmail, Frozen Heart, Spirit Visage
+**End Build:** Thornmail, Frozen Heart, Randuin's Omen

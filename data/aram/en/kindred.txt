@@ -1,5 +1,5 @@
 **Kindred** *(ARAM)*
-**Winrate:** 48.1%
+**Winrate:** 48.9%
 **Summoner Spells:** <:Cleanse:804555480730304514> <:Flash:804555481443336202>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Boots:** Berserker's Greaves
 **Start Build:** Noonquiver
 **Core Build:** Noonquiver > Kraken Slayer > The Collector > Rapid Firecannon
-**End Build:** Bloodthirster, Lord Dominik's Regards, Infinity Edge
+**End Build:** Bloodthirster, Infinity Edge, Lord Dominik's Regards

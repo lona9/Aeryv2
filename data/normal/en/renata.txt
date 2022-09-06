@@ -1,6 +1,6 @@
 **Renata Glasc ** *(Normal)*
 **Position:** Support
-**Winrate:** 51.2%
+**Winrate:** 51.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:valor:804451124245561394> <:insp:804451124207681577>
 

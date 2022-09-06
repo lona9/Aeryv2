@@ -1,6 +1,6 @@
 **Rammus ** *(Normal)*
 **Position:** Jungler
-**Winrate:** 51.1%
+**Winrate:** 50.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runes:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -18,4 +18,4 @@
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Hailblade, Refillable Potion
 **Core Build:** Bami's Cinder > Turbo Chemtank > Thornmail > Dead Man's Plate
-**End Build:** Gargoyle Stoneplate, Frozen Heart, Randuin's Omen
+**End Build:** Randuin's Omen, Gargoyle Stoneplate, Frozen Heart

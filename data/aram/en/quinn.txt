@@ -1,6 +1,6 @@
 **Quinn** *(ARAM)*
-**Winrate:** 48.5%
-**Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
+**Winrate:** 48.4%
+**Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
 > <:precision11:804445926906658886>:cd::cd::cd:
@@ -17,4 +17,4 @@
 **Boots:** Berserker's Greaves
 **Start Build:** Noonquiver
 **Core Build:** Noonquiver > Kraken Slayer > The Collector > Bloodthirster
-**End Build:** Infinity Edge, Lord Dominik's Regards, Rapid Firecannon
+**End Build:** Lord Dominik's Regards, Infinity Edge, Rapid Firecannon

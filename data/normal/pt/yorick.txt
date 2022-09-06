@@ -1,6 +1,6 @@
 **Yorick Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 49.8%
+**Porcentagem de vitorias:** 49.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Botas:** Rancor de Serylda
 **Itens Iniciais:** Sentinela Invisível, Escudo de Doran, Poção de Vida
 **Itens Core:** Poção de Vida > Fulgor > Ruptor Divino > Quebracascos
-**Itens End:** Dança da Morte, Semblante Espiritual, Cutelo Negro
+**Itens End:** Dança da Morte, Armadura de Espinhos, Semblante Espiritual

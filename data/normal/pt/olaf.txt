@@ -1,6 +1,6 @@
 **Olaf Build ** *(Normal)*
 **Rota:** Rota Topo, Selva
-**Porcentagem de vitorias:** 51.7%
+**Porcentagem de vitorias:** 51.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
 **Itens Core:** Machado Termestre > Força da Trindade > Dança da Morte > Sinal de Sterak
-**Itens End:** Semblante Espiritual, Armadura de Espinhos, Presságio de Randuin
+**Itens End:** Semblante Espiritual, Armadura de Espinhos, Anjo Guardião

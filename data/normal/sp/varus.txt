@@ -1,6 +1,6 @@
 **Varus ** *(Normal)*
-**Posición:** AD Carry
-**Porcentaje de victorias:** 49.3%
+**Posición:** AD Carry, Mid
+**Porcentaje de victorias:** 48.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > Hoja de furia de Guinsoo > Huracán de Runaan
-**Objetos finales:** Ángel Guardián, Sanguinaria, Báculo del vacío
+**Objetos principales:** Arco curvo > Diente de Nashor > Agrietador > Sombrero mortífero de Rabadon
+**Objetos finales:** Ángel Guardián, Báculo del vacío, Reloj de arena de Zhonya

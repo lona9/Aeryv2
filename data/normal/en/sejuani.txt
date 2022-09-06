@@ -1,6 +1,6 @@
 **Sejuani ** *(Normal)*
 **Position:** Top, Jungler
-**Winrate:** 51.3%
+**Winrate:** 50.8%
 **Summoner Spells:** <:Teleport:804555481699713034> <:Ignite:804555481167298570>
 **Runes:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Doran's Shield, Health Potion
-**Core Build:** Bami's Cinder > Frostfire Gauntlet > Winter's Approach > Thornmail
-**End Build:** Warmog's Armor, Frozen Heart, Gargoyle Stoneplate
+**Core Build:** Bami's Cinder > Frostfire Gauntlet > Winter's Approach > Frozen Heart
+**End Build:** Warmog's Armor, Thornmail, Force of Nature

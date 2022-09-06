@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Cuerno del guardián, Lágrima de la diosa
 **Objetos principales:** Ceniza de Bami > Égida de fuego solar > Umbral del invierno > Cota de espinas
-**Objetos finales:** Armadura de Warmog, Fuerza de la naturaleza, Armadura pétrea
+**Objetos finales:** Armadura de Warmog, Armadura pétrea, Fuerza de la naturaleza

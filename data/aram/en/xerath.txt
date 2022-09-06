@@ -1,5 +1,5 @@
 **Xerath** *(ARAM)*
-**Winrate:** 48.9%
+**Winrate:** 49.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
 **Runes:** <:dom:804451124085522442> <:pres:804451123825606657>
 

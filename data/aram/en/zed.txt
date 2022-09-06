@@ -17,4 +17,4 @@
 **Boots:** Ionian Boots of Lucidity
 **Start Build:** Refillable Potion, Serrated Dirk
 **Core Build:** Serrated Dirk > Duskblade of Draktharr > Axiom Arc > The Collector
-**End Build:** Serylda's Grudge, Edge of Night, Maw of Malmortius
+**End Build:** Edge of Night, Serylda's Grudge, Maw of Malmortius

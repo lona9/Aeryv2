@@ -1,6 +1,6 @@
 **Camille ** *(Normal)*
 **Position:** Top
-**Winrate:** 49.3%
+**Winrate:** 49.2%
 **Summoner Spells:** <:Teleport:804555481699713034> <:Ignite:804555481167298570>
 **Runes:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Doran's Shield, Health Potion
 **Core Build:** Sheen > Divine Sunderer > Ravenous Hydra > Death's Dance
-**End Build:** Guardian Angel, Chempunk Chainsword, Sterak's Gage
+**End Build:** Guardian Angel, Chempunk Chainsword, Maw of Malmortius

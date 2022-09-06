@@ -1,5 +1,5 @@
 **Taric** *(ARAM)*
-**Winrate:** 54.5%
+**Winrate:** 54.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Boots:** Mercury's Treads
 **Start Build:** Guardian's Horn, Tear of the Goddess
 **Core Build:** Guardian's Horn > Frostfire Gauntlet > Winter's Approach > Spirit Visage
-**End Build:** Frozen Heart, Thornmail, Force of Nature
+**End Build:** Frozen Heart, Thornmail, Warmog's Armor

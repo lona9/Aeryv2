@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Chicote Ferrifarpo
 **Itens Core:** Chicote Ferrifarpo > Hemodrenário > Dança da Morte > Cutelo Negro
-**Itens End:** Hidra Raivosa, Semblante Espiritual, Mandíbula de Malmortius
+**Itens End:** Hidra Raivosa, Semblante Espiritual, Serrespada Quimiopunk

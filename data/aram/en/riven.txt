@@ -17,4 +17,4 @@
 **Boots:** Mercury's Treads
 **Start Build:** Refillable Potion, Ironspike Whip
 **Core Build:** Ironspike Whip > Goredrinker > Death's Dance > Black Cleaver
-**End Build:** Ravenous Hydra, Spirit Visage, Maw of Malmortius
+**End Build:** Ravenous Hydra, Spirit Visage, Chempunk Chainsword

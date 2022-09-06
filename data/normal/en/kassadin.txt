@@ -1,6 +1,6 @@
 **Kassadin ** *(Normal)*
 **Position:** Mid
-**Winrate:** 50.2%
+**Winrate:** 49.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:dom:804451124085522442> <:pres:804451123825606657>
 

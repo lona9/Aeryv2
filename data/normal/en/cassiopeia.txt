@@ -1,6 +1,6 @@
 **Cassiopeia ** *(Normal)*
 **Position:** Mid
-**Winrate:** 51.3%
+**Winrate:** 52.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Boots:** -
 **Start Build:** Stealth Ward, Tear of the Goddess, Health Potion
 **Core Build:** Lost Chapter > Liandry's Anguish > Archangel's Staff > Rylai's Crystal Scepter
-**End Build:** Void Staff, Morellonomicon, Zhonya's Hourglass
+**End Build:** Void Staff, Zhonya's Hourglass, Morellonomicon

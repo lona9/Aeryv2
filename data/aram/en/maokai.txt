@@ -17,4 +17,4 @@
 **Boots:** Sorcerer's Shoes
 **Start Build:** Lost Chapter
 **Core Build:** Lost Chapter > Liandry's Anguish > Demonic Embrace > Morellonomicon
-**End Build:** Thornmail, Rabadon's Deathcap, Void Staff
+**End Build:** Rabadon's Deathcap, Thornmail, Void Staff

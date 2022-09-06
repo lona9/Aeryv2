@@ -17,4 +17,4 @@
 **Boots:** Sorcerer's Shoes
 **Start Build:** Lost Chapter
 **Core Build:** Lost Chapter > Luden's Tempest > Shadowflame > Zhonya's Hourglass
-**End Build:** Void Staff, Rabadon's Deathcap, Banshee's Veil
+**End Build:** Void Staff, Rabadon's Deathcap, Morellonomicon

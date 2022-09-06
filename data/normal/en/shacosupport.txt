@@ -1,6 +1,6 @@
 **Shaco Support** *(Normal)*
 **Position:** Jungler
-**Winrate:** 50.9%
+**Winrate:** 50.0%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Ignite:804555481167298570>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Ionian Boots of Lucidity
 **Start Build:** Stealth Ward, Spellthief's Edge, Health Potion
-**Core Build:** Lost Chapter > Liandry's Anguish > Zhonya's Hourglass > Morellonomicon
-**End Build:** Rabadon's Deathcap, Demonic Embrace, Cosmic Drive
+**Core Build:** Lost Chapter > Liandry's Anguish > Zhonya's Hourglass > Demonic Embrace
+**End Build:** Void Staff, Rabadon's Deathcap, Morellonomicon

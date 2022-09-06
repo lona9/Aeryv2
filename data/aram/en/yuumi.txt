@@ -1,5 +1,5 @@
 **Yuumi** *(ARAM)*
-**Winrate:** 46.5%
+**Winrate:** 45.7%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Clarity:804555481489080370>
 **Runes:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -16,5 +16,5 @@
 **Build**
 **Boots:** Chemtech Putrifier
 **Start Build:** Lost Chapter
-**Core Build:** Luden's Tempest > Horizon Focus > Rabadon's Deathcap > Ionian Boots of Lucidity
-**End Build:** Chemtech Putrifier, Redemption, Staff of Flowing Water
+**Core Build:** Luden's Tempest > Horizon Focus > Rabadon's Deathcap > Sorcerer's Shoes
+**End Build:** Chemtech Putrifier, Staff of Flowing Water, Redemption

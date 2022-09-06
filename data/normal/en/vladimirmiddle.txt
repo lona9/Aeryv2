@@ -1,6 +1,6 @@
 **Vladimir Mid** *(Normal)*
 **Position:** Mid
-**Winrate:** 51.0%
+**Winrate:** 50.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Boots:** Sorcerer's Shoes
 **Start Build:** Stealth Ward, Dark Seal, Refillable Potion
 **Core Build:** Fiendish Codex > Night Harvester > Rabadon's Deathcap > Void Staff
-**End Build:** Shadowflame, Zhonya's Hourglass, Mejai's Soulstealer
+**End Build:** Mejai's Soulstealer, Zhonya's Hourglass, Shadowflame

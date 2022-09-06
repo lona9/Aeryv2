@@ -1,7 +1,7 @@
 **Sona ** *(Normal)*
 **Position:** Support
-**Winrate:** 52.2%
-**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Winrate:** 50.8%
+**Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runes:** <:bruj:804451124236648478> <:valor:804451124245561394>
 
 >   <:bruj11:804448796104589323>:cd::cd:
@@ -16,6 +16,6 @@
 
 **Build**
 **Boots:** Ionian Boots of Lucidity
-**Start Build:** Stealth Ward, Spellthief's Edge
+**Start Build:** Stealth Ward, Spellthief's Edge, Health Potion
 **Core Build:** Bandleglass Mirror > Moonstone Renewer > Archangel's Staff > Chemtech Putrifier
-**End Build:** Health Potion, Staff of Flowing Water, Ardent Censer
+**End Build:** Staff of Flowing Water, Redemption, Ardent Censer

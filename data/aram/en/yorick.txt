@@ -1,5 +1,5 @@
 **Yorick** *(ARAM)*
-**Winrate:** 52.5%
+**Winrate:** 51.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Boots:** Mercury's Treads
 **Start Build:** Guardian's Horn, Tear of the Goddess
 **Core Build:** Guardian's Horn > Divine Sunderer > Winter's Approach > Spirit Visage
-**End Build:** Death's Dance, Thornmail, Titanic Hydra
+**End Build:** Thornmail, Death's Dance, Serylda's Grudge

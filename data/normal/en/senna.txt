@@ -1,6 +1,6 @@
 **Senna ** *(Normal)*
 **Position:** Support
-**Winrate:** 49.8%
+**Winrate:** 50.0%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runes:** <:pres:804451123825606657> <:insp:804451124207681577>
 
