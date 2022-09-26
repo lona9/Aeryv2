@@ -1,6 +1,6 @@
 **Pantheon Build Suporte** *(Normal)*
-**Rota:** Selva, Suporte, Rota Topo
-**Porcentagem de vitorias:** 46.1%
+**Rota:** Selva, Suporte, Rota do Meio, Rota Topo
+**Porcentagem de vitorias:** 46.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Guarda-ombros de Aço, Poção de Vida
-**Itens Core:** Punhal Serrilhado > Glaive Sombria > Eclipse > Limiar da Noite
-**Itens End:** Rancor de Serylda, Cutelo Negro, Anjo Guardião
+**Itens Core:** Punhal Serrilhado > Glaive Sombria > Eclipse > Cutelo Negro
+**Itens End:** Rancor de Serylda, Limiar da Noite, Mandíbula de Malmortius

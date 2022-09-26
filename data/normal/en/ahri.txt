@@ -1,6 +1,6 @@
 **Ahri ** *(Normal)*
 **Position:** Mid
-**Winrate:** 50.5%
+**Winrate:** 49.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -18,4 +18,4 @@
 **Boots:** Sorcerer's Shoes
 **Start Build:** Stealth Ward, Doran's Ring, Health Potion
 **Core Build:** Lost Chapter > Everfrost > Shadowflame > Zhonya's Hourglass
-**End Build:** Rabadon's Deathcap, Void Staff, Morellonomicon
+**End Build:** Void Staff, Rabadon's Deathcap, Morellonomicon

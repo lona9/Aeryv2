@@ -1,5 +1,5 @@
 **Braum** *(ARAM)*
-**Winrate:** 51.0%
+**Winrate:** 50.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Boots:** Mercury's Treads
 **Start Build:** Guardian's Horn, Tear of the Goddess
 **Core Build:** Guardian's Horn > Sunfire Aegis > Winter's Approach > Warmog's Armor
-**End Build:** Force of Nature, Frozen Heart, Thornmail
+**End Build:** Force of Nature, Thornmail, Gargoyle Stoneplate

@@ -1,6 +1,6 @@
 **Fiora ** *(Normal)*
 **Position:** Top
-**Winrate:** 50.2%
+**Winrate:** 49.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
-**Core Build:** Ironspike Whip > Goredrinker > Ravenous Hydra > Death's Dance
+**Core Build:** Sheen > Divine Sunderer > Ravenous Hydra > Death's Dance
 **End Build:** Guardian Angel, Maw of Malmortius, Hullbreaker

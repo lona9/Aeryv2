@@ -1,5 +1,5 @@
 **Camille** *(ARAM)*
-**Winrate:** 48.9%
+**Winrate:** 50.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Boots:** Maw of Malmortius
 **Start Build:** Boots, Long Sword, Sheen
 **Core Build:** Sheen > Sheen > Divine Sunderer > Death's Dance
-**End Build:** Thornmail, Spirit Visage, Ravenous Hydra
+**End Build:** Spirit Visage, Thornmail, Ravenous Hydra

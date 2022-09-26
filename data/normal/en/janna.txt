@@ -1,6 +1,6 @@
 **Janna ** *(Normal)*
 **Position:** Support
-**Winrate:** 53.4%
+**Winrate:** 53.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:insp:804451124207681577> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Boots:** Ionian Boots of Lucidity
 **Start Build:** Stealth Ward, Spellthief's Edge
 **Core Build:** Bandleglass Mirror > Moonstone Renewer > Chemtech Putrifier > Redemption
-**End Build:** Health Potion, Ardent Censer, Staff of Flowing Water
+**End Build:** Health Potion, Ardent Censer, Mikael's Blessing

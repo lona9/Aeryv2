@@ -1,21 +1,21 @@
 **Gragas Top** *(Normal)*
 **Position:** Top, Jungler
-**Winrate:** 48.9%
+**Winrate:** 48.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
-**Runes:** <:insp:804451124207681577> <:bruj:804451124236648478>
+**Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
->   :cd::cd:<:insp13:914919550464720936>
->   :cd:<:insp22:804450563793747989>:cd:
->   :cd::cd:<:insp33:804450564049731594>
->   <:insp41:804450563507879947>:cd::cd:
-
+>   :cd::cd:<:bruj13:804448796787474433>
 >   :cd:<:bruj22:804448796553117707>:cd:
 >   <:bruj31:804448797395910716>:cd::cd:
+>   :cd::cd:<:bruj43:804448797631316069>
+
 >   :cd::cd::cd:
+>   :cd::cd:<:insp33:804450564049731594>
+>   <:insp41:804450563507879947>:cd::cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Boots:** Ionian Boots of Lucidity
 **Start Build:** Stealth Ward, Doran's Ring, Health Potion
 **Core Build:** Hextech Alternator > Night Harvester > Archangel's Staff > Zhonya's Hourglass
-**End Build:** Rabadon's Deathcap, Void Staff, Shadowflame
+**End Build:** Rabadon's Deathcap, Void Staff, Morellonomicon

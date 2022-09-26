@@ -1,5 +1,5 @@
 **Sion** *(ARAM)*
-**Porcentagem de vitorias:** 52.4%
+**Porcentagem de vitorias:** 52.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Passos de Mercúrio
-**Itens Iniciais:** Botas, Brasa de Bami
-**Itens Core:** Berrante do Guardião > Égide de Fogo Solar > Armadura de Warmog > Armadura de Espinhos
-**Itens End:** Hidra Titânica, Força da Natureza, Placa Gargolítica
+**Itens Iniciais:** Berrante do Guardião, Lágrima da Deusa
+**Itens Core:** Punhal Serrilhado > Garra do Espreitador > Lâmina Fantasma de Youmuu > A Coletora
+**Itens End:** Hidra Titânica, Placa Gargolítica, Força da Natureza

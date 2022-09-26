@@ -1,5 +1,5 @@
 **Hecarim** *(ARAM)*
-**Winrate:** 51.3%
+**Winrate:** 51.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Boots:** Mercury's Treads
 **Start Build:** Guardian's Horn, Tear of the Goddess
 **Core Build:** Guardian's Horn > Divine Sunderer > Manamune > Death's Dance
-**End Build:** Thornmail, Dead Man's Plate, Force of Nature
+**End Build:** Spirit Visage, Thornmail, Force of Nature

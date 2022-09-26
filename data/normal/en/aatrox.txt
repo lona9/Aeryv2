@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Doran's Shield, Health Potion
-**Core Build:** Serrated Dirk > Eclipse > Black Cleaver > Serylda's Grudge
-**End Build:** Guardian Angel, Death's Dance, Maw of Malmortius
+**Core Build:** Serrated Dirk > Eclipse > Black Cleaver > Death's Dance
+**End Build:** Guardian Angel, Serylda's Grudge, Maw of Malmortius

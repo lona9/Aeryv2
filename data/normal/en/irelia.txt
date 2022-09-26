@@ -1,6 +1,6 @@
 **Irelia ** *(Normal)*
 **Position:** Top, Mid
-**Winrate:** 48.9%
+**Winrate:** 49.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Boots:** Death's Dance
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
 **Core Build:** Health Potion > Vampiric Scepter > Blade of The Ruined King > Immortal Shieldbow
-**End Build:** Guardian Angel, Wit's End, Chempunk Chainsword
+**End Build:** Guardian Angel, Frozen Heart, Wit's End

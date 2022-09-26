@@ -1,6 +1,6 @@
 **Vladimir Top** *(Normal)*
 **Position:** Mid
-**Winrate:** 49.7%
+**Winrate:** 48.2%
 **Summoner Spells:** <:Ghost:804555480856002610> <:Ignite:804555481167298570>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
 

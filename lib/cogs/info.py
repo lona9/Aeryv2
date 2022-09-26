@@ -16,9 +16,9 @@ class info(commands.Cog):
     description = "Bot general information.")
     async def ayuda(self, ctx: commands.Context) -> None:
 
-        date = "06/09/2022"
+        date = "26/09/2022"
 
-        parche = "12.16"
+        parche = "12.18"
 
         try:
             language = db.record("SELECT GuildLang FROM languages WHERE GuildID = ?", ctx.guild.id)

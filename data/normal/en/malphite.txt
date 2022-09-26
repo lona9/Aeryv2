@@ -1,6 +1,6 @@
 **Malphite ** *(Normal)*
 **Position:** Top
-**Winrate:** 49.5%
+**Winrate:** 49.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Corrupting Potion
 **Core Build:** Bami's Cinder > Frostfire Gauntlet > Winter's Approach > Thornmail
-**End Build:** Force of Nature, Randuin's Omen, Frozen Heart
+**End Build:** Gargoyle Stoneplate, Force of Nature, Frozen Heart

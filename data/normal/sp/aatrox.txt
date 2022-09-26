@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
-**Objetos principales:** Puñal serrado > Eclipse > Cuchilla oscura > Rencor de Serylda
-**Objetos finales:** Ángel Guardián, Danza de la muerte, Fauces de Malmortius
+**Objetos principales:** Puñal serrado > Eclipse > Cuchilla oscura > Danza de la muerte
+**Objetos finales:** Ángel Guardián, Rencor de Serylda, Fauces de Malmortius

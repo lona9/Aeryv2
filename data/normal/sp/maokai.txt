@@ -1,21 +1,21 @@
 **Maokai ** *(Normal)*
-**Posición:** Support
-**Porcentaje de victorias:** 49.9%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Posición:** Top, Support
+**Porcentaje de victorias:** 52.1%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
->   :cd:<:valor12:804449943775084614>:cd:
->   :cd:<:valor22:804449944018223104>:cd:
->   :cd::cd:<:valor33:804449943603118131>
+>   <:valor11:804449943376232509>:cd::cd:
+>   <:valor21:804449943984537690>:cd::cd:
+>   :cd:<:valor32:804449943959765002>:cd:
 >   :cd::cd:<:valor43:804449944001708043>
 
 >   :cd::cd::cd:
 >   :cd::cd:<:insp33:804450564049731594>
->   :cd::cd:<:insp43:804450563952869452>
->   <:5008:804451180172279808> <:5002:804451180104908870> <:5002:804451180104908870>
+>   <:insp41:804450563507879947>:cd::cd:
+>   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible
+**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
 **Objetos principales:** Ceniza de Bami > Égida de fuego solar > Umbral del invierno > Cota de espinas
-**Objetos finales:** Filo del Robahechizos, Poción de vida, Abrazo demoníaco
+**Objetos finales:** Apariencia espiritual, Abrazo demoníaco, Corazón de hielo

@@ -1,6 +1,6 @@
 **Talon ** *(Normal)*
 **Position:** Mid, Jungler
-**Winrate:** 50.4%
+**Winrate:** 50.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:insp:804451124207681577> <:dom:804451124085522442>
 
@@ -9,13 +9,13 @@
 >   <:insp31:804450564188536842>:cd::cd:
 >   <:insp41:804450563507879947>:cd::cd:
 
+>   :cd::cd:<:dom23:804457130307485707>
 >   :cd::cd::cd:
->   :cd::cd:<:dom33:804457129578332160>
 > <:dom41:963152951478747156>:cd::cd::cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Boots:** Ionian Boots of Lucidity
 **Start Build:** Stealth Ward, Long Sword, Refillable Potion
-**Core Build:** Serrated Dirk > Youmuu's Ghostblade > Eclipse > Serylda's Grudge
-**End Build:** Guardian Angel, Black Cleaver, Death's Dance
+**Core Build:** Serrated Dirk > Prowler's Claw > Youmuu's Ghostblade > Serylda's Grudge
+**End Build:** Guardian Angel, Black Cleaver, Edge of Night

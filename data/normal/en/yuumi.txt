@@ -1,6 +1,6 @@
 **Yuumi ** *(Normal)*
 **Position:** Support
-**Winrate:** 46.8%
+**Winrate:** 47.5%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Ignite:804555481167298570>
 **Runes:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -18,4 +18,4 @@
 **Boots:** Ionian Boots of Lucidity
 **Start Build:** Stealth Ward, Spellthief's Edge, Health Potion
 **Core Build:** Bandleglass Mirror > Moonstone Renewer > Chemtech Putrifier > Staff of Flowing Water
-**End Build:** Mikael's Blessing, Ardent Censer, Redemption
+**End Build:** Ardent Censer, Mikael's Blessing, Mejai's Soulstealer

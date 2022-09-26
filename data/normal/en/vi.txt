@@ -1,6 +1,6 @@
 **Vi ** *(Normal)*
 **Position:** Jungler
-**Winrate:** 50.1%
+**Winrate:** 50.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runes:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Emberknife, Refillable Potion
-**Core Build:** Sheen > Divine Sunderer > Death's Dance > Black Cleaver
-**End Build:** Guardian Angel, Maw of Malmortius, Thornmail
+**Core Build:** Serrated Dirk > Eclipse > The Collector > Essence Reaver
+**End Build:** Guardian Angel, Black Cleaver, Maw of Malmortius

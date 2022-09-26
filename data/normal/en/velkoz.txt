@@ -1,6 +1,6 @@
 **Vel'Koz ** *(Normal)*
 **Position:** Support, Mid
-**Winrate:** 51.2%
+**Winrate:** 52.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Boots:** Sorcerer's Shoes
 **Start Build:** Stealth Ward, Spellthief's Edge, Health Potion
 **Core Build:** Lost Chapter > Luden's Tempest > Zhonya's Hourglass > Shadowflame
-**End Build:** Rabadon's Deathcap, Morellonomicon, Void Staff
+**End Build:** Rabadon's Deathcap, Void Staff, Morellonomicon

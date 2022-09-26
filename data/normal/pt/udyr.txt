@@ -1,6 +1,6 @@
 **Udyr Build ** *(Normal)*
 **Rota:** Selva, Rota Topo
-**Porcentagem de vitorias:** 50.7%
+**Porcentagem de vitorias:** 49.2%
 **Summoner Spells:** <:Ghost:804555480856002610> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
-**Itens Core:** Brasa de Bami > Égide de Fogo Solar > Abraço Demoníaco > Couraça do Defunto
-**Itens End:** Força da Natureza, Semblante Espiritual, Armadura de Espinhos
+**Itens Core:** Brasa de Bami > Égide de Fogo Solar > Abraço Demoníaco > Coração Congelado
+**Itens End:** Armadura de Espinhos, Força da Natureza, Couraça do Defunto

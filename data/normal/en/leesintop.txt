@@ -1,7 +1,7 @@
 **Lee Sin Top** *(Normal)*
 **Position:** Jungler
-**Winrate:** 43.6%
-**Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Winrate:** 43.3%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
 > :cd::cd::cd:<:precision14:804446921631596585>
@@ -18,4 +18,4 @@
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
 **Core Build:** Ironspike Whip > Goredrinker > Death's Dance > Black Cleaver
-**End Build:** Guardian Angel, Sterak's Gage, Randuin's Omen
+**End Build:** Guardian Angel, Maw of Malmortius, Chempunk Chainsword

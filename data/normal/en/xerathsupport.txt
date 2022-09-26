@@ -1,6 +1,6 @@
 **Xerath Support** *(Normal)*
 **Position:** Support, Mid
-**Winrate:** 51.3%
+**Winrate:** 51.5%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runes:** <:insp:804451124207681577> <:bruj:804451124236648478>
 

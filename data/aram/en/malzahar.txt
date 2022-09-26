@@ -1,5 +1,5 @@
 **Malzahar** *(ARAM)*
-**Winrate:** 51.7%
+**Winrate:** 51.5%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runes:** <:dom:804451124085522442> <:pres:804451123825606657>
 

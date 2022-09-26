@@ -1,6 +1,6 @@
 **Rumble ** *(Normal)*
 **Position:** Top, Mid
-**Winrate:** 50.0%
+**Winrate:** 49.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:bruj:804451124236648478> <:valor:804451124245561394>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Sorcerer's Shoes
 **Start Build:** Stealth Ward, Doran's Ring, Health Potion
-**Core Build:** Hextech Alternator > Night Harvester > Zhonya's Hourglass > Morellonomicon
-**End Build:** Rabadon's Deathcap, Void Staff, Shadowflame
+**Core Build:** Hextech Alternator > Night Harvester > Shadowflame > Zhonya's Hourglass
+**End Build:** Void Staff, Rabadon's Deathcap, Morellonomicon

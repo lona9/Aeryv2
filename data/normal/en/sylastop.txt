@@ -1,8 +1,8 @@
 **Sylas Top** *(Normal)*
 **Position:** Mid
-**Winrate:** 48.7%
+**Winrate:** 48.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
-**Runes:** <:pres:804451123825606657> <:insp:804451124207681577>
+**Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
 > :cd::cd::cd:<:precision14:804446921631596585>
 >   :cd::cd:<:precision23:804446921628057630>
@@ -10,12 +10,12 @@
 >   :cd::cd:<:precision43:804446921941975080>
 
 >   :cd::cd::cd:
->   :cd::cd:<:insp33:804450564049731594>
->   <:insp41:804450563507879947>:cd::cd:
+>   :cd:<:valor32:804449943959765002>:cd:
+>   :cd::cd:<:valor43:804449944001708043>
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Boots:** Ionian Boots of Lucidity
 **Start Build:** Stealth Ward, Doran's Ring, Health Potion
-**Core Build:** Lost Chapter > Everfrost > Zhonya's Hourglass > Cosmic Drive
-**End Build:** Rabadon's Deathcap, Void Staff, Shadowflame
+**Core Build:** Lost Chapter > Everfrost > Zhonya's Hourglass > Shadowflame
+**End Build:** Rabadon's Deathcap, Void Staff, Cosmic Drive

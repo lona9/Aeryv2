@@ -1,6 +1,6 @@
 **Sett Support** *(Normal)*
 **Position:** Top
-**Winrate:** 47.4%
+**Winrate:** 46.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
 

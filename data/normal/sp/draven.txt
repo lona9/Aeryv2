@@ -1,13 +1,13 @@
 **Draven ** *(Normal)*
 **Posición:** AD Carry
-**Porcentaje de victorias:** 49.1%
-**Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
+**Porcentaje de victorias:** 49.2%
+**Hechizos del Invocador:** <:Cleanse:804555480730304514> <:Flash:804555481443336202>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
 > :cd:<:precision12:804446921522675733>:cd::cd:
 >   :cd:<:precision22:804446921414541333>:cd:
 >   :cd::cd:<:precision33:804446921644179516>
->   :cd::cd:<:precision43:804446921941975080>
+>   <:precision41:804446922151690300>:cd::cd:
 
 >   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd::cd:
@@ -18,4 +18,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Puñal serrado > Saqueador de esencias > Eclipse > Recuerdos de lord Dominik
-**Objetos finales:** Filo del infinito, Cañón de fuego rápido, Ángel Guardián
+**Objetos finales:** Filo del infinito, Cañón de fuego rápido, Sanguinaria

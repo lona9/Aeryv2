@@ -1,6 +1,6 @@
 **Gragas Build Suporte** *(Normal)*
 **Rota:** Rota Topo, Selva
-**Porcentagem de vitorias:** 48.1%
+**Porcentagem de vitorias:** 45.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Sentinela Invisível
-**Itens Core:** Capítulo Perdido > Glacieterno > Ampulheta de Zhonya > Morellonomicon
-**Itens End:** Escudo Relicário, Poção de Vida, Ímpeto Cósmico
+**Itens Iniciais:** 
+**Itens Core:** Capítulo Perdido > Glacieterno > Ímpeto Cósmico > Ampulheta de Zhonya
+**Itens End:** Sentinela Invisível, Escudo Relicário, Poção de Vida

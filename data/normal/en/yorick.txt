@@ -1,6 +1,6 @@
 **Yorick ** *(Normal)*
 **Position:** Top
-**Winrate:** 49.6%
+**Winrate:** 50.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Serylda's Grudge
+**Boots:** Black Cleaver
 **Start Build:** Stealth Ward, Doran's Shield, Health Potion
-**Core Build:** Health Potion > Sheen > Divine Sunderer > Hullbreaker
-**End Build:** Death's Dance, Thornmail, Spirit Visage
+**Core Build:** Health Potion > Serrated Dirk > Eclipse > Serylda's Grudge
+**End Build:** Death's Dance, Guardian Angel, Thornmail

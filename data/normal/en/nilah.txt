@@ -18,4 +18,4 @@
 **Boots:** Berserker's Greaves
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
 **Core Build:** Noonquiver > Immortal Shieldbow > Phantom Dancer > Infinity Edge
-**End Build:** Guardian Angel, Bloodthirster, Lord Dominik's Regards
+**End Build:** Guardian Angel, Lord Dominik's Regards, Bloodthirster

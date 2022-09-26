@@ -1,5 +1,5 @@
 **Katarina** *(ARAM)*
-**Winrate:** 49.9%
+**Winrate:** 49.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Boots:** Death's Dance
 **Start Build:** Blasting Wand, Amplifying Tome
 **Core Build:** Amplifying Tome > Sheen > Divine Sunderer > Titanic Hydra
-**End Build:** Rabadon's Deathcap, Void Staff, Zhonya's Hourglass
+**End Build:** Void Staff, Rabadon's Deathcap, Zhonya's Hourglass

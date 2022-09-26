@@ -1,21 +1,21 @@
 **Ashe ** *(Normal)*
-**Position:** Support, AD Carry
-**Winrate:** 50.1%
-**Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
-**Runes:** <:bruj:804451124236648478> <:dom:804451124085522442>
+**Position:** AD Carry, Support
+**Winrate:** 50.3%
+**Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
+**Runes:** <:pres:804451123825606657> <:insp:804451124207681577>
 
->   :cd:<:bruj12:804448797001252864>:cd:
->   :cd:<:bruj22:804448796553117707>:cd:
->   <:bruj31:804448797395910716>:cd::cd:
->   <:bruj41:804448797597499402>:cd::cd:
+> :cd:<:precision12:804446921522675733>:cd::cd:
+>   :cd::cd:<:precision23:804446921628057630>
+>   <:precision31:804446921660956702>:cd::cd:
+>   <:precision41:804446922151690300>:cd::cd:
 
->   <:dom21:804457127800078397>:cd::cd:
 >   :cd::cd::cd:
-> :cd::cd::cd:<:dom44:804457129732866048>
->   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+>   :cd::cd:<:insp33:804450564049731594>
+>   :cd:<:insp42:804450563965452369>:cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Ionian Boots of Lucidity
-**Start Build:** Stealth Ward, Spectral Sickle, Health Potion
-**Core Build:** Bandleglass Mirror > Imperial Mandate > Manamune > Chempunk Chainsword
+**Boots:** Berserker's Greaves
+**Start Build:** Stealth Ward, Doran's Blade, Health Potion
+**Core Build:** Noonquiver > Kraken Slayer > Blade of The Ruined King > Phantom Dancer
 **End Build:** Guardian Angel, Lord Dominik's Regards, Runaan's Hurricane

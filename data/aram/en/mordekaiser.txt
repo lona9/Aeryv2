@@ -17,4 +17,4 @@
 **Boots:** Mercury's Treads
 **Start Build:** Leeching Leer
 **Core Build:** Leeching Leer > Riftmaker > Rylai's Crystal Scepter > Demonic Embrace
-**End Build:** Thornmail, Spirit Visage, Zhonya's Hourglass
+**End Build:** Thornmail, Spirit Visage, Force of Nature

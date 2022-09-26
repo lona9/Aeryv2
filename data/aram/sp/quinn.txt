@@ -1,9 +1,9 @@
 **Quinn ** *(ARAM)*
-**Porcentaje de victorias:** 48.4%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
+**Porcentaje de victorias:** 49.2%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
-> <:precision11:804445926906658886>:cd::cd::cd:
+> :cd:<:precision12:804446921522675733>:cd::cd:
 >   :cd:<:precision22:804446921414541333>:cd:
 >   <:precision31:804446921660956702>:cd::cd:
 >   <:precision41:804446922151690300>:cd::cd:
@@ -17,4 +17,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Carcaj de mediodía
 **Objetos principales:** Carcaj de mediodía > Matakrakens > El Coleccionista > Sanguinaria
-**Objetos finales:** Recuerdos de lord Dominik, Filo del infinito, Cañón de fuego rápido
+**Objetos finales:** Filo del infinito, Recuerdos de lord Dominik, Cañón de fuego rápido

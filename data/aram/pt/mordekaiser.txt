@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Olhar Sanguessuga
 **Itens Core:** Olhar Sanguessuga > Criafendas > Cetro de Cristal de Rylai > Abraço Demoníaco
-**Itens End:** Armadura de Espinhos, Semblante Espiritual, Ampulheta de Zhonya
+**Itens End:** Armadura de Espinhos, Semblante Espiritual, Força da Natureza

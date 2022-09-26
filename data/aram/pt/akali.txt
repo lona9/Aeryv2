@@ -17,4 +17,4 @@
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Botas, Alternador Hextec
 **Itens Core:** Alternador Hextec > Explocinturão Hextec > Chama Sombria > Ampulheta de Zhonya
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Abraço Demoníaco
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Véu da Banshee

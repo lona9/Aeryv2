@@ -1,6 +1,6 @@
 **Zoe ** *(Normal)*
 **Position:** Mid
-**Winrate:** 49.2%
+**Winrate:** 49.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:dom:804451124085522442> <:insp:804451124207681577>
 
@@ -11,11 +11,11 @@
 
 >   :cd::cd::cd:
 >   :cd::cd:<:insp33:804450564049731594>
->   :cd::cd:<:insp43:804450563952869452>
+>   <:insp41:804450563507879947>:cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
 **Boots:** Zhonya's Hourglass
 **Start Build:** Stealth Ward, Doran's Ring, Health Potion
 **Core Build:** Health Potion > Lost Chapter > Luden's Tempest > Shadowflame
-**End Build:** Void Staff, Rabadon's Deathcap, Mejai's Soulstealer
+**End Build:** Rabadon's Deathcap, Void Staff, Mejai's Soulstealer

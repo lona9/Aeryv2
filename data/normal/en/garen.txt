@@ -1,6 +1,6 @@
 **Garen ** *(Normal)*
 **Position:** Top
-**Winrate:** 51.4%
+**Winrate:** 50.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Boots:** Berserker's Greaves
 **Start Build:** Stealth Ward, Doran's Shield, Health Potion
 **Core Build:** Ironspike Whip > Stridebreaker > Mortal Reminder > Dead Man's Plate
-**End Build:** Death's Dance, Black Cleaver, Force of Nature
+**End Build:** Black Cleaver, Death's Dance, Force of Nature

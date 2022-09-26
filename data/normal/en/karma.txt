@@ -1,6 +1,6 @@
 **Karma ** *(Normal)*
 **Position:** Support
-**Winrate:** 49.1%
+**Winrate:** 49.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Boots:** Ionian Boots of Lucidity
-**Start Build:** Stealth Ward, Spellthief's Edge
-**Core Build:** Bandleglass Mirror > Shurelya's Battlesong > Chemtech Putrifier > Staff of Flowing Water
-**End Build:** Health Potion, Ardent Censer, Redemption
+**Start Build:** Stealth Ward
+**Core Build:** Bandleglass Mirror > Shurelya's Battlesong > Chemtech Putrifier > Ardent Censer
+**End Build:** Spellthief's Edge, Health Potion, Staff of Flowing Water

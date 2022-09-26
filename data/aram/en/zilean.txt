@@ -1,5 +1,5 @@
 **Zilean** *(ARAM)*
-**Winrate:** 47.8%
+**Winrate:** 48.4%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runes:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Boots:** Sorcerer's Shoes
 **Start Build:** Lost Chapter
 **Core Build:** Lost Chapter > Luden's Tempest > Horizon Focus > Rabadon's Deathcap
-**End Build:** Void Staff, Zhonya's Hourglass, Morellonomicon
+**End Build:** Void Staff, Morellonomicon, Zhonya's Hourglass

@@ -1,8 +1,8 @@
 **Sylas Top** *(Normal)*
 **Posición:** Mid
-**Porcentaje de victorias:** 48.7%
+**Porcentaje de victorias:** 48.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
-**Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
+**Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
 > :cd::cd::cd:<:precision14:804446921631596585>
 >   :cd::cd:<:precision23:804446921628057630>
@@ -10,12 +10,12 @@
 >   :cd::cd:<:precision43:804446921941975080>
 
 >   :cd::cd::cd:
->   :cd::cd:<:insp33:804450564049731594>
->   <:insp41:804450563507879947>:cd::cd:
+>   :cd:<:valor32:804449943959765002>:cd:
+>   :cd::cd:<:valor43:804449944001708043>
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
-**Objetos principales:** Capítulo perdido > Escarcha eterna > Reloj de arena de Zhonya > Impulso cósmico
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Llamasombría
+**Objetos principales:** Capítulo perdido > Escarcha eterna > Reloj de arena de Zhonya > Llamasombría
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Impulso cósmico
