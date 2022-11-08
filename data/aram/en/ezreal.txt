@@ -1,5 +1,5 @@
 **Ezreal** *(ARAM)*
-**Winrate:** 51.7%
+**Winrate:** 52.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runes:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
@@ -17,4 +17,4 @@
 **Boots:** Ionian Boots of Lucidity
 **Start Build:** Refillable Potion, Sheen, Tear of the Goddess
 **Core Build:** Sheen > Divine Sunderer > Manamune > Serylda's Grudge
-**End Build:** Ravenous Hydra, Maw of Malmortius, The Collector
+**End Build:** Ravenous Hydra, Maw of Malmortius, Blade of The Ruined King

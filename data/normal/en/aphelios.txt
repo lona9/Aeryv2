@@ -1,6 +1,6 @@
 **Aphelios ** *(Normal)*
 **Position:** AD Carry
-**Winrate:** 44.9%
+**Winrate:** 44.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Berserker's Greaves
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
-**Core Build:** Noonquiver > Galeforce > The Collector > Infinity Edge
-**End Build:** Guardian Angel, Bloodthirster, Lord Dominik's Regards
+**Core Build:** Noonquiver > Galeforce > Bloodthirster > Infinity Edge
+**End Build:** Guardian Angel, Runaan's Hurricane, Lord Dominik's Regards

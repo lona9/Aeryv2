@@ -1,12 +1,12 @@
 **Maokai Build ** *(Normal)*
-**Rota:** Rota Topo, Suporte
-**Porcentagem de vitorias:** 52.1%
-**Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Rota:** Suporte, Selva, Rota Topo
+**Porcentagem de vitorias:** 50.9%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
->   <:valor11:804449943376232509>:cd::cd:
->   <:valor21:804449943984537690>:cd::cd:
->   :cd:<:valor32:804449943959765002>:cd:
+>   :cd:<:valor12:804449943775084614>:cd:
+>   :cd:<:valor22:804449944018223104>:cd:
+>   :cd::cd:<:valor33:804449943603118131>
 >   :cd::cd:<:valor43:804449944001708043>
 
 >   :cd::cd::cd:
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Galvanizadas de Aço
-**Itens Iniciais:** Sentinela Invisível, Escudo de Doran, Poção de Vida
+**Itens Iniciais:** Sentinela Invisível, Escudo Relicário, Poção de Vida
 **Itens Core:** Brasa de Bami > Égide de Fogo Solar > Aproximação Invernal > Armadura de Espinhos
-**Itens End:** Semblante Espiritual, Abraço Demoníaco, Coração Congelado
+**Itens End:** Coração Congelado, Semblante Espiritual, Correntes de Anátema

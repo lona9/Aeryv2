@@ -1,5 +1,5 @@
 **Kog'Maw ** *(ARAM)*
-**Porcentaje de victorias:** 52.3%
+**Porcentaje de victorias:** 51.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Capítulo perdido
+**Objetos iniciales:** Carcaj de mediodía
 **Objetos principales:** Cuchillo de ira > Hoja de furia de Guinsoo > Huracán de Runaan > Hidra titánica
 **Objetos finales:** Hoja del rey arruinado, Al filo de la Cordura, Sombrero mortífero de Rabadon

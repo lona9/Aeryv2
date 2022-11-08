@@ -1,6 +1,6 @@
 **Diana ** *(Normal)*
 **Posición:** Jungler
-**Porcentaje de victorias:** 50.6%
+**Porcentaje de victorias:** 50.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
 **Objetos principales:** Arco curvo > Diente de Nashor > Égida de fuego solar > Abrazo demoníaco
-**Objetos finales:** Sombrero mortífero de Rabadon, Reloj de arena de Zhonya, Báculo del vacío
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Reloj de arena de Zhonya

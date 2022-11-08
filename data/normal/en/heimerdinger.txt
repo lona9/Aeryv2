@@ -1,21 +1,21 @@
 **Heimerdinger ** *(Normal)*
-**Position:** Mid, Support, Top
-**Winrate:** 52.9%
+**Position:** Support
+**Winrate:** 50.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
 >   :cd:<:bruj12:804448797001252864>:cd:
 >   :cd:<:bruj22:804448796553117707>:cd:
->   <:bruj31:804448797395910716>:cd::cd:
->   :cd::cd:<:bruj43:804448797631316069>
+>   :cd::cd:<:bruj33:804448797509419098>
+>   <:bruj41:804448797597499402>:cd::cd:
 
->   :cd::cd:<:insp23:804450563948675112>
+>   :cd:<:insp22:804450563793747989>:cd:
 >   :cd::cd:<:insp33:804450564049731594>
 >   :cd::cd::cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Boots:** Sorcerer's Shoes
-**Start Build:** Stealth Ward, Doran's Ring, Health Potion
+**Start Build:** Stealth Ward, Spellthief's Edge, Health Potion
 **Core Build:** Lost Chapter > Liandry's Anguish > Zhonya's Hourglass > Rylai's Crystal Scepter
-**End Build:** Rabadon's Deathcap, Morellonomicon, Void Staff
+**End Build:** Rabadon's Deathcap, Void Staff, Demonic Embrace

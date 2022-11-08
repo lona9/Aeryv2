@@ -1,6 +1,6 @@
 **Braum ** *(Normal)*
 **Position:** Support
-**Winrate:** 47.9%
+**Winrate:** 48.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -12,10 +12,10 @@
 >   :cd::cd::cd:
 >   :cd::cd:<:insp33:804450564049731594>
 >   <:insp41:804450563507879947>:cd::cd:
->   <:5007:804451180164022312> <:5002:804451180104908870> <:5002:804451180104908870>
+>   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
 **Boots:** Plated Steelcaps
-**Start Build:** Stealth Ward, Relic Shield
+**Start Build:** Stealth Ward
 **Core Build:** Kindlegem > Locket of the Iron Solari > Zeke's Convergence > Knight's Vow
-**End Build:** Health Potion, Thornmail, Frozen Heart
+**End Build:** Relic Shield, Health Potion, Thornmail

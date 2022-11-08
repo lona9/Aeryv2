@@ -17,4 +17,4 @@
 **Botas:** Botas da Rapidez
 **Itens Iniciais:** Aljava Vespertina
 **Itens Core:** Aljava Vespertina > Força do Vendaval > A Coletora > Canhão Fumegante
-**Itens End:** Lembranças do Lorde Dominik, Gume do Infinito, Sedenta por Sangue
+**Itens End:** Lembranças do Lorde Dominik, Sedenta por Sangue, Gume do Infinito

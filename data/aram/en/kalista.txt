@@ -1,5 +1,5 @@
 **Kalista** *(ARAM)*
-**Winrate:** 44.8%
+**Winrate:** 43.6%
 **Summoner Spells:** <:Cleanse:804555480730304514> <:Flash:804555481443336202>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Boots:** Berserker's Greaves
 **Start Build:** Noonquiver
 **Core Build:** Noonquiver > Immortal Shieldbow > Guinsoo's Rageblade > Runaan's Hurricane
-**End Build:** Bloodthirster, Lord Dominik's Regards, Blade of The Ruined King
+**End Build:** Lord Dominik's Regards, Bloodthirster, Blade of The Ruined King

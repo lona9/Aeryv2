@@ -17,4 +17,4 @@
 **Boots:** Boots of Swiftness
 **Start Build:** Noonquiver
 **Core Build:** Noonquiver > Galeforce > The Collector > Rapid Firecannon
-**End Build:** Lord Dominik's Regards, Infinity Edge, Bloodthirster
+**End Build:** Lord Dominik's Regards, Bloodthirster, Infinity Edge

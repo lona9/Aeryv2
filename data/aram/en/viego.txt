@@ -1,5 +1,5 @@
 **Viego** *(ARAM)*
-**Winrate:** 49.9%
+**Winrate:** 49.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Boots:** Blade of The Ruined King
 **Start Build:** Boots, Long Sword, Sheen
 **Core Build:** Long Sword > Sheen > Sheen > Divine Sunderer
-**End Build:** Spirit Visage, Maw of Malmortius, Wit's End
+**End Build:** Spirit Visage, Wit's End, Maw of Malmortius

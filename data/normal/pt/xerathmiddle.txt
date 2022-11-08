@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
-**Itens Core:** Capítulo Perdido > Tormenta de Luden > Foco do Horizonte > Capuz da Morte de Rabadon
-**Itens End:** Cajado do Vazio, Chama Sombria, Ampulheta de Zhonya
+**Itens Core:** Capítulo Perdido > Tormenta de Luden > Chama Sombria > Capuz da Morte de Rabadon
+**Itens End:** Cajado do Vazio, Ladrão de Almas de Mejai, Ampulheta de Zhonya

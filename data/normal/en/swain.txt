@@ -1,6 +1,6 @@
 **Swain ** *(Normal)*
 **Position:** Support, Mid
-**Winrate:** 50.9%
+**Winrate:** 50.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Boots:** Sorcerer's Shoes
-**Start Build:** Stealth Ward, Doran's Ring, Health Potion
-**Core Build:** Lost Chapter > Liandry's Anguish > Rylai's Crystal Scepter > Zhonya's Hourglass
+**Start Build:** Stealth Ward, Spellthief's Edge, Health Potion
+**Core Build:** Lost Chapter > Liandry's Anguish > Zhonya's Hourglass > Rylai's Crystal Scepter
 **End Build:** Demonic Embrace, Morellonomicon, Spirit Visage

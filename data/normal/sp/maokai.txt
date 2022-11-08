@@ -1,12 +1,12 @@
 **Maokai ** *(Normal)*
-**Posición:** Top, Support
-**Porcentaje de victorias:** 52.1%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Posición:** Support, Jungler, Top
+**Porcentaje de victorias:** 50.9%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
->   <:valor11:804449943376232509>:cd::cd:
->   <:valor21:804449943984537690>:cd::cd:
->   :cd:<:valor32:804449943959765002>:cd:
+>   :cd:<:valor12:804449943775084614>:cd:
+>   :cd:<:valor22:804449944018223104>:cd:
+>   :cd::cd:<:valor33:804449943603118131>
 >   :cd::cd:<:valor43:804449944001708043>
 
 >   :cd::cd::cd:
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
+**Objetos iniciales:** Centinela invisible, Escudo reliquia, Poción de vida
 **Objetos principales:** Ceniza de Bami > Égida de fuego solar > Umbral del invierno > Cota de espinas
-**Objetos finales:** Apariencia espiritual, Abrazo demoníaco, Corazón de hielo
+**Objetos finales:** Corazón de hielo, Apariencia espiritual, Cadenas de Anatema

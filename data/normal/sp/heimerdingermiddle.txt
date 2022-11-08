@@ -1,7 +1,7 @@
 **Heimerdinger Mid** *(Normal)*
-**Posición:** Mid, Support, Top
-**Porcentaje de victorias:** 53.8%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Posición:** Support
+**Porcentaje de victorias:** 53.9%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
 >   :cd:<:bruj12:804448797001252864>:cd:
@@ -18,4 +18,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
 **Objetos principales:** Capítulo perdido > Angustia de Liandry > Reloj de arena de Zhonya > Cetro de cristal de Rylai
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón

@@ -1,10 +1,10 @@
 **Draven** *(ARAM)*
-**Winrate:** 48.3%
+**Winrate:** 47.0%
 **Summoner Spells:** <:Cleanse:804555480730304514> <:Flash:804555481443336202>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
 > :cd:<:precision12:804446921522675733>:cd::cd:
->   :cd:<:precision22:804446921414541333>:cd:
+>   :cd::cd:<:precision23:804446921628057630>
 >   :cd::cd:<:precision33:804446921644179516>
 >   <:precision41:804446922151690300>:cd::cd:
 
@@ -17,4 +17,4 @@
 **Boots:** Berserker's Greaves
 **Start Build:** Noonquiver
 **Core Build:** Noonquiver > Immortal Shieldbow > The Collector > Bloodthirster
-**End Build:** Lord Dominik's Regards, Infinity Edge, Rapid Firecannon
+**End Build:** Infinity Edge, Lord Dominik's Regards, Rapid Firecannon

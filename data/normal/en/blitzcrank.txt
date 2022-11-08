@@ -1,6 +1,6 @@
 **Blitzcrank ** *(Normal)*
 **Position:** Support
-**Winrate:** 50.3%
+**Winrate:** 50.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:insp:804451124207681577> <:valor:804451124245561394>
 

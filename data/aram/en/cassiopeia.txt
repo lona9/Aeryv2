@@ -1,5 +1,5 @@
 **Cassiopeia** *(ARAM)*
-**Winrate:** 50.4%
+**Winrate:** 49.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 

@@ -1,6 +1,6 @@
 **Bel'Veth ** *(Normal)*
 **Posición:** Jungler
-**Porcentaje de victorias:** 51.8%
+**Porcentaje de victorias:** 51.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
 **Objetos principales:** Carcaj de mediodía > Matakrakens > Hoja del rey arruinado > Danza de la muerte
-**Objetos finales:** Ángel Guardián, Hoja de furia de Guinsoo, Hidra titánica
+**Objetos finales:** Ángel Guardián, Hidra titánica, Al filo de la Cordura

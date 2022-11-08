@@ -1,5 +1,5 @@
 **Twitch** *(ARAM)*
-**Winrate:** 51.3%
+**Winrate:** 50.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,5 +16,5 @@
 **Build**
 **Boots:** Berserker's Greaves
 **Start Build:** Noonquiver
-**Core Build:** Noonquiver > Kraken Slayer > Runaan's Hurricane > Infinity Edge
-**End Build:** Lord Dominik's Regards, Bloodthirster, Blade of The Ruined King
+**Core Build:** Noonquiver > Kraken Slayer > Runaan's Hurricane > Blade of The Ruined King
+**End Build:** Lord Dominik's Regards, Infinity Edge, Bloodthirster

@@ -1,5 +1,5 @@
 **Aatrox** *(ARAM)*
-**Winrate:** 51.3%
+**Winrate:** 51.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,5 +16,5 @@
 **Build**
 **Boots:** Mercury's Treads
 **Start Build:** Refillable Potion, Serrated Dirk
-**Core Build:** Ironspike Whip > Goredrinker > Death's Dance > Spirit Visage
-**End Build:** Serylda's Grudge, Black Cleaver, Thornmail
+**Core Build:** Serrated Dirk > Eclipse > Death's Dance > Maw of Malmortius
+**End Build:** Spirit Visage, Serylda's Grudge, Black Cleaver

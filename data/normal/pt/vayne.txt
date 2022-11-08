@@ -1,7 +1,7 @@
 **Vayne Build ** *(Normal)*
-**Rota:** Atirador
-**Porcentagem de vitorias:** 48.9%
-**Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
+**Rota:** Atirador, Rota Topo
+**Porcentagem de vitorias:** 48.7%
+**Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
 > :cd:<:precision12:804446921522675733>:cd::cd:

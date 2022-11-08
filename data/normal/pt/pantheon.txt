@@ -1,6 +1,6 @@
 **Pantheon Build ** *(Normal)*
-**Rota:** Selva, Suporte, Rota do Meio, Rota Topo
-**Porcentagem de vitorias:** 50.1%
+**Rota:** Suporte, Selva, Rota Topo, Rota do Meio
+**Porcentagem de vitorias:** 50.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -9,7 +9,7 @@
 >   :cd:<:precision32:804446921737371648>:cd:
 >   <:precision41:804446922151690300>:cd::cd:
 
->   :cd::cd:<:dom23:804457130307485707>
+>   <:dom21:804457127800078397>:cd::cd:
 >   :cd::cd::cd:
 > :cd::cd:<:dom43:804457129183936582>:cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
@@ -18,4 +18,4 @@
 **Botas:** Dança da Morte
 **Itens Iniciais:** Sentinela Invisível, Guarda-ombros de Aço, Poção de Vida
 **Itens Core:** Poção de Vida > Punhal Serrilhado > Eclipse > Cutelo Negro
-**Itens End:** Rancor de Serylda, Anjo Guardião, Serrespada Quimiopunk
+**Itens End:** Anjo Guardião, Rancor de Serylda, Mandíbula de Malmortius

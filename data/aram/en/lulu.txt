@@ -16,5 +16,5 @@
 **Build**
 **Boots:** Ionian Boots of Lucidity
 **Start Build:** Tear of the Goddess, Bandleglass Mirror
-**Core Build:** Bandleglass Mirror > Shurelya's Battlesong > Chemtech Putrifier > Archangel's Staff
+**Core Build:** Bandleglass Mirror > Shurelya's Battlesong > Archangel's Staff > Chemtech Putrifier
 **End Build:** Redemption, Staff of Flowing Water, Ardent Censer

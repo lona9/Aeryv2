@@ -1,6 +1,6 @@
 **Riven Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 49.4%
+**Porcentagem de vitorias:** 50.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Espada Longa, Poção de Vida
-**Itens Core:** Martelo de Guerra de Caulfield > Hemodrenário > Cutelo Negro > Dança da Morte
+**Itens Core:** Chicote Ferrifarpo > Hemodrenário > Cutelo Negro > Dança da Morte
 **Itens End:** Anjo Guardião, Rancor de Serylda, Mandíbula de Malmortius

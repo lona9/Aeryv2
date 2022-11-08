@@ -85,7 +85,7 @@ class MyBot(commands.Bot):
 
             self.ready = True
 
-            game = discord.Game("/help - REINVITAR SI NO RESPONDE")
+            game = discord.Game("/help")
             await self.change_presence(status=discord.Status.online, activity=game)
         else:
             print("aery reconnected")

@@ -1,7 +1,7 @@
 **Twitch ** *(Normal)*
 **Position:** AD Carry
-**Winrate:** 50.1%
-**Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
+**Winrate:** 50.5%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
 > :cd:<:precision12:804446921522675733>:cd::cd:

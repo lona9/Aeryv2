@@ -1,5 +1,5 @@
 **Aphelios** *(ARAM)*
-**Winrate:** 48.0%
+**Winrate:** 46.6%
 **Summoner Spells:** <:Cleanse:804555480730304514> <:Flash:804555481443336202>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,5 +16,5 @@
 **Build**
 **Boots:** Berserker's Greaves
 **Start Build:** Noonquiver
-**Core Build:** Noonquiver > Galeforce > The Collector > Infinity Edge
-**End Build:** Lord Dominik's Regards, Bloodthirster, Runaan's Hurricane
+**Core Build:** Noonquiver > Galeforce > Bloodthirster > Infinity Edge
+**End Build:** Lord Dominik's Regards, Runaan's Hurricane, Maw of Malmortius

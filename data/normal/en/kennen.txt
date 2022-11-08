@@ -1,6 +1,6 @@
 **Kennen ** *(Normal)*
 **Position:** Top
-**Winrate:** 49.4%
+**Winrate:** 48.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:bruj:804451124236648478> <:dom:804451124085522442>
 

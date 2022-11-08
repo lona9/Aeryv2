@@ -1,6 +1,6 @@
 **Yone ** *(Normal)*
 **Position:** Mid, Top
-**Winrate:** 48.5%
+**Winrate:** 48.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -10,12 +10,12 @@
 >   :cd::cd:<:precision43:804446921941975080>
 
 >   :cd::cd::cd:
->   :cd::cd:<:valor33:804449943603118131>
+>   :cd:<:valor32:804449943959765002>:cd:
 >   :cd::cd:<:valor43:804449944001708043>
->   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Boots:** Berserker's Greaves
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
 **Core Build:** Noonquiver > Immortal Shieldbow > Infinity Edge > Death's Dance
-**End Build:** Guardian Angel, Mortal Reminder, Bloodthirster
+**End Build:** Guardian Angel, Bloodthirster, Wit's End

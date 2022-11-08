@@ -1,6 +1,6 @@
 **Draven ** *(Normal)*
 **Position:** AD Carry
-**Winrate:** 49.2%
+**Winrate:** 50.2%
 **Summoner Spells:** <:Cleanse:804555480730304514> <:Flash:804555481443336202>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -18,4 +18,4 @@
 **Boots:** Berserker's Greaves
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
 **Core Build:** Serrated Dirk > Essence Reaver > Eclipse > Lord Dominik's Regards
-**End Build:** Infinity Edge, Rapid Firecannon, Bloodthirster
+**End Build:** Rapid Firecannon, Infinity Edge, Guardian Angel

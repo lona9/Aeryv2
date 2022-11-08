@@ -1,5 +1,5 @@
 **Heimerdinger** *(ARAM)*
-**Winrate:** 51.7%
+**Winrate:** 51.0%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runes:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
@@ -16,5 +16,5 @@
 **Build**
 **Boots:** Sorcerer's Shoes
 **Start Build:** Lost Chapter
-**Core Build:** Lost Chapter > Liandry's Anguish > Demonic Embrace > Rylai's Crystal Scepter
+**Core Build:** Lost Chapter > Liandry's Anguish > Rylai's Crystal Scepter > Demonic Embrace
 **End Build:** Void Staff, Rabadon's Deathcap, Morellonomicon

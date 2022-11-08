@@ -18,4 +18,4 @@
 **Boots:** Berserker's Greaves
 **Start Build:** Stealth Ward, Hailblade, Refillable Potion
 **Core Build:** Serrated Dirk > Duskblade of Draktharr > Essence Reaver > The Collector
-**End Build:** Infinity Edge, Lord Dominik's Regards, Guardian Angel
+**End Build:** Lord Dominik's Regards, Infinity Edge, Guardian Angel

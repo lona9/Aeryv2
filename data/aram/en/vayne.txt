@@ -1,5 +1,5 @@
 **Vayne** *(ARAM)*
-**Winrate:** 50.5%
+**Winrate:** 50.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Boots:** Berserker's Greaves
 **Start Build:** Noonquiver
 **Core Build:** Noonquiver > Immortal Shieldbow > Guinsoo's Rageblade > Wit's End
-**End Build:** Phantom Dancer, Bloodthirster, Randuin's Omen
+**End Build:** Phantom Dancer, Bloodthirster, Blade of The Ruined King

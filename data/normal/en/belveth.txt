@@ -1,6 +1,6 @@
 **Bel'Veth ** *(Normal)*
 **Position:** Jungler
-**Winrate:** 51.8%
+**Winrate:** 51.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runes:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Emberknife, Refillable Potion
 **Core Build:** Noonquiver > Kraken Slayer > Blade of The Ruined King > Death's Dance
-**End Build:** Guardian Angel, Guinsoo's Rageblade, Titanic Hydra
+**End Build:** Guardian Angel, Titanic Hydra, Wit's End

@@ -1,6 +1,6 @@
 **Shyvana ** *(Normal)*
 **Position:** Jungler
-**Winrate:** 51.7%
+**Winrate:** 50.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Boots:** Sorcerer's Shoes
-**Start Build:** Stealth Ward, Emberknife, Refillable Potion
+**Start Build:** Stealth Ward, Hailblade, Refillable Potion
 **Core Build:** Bami's Cinder > Frostfire Gauntlet > Demonic Embrace > Thornmail
-**End Build:** Force of Nature, Randuin's Omen, Zhonya's Hourglass
+**End Build:** Void Staff, Rabadon's Deathcap, Zhonya's Hourglass

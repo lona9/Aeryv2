@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Lágrima de la diosa, Espejo de cristal de Bandle
-**Objetos principales:** Espejo de cristal de Bandle > Canción de batalla de Shurelya > Putrificador tecnoquímico > Báculo del arcángel
+**Objetos principales:** Espejo de cristal de Bandle > Canción de batalla de Shurelya > Báculo del arcángel > Putrificador tecnoquímico
 **Objetos finales:** Redención, Báculo de agua fluyente, Pebetero ardiente
