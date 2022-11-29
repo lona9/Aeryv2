@@ -1,6 +1,6 @@
 **Zyra ** *(Normal)*
 **Position:** Support
-**Winrate:** 51.3%
+**Winrate:** 50.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Sorcerer's Shoes
 **Start Build:** Stealth Ward, Spellthief's Edge, Health Potion
-**Core Build:** Lost Chapter > Liandry's Anguish > Zhonya's Hourglass > Morellonomicon
-**End Build:** Demonic Embrace, Void Staff, Shadowflame
+**Core Build:** Lost Chapter > Liandry's Anguish > Rylai's Crystal Scepter > Morellonomicon
+**End Build:** Rabadon's Deathcap, Shadowflame, Void Staff

@@ -1,6 +1,6 @@
 **Aatrox ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 49.5%
+**Porcentaje de victorias:** 50.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
-**Objetos principales:** Puñal serrado > Eclipse > Cuchilla oscura > Danza de la muerte
-**Objetos finales:** Ángel Guardián, Rencor de Serylda, Fauces de Malmortius
+**Objetos principales:** Tiamat > Hidra voraz > Jak'Sho, el Proteico > Danza de la muerte
+**Objetos finales:** Rencor de Serylda, Ángel Guardián, Fauces de Malmortius

@@ -1,5 +1,5 @@
 **Janna** *(ARAM)*
-**Porcentagem de vitorias:** 55.2%
+**Porcentagem de vitorias:** 55.0%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:insp:804451124207681577> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Cajado Aquafluxo
 **Itens Iniciais:** Capítulo Perdido
 **Itens Core:** Regenerador de Pedra Lunar > Cajado do Arcanjo > Putrificador Quimtec > Botas Ionianas da Lucidez
-**Itens End:** Cajado Aquafluxo, Turíbulo Ardente, Redenção
+**Itens End:** Cajado Aquafluxo, Redenção, Turíbulo Ardente

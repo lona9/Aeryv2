@@ -1,6 +1,6 @@
 **Volibear Top** *(Normal)*
-**Position:** Jungler, Top
-**Winrate:** 50.0%
+**Position:** Top, Jungler
+**Winrate:** 48.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -12,10 +12,10 @@
 >   :cd::cd:<:precision23:804446921628057630>
 >   :cd:<:precision32:804446921737371648>:cd:
 >   :cd::cd::cd:
->   <:5007:804451180164022312> <:5008:804451180172279808> <:5001:804451180112642088>
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Doran's Ring, Health Potion
-**Core Build:** Bami's Cinder > Frostfire Gauntlet > Frozen Heart > Spirit Visage
-**End Build:** Thornmail, Randuin's Omen, Force of Nature
+**Core Build:** Leeching Leer > Riftmaker > Nashor's Tooth > Hullbreaker
+**End Build:** Force of Nature, Thornmail, Randuin's Omen

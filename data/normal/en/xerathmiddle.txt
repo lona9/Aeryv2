@@ -1,6 +1,6 @@
 **Xerath Mid** *(Normal)*
 **Position:** Support, Mid
-**Winrate:** 50.4%
+**Winrate:** 50.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:insp:804451124207681577> <:bruj:804451124236648478>
 
@@ -18,4 +18,4 @@
 **Boots:** Sorcerer's Shoes
 **Start Build:** Stealth Ward, Doran's Ring, Health Potion
 **Core Build:** Lost Chapter > Luden's Tempest > Shadowflame > Rabadon's Deathcap
-**End Build:** Void Staff, Mejai's Soulstealer, Zhonya's Hourglass
+**End Build:** Void Staff, Horizon Focus, Zhonya's Hourglass

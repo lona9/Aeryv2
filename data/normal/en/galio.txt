@@ -1,6 +1,6 @@
 **Galio ** *(Normal)*
 **Position:** Mid
-**Winrate:** 50.7%
+**Winrate:** 49.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:valor:804451124245561394> <:bruj:804451124236648478>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Boots:** Sorcerer's Shoes
+**Boots:** Mercury's Treads
 **Start Build:** Stealth Ward, Doran's Ring, Health Potion
 **Core Build:** Lost Chapter > Everfrost > Zhonya's Hourglass > Demonic Embrace
-**End Build:** Void Staff, Rabadon's Deathcap, Banshee's Veil
+**End Build:** Void Staff, Rabadon's Deathcap, Morellonomicon

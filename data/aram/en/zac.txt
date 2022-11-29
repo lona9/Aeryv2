@@ -1,5 +1,5 @@
 **Zac** *(ARAM)*
-**Winrate:** 50.3%
+**Winrate:** 48.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Boots:** Mercury's Treads
-**Start Build:** Boots, Bami's Cinder
-**Core Build:** Bami's Cinder > Sunfire Aegis > Warmog's Armor > Spirit Visage
-**End Build:** Gargoyle Stoneplate, Demonic Embrace, Thornmail
+**Start Build:** Ruby Crystal, Guardian's Horn
+**Core Build:** Guardian's Horn > Heartsteel > Sunfire Aegis > Spirit Visage
+**End Build:** Thornmail, Demonic Embrace, Warmog's Armor

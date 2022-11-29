@@ -17,4 +17,4 @@
 **Boots:** Mercury's Treads
 **Start Build:** Refillable Potion, Ironspike Whip
 **Core Build:** Ironspike Whip > Goredrinker > Death's Dance > Spirit Visage
-**End Build:** Thornmail, Blade of The Ruined King, Force of Nature
+**End Build:** Thornmail, Blade of The Ruined King, Ravenous Hydra

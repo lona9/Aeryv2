@@ -1,5 +1,5 @@
 **Gnar** *(ARAM)*
-**Porcentagem de vitorias:** 48.1%
+**Porcentagem de vitorias:** 49.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Passos de Mercúrio
-**Itens Iniciais:** Botas, Berrante do Guardião
-**Itens Core:** Berrante do Guardião > Ruptor Divino > Dança da Morte > Limite da Razão
-**Itens End:** Armadura de Espinhos, Força da Natureza, Presságio de Randuin
+**Botas:** Limite da Razão
+**Itens Iniciais:** Cristal de Rubi, Poção com Refil, Gema Ardente
+**Itens Core:** Gema Ardente > Martelo de Guerra de Caulfield > Ruptor Divino > Dança da Morte
+**Itens End:** Armadura de Espinhos, Força da Natureza, Cutelo Negro

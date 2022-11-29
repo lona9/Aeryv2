@@ -1,6 +1,6 @@
 **Amumu ** *(Normal)*
 **Posición:** Support, Jungler
-**Porcentaje de victorias:** 51.5%
+**Porcentaje de victorias:** 50.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo reliquia, Poción de vida
-**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Abrazo demoníaco > Cota de espinas
-**Objetos finales:** Fuerza de la naturaleza, Presagio de Randuin, Armadura pétrea
+**Objetos principales:** Protección de la legión > Jak'Sho, el Proteico > Égida de fuego solar > Abrazo demoníaco
+**Objetos finales:** Cota de espinas, Presagio de Randuin, Apariencia espiritual

@@ -1,6 +1,6 @@
 **Hecarim ** *(Normal)*
 **Position:** Jungler
-**Winrate:** 49.1%
+**Winrate:** 49.5%
 **Summoner Spells:** <:Ghost:804555480856002610> <:Smite:804555481494061086>
 **Runes:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Boots:** Ionian Boots of Lucidity
-**Start Build:** Oracle Lens, Hailblade, Refillable Potion
-**Core Build:** Serrated Dirk > Umbral Glaive > Manamune > Duskblade of Draktharr
-**End Build:** Death's Dance, Black Cleaver, Maw of Malmortius
+**Start Build:** Stealth Ward, Gustwalker Hatchling, Health Potion
+**Core Build:** Tiamat > Ravenous Hydra > Manamune > Duskblade of Draktharr
+**End Build:** Death's Dance, Black Cleaver, Spear Of Shojin

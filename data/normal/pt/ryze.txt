@@ -1,6 +1,6 @@
 **Ryze Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 46.2%
+**Porcentagem de vitorias:** 45.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Lágrima da Deusa, Poção de Vida
-**Itens Core:** Capítulo Perdido > Glacieterno > Cajado do Arcanjo > Ampulheta de Zhonya
+**Itens Core:** Catalisador das Eras > Bastão das Eras > Cajado do Arcanjo > Ampulheta de Zhonya
 **Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Chama Sombria

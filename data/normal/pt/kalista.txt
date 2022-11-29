@@ -1,7 +1,7 @@
 **Kalista Build ** *(Normal)*
 **Rota:** Atirador
-**Porcentagem de vitorias:** 47.0%
-**Summoner Spells:** <:Cleanse:804555480730304514> <:Flash:804555481443336202>
+**Porcentagem de vitorias:** 46.0%
+**Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
 > :cd:<:precision12:804446921522675733>:cd::cd:

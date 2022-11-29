@@ -1,6 +1,6 @@
 **Amumu ** *(Normal)*
 **Position:** Support, Jungler
-**Winrate:** 51.5%
+**Winrate:** 50.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:valor:804451124245561394> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Relic Shield, Health Potion
-**Core Build:** Bami's Cinder > Sunfire Aegis > Demonic Embrace > Thornmail
-**End Build:** Force of Nature, Randuin's Omen, Gargoyle Stoneplate
+**Core Build:** Aegis of the Legion > Jak'Sho, The Protean > Sunfire Aegis > Demonic Embrace
+**End Build:** Thornmail, Randuin's Omen, Spirit Visage

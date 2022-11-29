@@ -1,5 +1,5 @@
 **Cassiopeia** *(ARAM)*
-**Winrate:** 49.4%
+**Winrate:** 50.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Boots:** -
-**Start Build:** Lost Chapter
-**Core Build:** Liandry's Anguish > Archangel's Staff > Rylai's Crystal Scepter > Void Staff
-**End Build:** Void Staff, Morellonomicon, Rabadon's Deathcap
+**Start Build:** Sapphire Crystal, Amplifying Tome, Refillable Potion, Tear of the Goddess
+**Core Build:** Refillable Potion > Tear of the Goddess > Lost Chapter > Liandry's Anguish
+**End Build:** Void Staff, Rabadon's Deathcap, Morellonomicon

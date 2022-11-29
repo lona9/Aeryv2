@@ -1,6 +1,6 @@
 **Diana ** *(Normal)*
-**Position:** Jungler
-**Winrate:** 50.5%
+**Position:** Jungler, Mid
+**Winrate:** 49.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runes:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Boots:** Sorcerer's Shoes
-**Start Build:** Stealth Ward, Emberknife, Refillable Potion
-**Core Build:** Recurve Bow > Nashor's Tooth > Sunfire Aegis > Demonic Embrace
-**End Build:** Rabadon's Deathcap, Void Staff, Zhonya's Hourglass
+**Start Build:** Stealth Ward, Scorchclaw Pup, Health Potion
+**Core Build:** Recurve Bow > Nashor's Tooth > Hextech Rocketbelt > Zhonya's Hourglass
+**End Build:** Rabadon's Deathcap, Void Staff, Shadowflame

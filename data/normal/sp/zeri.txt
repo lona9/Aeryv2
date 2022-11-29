@@ -1,13 +1,13 @@
 **Zeri ** *(Normal)*
 **Posición:** AD Carry
-**Porcentaje de victorias:** 43.6%
+**Porcentaje de victorias:** 43.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
 > :cd:<:precision12:804446921522675733>:cd::cd:
 >   :cd:<:precision22:804446921414541333>:cd:
 >   <:precision31:804446921660956702>:cd::cd:
->   :cd::cd:<:precision43:804446921941975080>
+>   :cd:<:precision42:804446921636053043>:cd:
 
 >   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd::cd:
@@ -18,4 +18,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > Bailarín espectral > Filo del infinito
-**Objetos finales:** Ángel Guardián, Sanguinaria, Recuerdos de lord Dominik
+**Objetos finales:** Recuerdos de lord Dominik, Sanguinaria, Ángel Guardián

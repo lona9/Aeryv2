@@ -1,6 +1,6 @@
 **Ashe ** *(Normal)*
 **Position:** AD Carry, Support
-**Winrate:** 50.3%
+**Winrate:** 50.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runes:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Boots:** Berserker's Greaves
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
 **Core Build:** Noonquiver > Kraken Slayer > Phantom Dancer > Infinity Edge
-**End Build:** Guardian Angel, Lord Dominik's Regards, Bloodthirster
+**End Build:** Guardian Angel, Lord Dominik's Regards, Runaan's Hurricane

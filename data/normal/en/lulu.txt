@@ -1,6 +1,6 @@
 **Lulu ** *(Normal)*
 **Position:** Support
-**Winrate:** 48.3%
+**Winrate:** 50.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Boots:** Ionian Boots of Lucidity
-**Start Build:** Stealth Ward, Spellthief's Edge
+**Start Build:** Stealth Ward, Spellthief's Edge, Health Potion
 **Core Build:** Bandleglass Mirror > Shurelya's Battlesong > Chemtech Putrifier > Ardent Censer
-**End Build:** Health Potion, Mikael's Blessing, Redemption
+**End Build:** Redemption, Staff of Flowing Water, Mikael's Blessing

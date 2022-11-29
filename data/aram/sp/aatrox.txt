@@ -1,5 +1,5 @@
 **Aatrox ** *(ARAM)*
-**Porcentaje de victorias:** 51.0%
+**Porcentaje de victorias:** 52.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Puñal serrado
 **Objetos principales:** Puñal serrado > Eclipse > Danza de la muerte > Fauces de Malmortius
-**Objetos finales:** Apariencia espiritual, Rencor de Serylda, Cuchilla oscura
+**Objetos finales:** Cuchilla oscura, Rencor de Serylda, Apariencia espiritual

@@ -1,7 +1,7 @@
 **Vladimir Top** *(Normal)*
-**Posición:** Mid
-**Porcentaje de victorias:** 49.9%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
+**Posición:** Mid, Top
+**Porcentaje de victorias:** 45.8%
+**Hechizos del Invocador:** <:Ghost:804555480856002610> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
 >   :cd::cd:<:bruj13:804448796787474433>
@@ -15,7 +15,7 @@
 >   <:5007:804451180164022312> <:5008:804451180172279808> <:5001:804451180112642088>
 
 **Build**
-**Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Sello oscuro, Poción reutilizable
-**Objetos principales:** Códice diabólico > Cosechador nocturno > Sombrero mortífero de Rabadon > Báculo del vacío
-**Objetos finales:** Reloj de arena de Zhonya, Llamasombría, Robaalmas de Mejai
+**Botas:** Botas jonias de la lucidez
+**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
+**Objetos principales:** Alternador hextech > Cosechador nocturno > Sombrero mortífero de Rabadon > Báculo del vacío
+**Objetos finales:** Llamasombría, Reloj de arena de Zhonya, Robaalmas de Mejai

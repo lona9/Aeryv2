@@ -1,6 +1,6 @@
 **Renata Glasc ** *(Normal)*
 **Position:** Support
-**Winrate:** 50.8%
+**Winrate:** 51.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Boots:** Ionian Boots of Lucidity
-**Start Build:** Stealth Ward
+**Start Build:** Stealth Ward, Spellthief's Edge
 **Core Build:** Bandleglass Mirror > Shurelya's Battlesong > Chemtech Putrifier > Redemption
-**End Build:** Spellthief's Edge, Health Potion, Ardent Censer
+**End Build:** Health Potion, Staff of Flowing Water, Ardent Censer

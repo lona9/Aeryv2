@@ -1,6 +1,6 @@
 **Irelia ** *(Normal)*
-**Position:** Top, Mid
-**Winrate:** 50.9%
+**Position:** Mid, Top
+**Winrate:** 50.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Death's Dance
+**Boots:** Jak'Sho, The Protean
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
-**Core Build:** Health Potion > Vampiric Scepter > Blade of The Ruined King > Immortal Shieldbow
-**End Build:** Guardian Angel, Frozen Heart, Wit's End
+**Core Build:** Health Potion > Vampiric Scepter > Blade of The Ruined King > Ravenous Hydra
+**End Build:** Guardian Angel, Death's Dance, Frozen Heart

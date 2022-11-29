@@ -16,6 +16,6 @@
 
 **Build**
 **Boots:** Sorcerer's Shoes
-**Start Build:** Stealth Ward, Hailblade, Refillable Potion
+**Start Build:** Stealth Ward, Scorchclaw Pup, Health Potion
 **Core Build:** Blasting Wand > Hextech Rocketbelt > Mejai's Soulstealer > Rabadon's Deathcap
 **End Build:** Void Staff, Banshee's Veil, Shadowflame

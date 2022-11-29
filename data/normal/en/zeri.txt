@@ -1,13 +1,13 @@
 **Zeri ** *(Normal)*
 **Position:** AD Carry
-**Winrate:** 43.6%
+**Winrate:** 43.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
 > :cd:<:precision12:804446921522675733>:cd::cd:
 >   :cd:<:precision22:804446921414541333>:cd:
 >   <:precision31:804446921660956702>:cd::cd:
->   :cd::cd:<:precision43:804446921941975080>
+>   :cd:<:precision42:804446921636053043>:cd:
 
 >   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd::cd:
@@ -18,4 +18,4 @@
 **Boots:** Berserker's Greaves
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
 **Core Build:** Noonquiver > Immortal Shieldbow > Phantom Dancer > Infinity Edge
-**End Build:** Guardian Angel, Bloodthirster, Lord Dominik's Regards
+**End Build:** Lord Dominik's Regards, Bloodthirster, Guardian Angel

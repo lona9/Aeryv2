@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
+**Objetos iniciales:** Centinela invisible, Cachorro de Garra ígnea, Poción de vida
 **Objetos principales:** Vara explosiva > Cintomisil hextech > Robaalmas de Mejai > Sombrero mortífero de Rabadon
 **Objetos finales:** Báculo del vacío, Velo de la banshee, Llamasombría

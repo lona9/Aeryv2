@@ -1,5 +1,5 @@
 **Garen** *(ARAM)*
-**Porcentagem de vitorias:** 48.2%
+**Porcentagem de vitorias:** 45.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Passos de Mercúrio
-**Itens Iniciais:** Botas, Berrante do Guardião
-**Itens Core:** Chicote Ferrifarpo > Quebrapassos > Couraça do Defunto > Força da Natureza
-**Itens End:** Cutelo Negro, Dança da Morte, Armadura de Espinhos
+**Botas:** Força da Natureza
+**Itens Iniciais:** Cristal de Rubi, Poção com Refil, Braçadeira Cristalina
+**Itens Core:** Braçadeira Cristalina > Berrante do Guardião > Coração de Aço > Égide de Fogo Solar
+**Itens End:** Armadura de Espinhos, Cutelo Negro, Couraça do Defunto

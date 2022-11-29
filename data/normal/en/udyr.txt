@@ -1,6 +1,6 @@
 **Udyr ** *(Normal)*
 **Position:** Jungler
-**Winrate:** 51.6%
+**Winrate:** 52.0%
 **Summoner Spells:** <:Ghost:804555480856002610> <:Smite:804555481494061086>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Boots:** Boots of Swiftness
-**Start Build:** Stealth Ward, Hailblade, Refillable Potion
-**Core Build:** Bami's Cinder > Sunfire Aegis > Demonic Embrace > Frozen Heart
+**Start Build:** Stealth Ward, Mosstomper Seedling, Health Potion
+**Core Build:** Serrated Dirk > Prowler's Claw > The Collector > Lord Dominik's Regards
 **End Build:** Force of Nature, Thornmail, Dead Man's Plate

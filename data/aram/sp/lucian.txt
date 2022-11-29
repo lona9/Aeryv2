@@ -1,5 +1,5 @@
 **Lucian ** *(ARAM)*
-**Porcentaje de victorias:** 44.7%
+**Porcentaje de victorias:** 47.5%
 **Hechizos del Invocador:** <:Cleanse:804555480730304514> <:Flash:804555481443336202>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Carcaj de mediodía
 **Objetos principales:** Carcaj de mediodía > Fuerza del Viento > El Coleccionista > Rencor de Serylda
-**Objetos finales:** Sanguinaria, Filo del infinito, Recuerdos de lord Dominik
+**Objetos finales:** Sanguinaria, Recuerdos de lord Dominik, Filo del infinito

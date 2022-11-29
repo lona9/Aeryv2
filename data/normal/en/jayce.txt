@@ -1,6 +1,6 @@
 **Jayce ** *(Normal)*
 **Position:** Top
-**Winrate:** 49.5%
+**Winrate:** 48.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Boots:** Ionian Boots of Lucidity
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
 **Core Build:** Serrated Dirk > Eclipse > Manamune > Serylda's Grudge
-**End Build:** Guardian Angel, Maw of Malmortius, Edge of Night
+**End Build:** Guardian Angel, Maw of Malmortius, Youmuu's Ghostblade

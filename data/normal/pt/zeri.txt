@@ -1,13 +1,13 @@
 **Zeri Build ** *(Normal)*
 **Rota:** Atirador
-**Porcentagem de vitorias:** 43.6%
+**Porcentagem de vitorias:** 43.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
 > :cd:<:precision12:804446921522675733>:cd::cd:
 >   :cd:<:precision22:804446921414541333>:cd:
 >   <:precision31:804446921660956702>:cd::cd:
->   :cd::cd:<:precision43:804446921941975080>
+>   :cd:<:precision42:804446921636053043>:cd:
 
 >   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd::cd:
@@ -18,4 +18,4 @@
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
 **Itens Core:** Aljava Vespertina > Arco-escudo Imortal > Dançarina Fantasma > Gume do Infinito
-**Itens End:** Anjo Guardião, Sedenta por Sangue, Lembranças do Lorde Dominik
+**Itens End:** Lembranças do Lorde Dominik, Sedenta por Sangue, Anjo Guardião

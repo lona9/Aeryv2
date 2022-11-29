@@ -1,6 +1,6 @@
 **Irelia Build Rota do Meio** *(Normal)*
-**Rota:** Rota Topo, Rota do Meio
-**Porcentagem de vitorias:** 51.0%
+**Rota:** Rota do Meio, Rota Topo
+**Porcentagem de vitorias:** 50.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Botas:** Dança da Morte
+**Botas:** Jak'Sho, o Inconstante
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Itens Core:** Poção de Vida > Cetro Vampírico > Espada do Rei Destruído > Arco-escudo Imortal
-**Itens End:** Anjo Guardião, Coração Congelado, Limite da Razão
+**Itens Core:** Poção de Vida > Cetro Vampírico > Espada do Rei Destruído > Hidra Raivosa
+**Itens End:** Anjo Guardião, Dança da Morte, Coração Congelado

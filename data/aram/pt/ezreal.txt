@@ -1,6 +1,6 @@
 **Ezreal** *(ARAM)*
-**Porcentagem de vitorias:** 52.3%
-**Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
+**Porcentagem de vitorias:** 51.6%
+**Summoner Spells:** <:Cleanse:804555480730304514> <:Flash:804555481443336202>
 **Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
 > :cd::cd::cd:<:precision14:804446921631596585>
@@ -17,4 +17,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Poção com Refil, Fulgor, Lágrima da Deusa
 **Itens Core:** Fulgor > Ruptor Divino > Manamune > Rancor de Serylda
-**Itens End:** Hidra Raivosa, Mandíbula de Malmortius, Espada do Rei Destruído
+**Itens End:** Hidra Raivosa, Espada do Rei Destruído, Mandíbula de Malmortius

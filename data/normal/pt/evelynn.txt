@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
+**Itens Iniciais:** Sentinela Invisível, Filhote de Garrabrasa, Poção de Vida
 **Itens Core:** Varinha Explosiva > Explocinturão Hextec > Ladrão de Almas de Mejai > Capuz da Morte de Rabadon
 **Itens End:** Cajado do Vazio, Véu da Banshee, Chama Sombria

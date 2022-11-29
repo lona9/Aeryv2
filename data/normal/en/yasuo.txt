@@ -1,6 +1,6 @@
 **Yasuo ** *(Normal)*
 **Position:** Mid
-**Winrate:** 48.9%
+**Winrate:** 47.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Boots:** Berserker's Greaves
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
 **Core Build:** Noonquiver > Immortal Shieldbow > Infinity Edge > Death's Dance
-**End Build:** Guardian Angel, Bloodthirster, Mortal Reminder
+**End Build:** Guardian Angel, Mortal Reminder, Bloodthirster

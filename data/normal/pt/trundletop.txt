@@ -1,6 +1,6 @@
 **Trundle Build Rota Topo** *(Normal)*
 **Rota:** Selva, Rota Topo
-**Porcentagem de vitorias:** 47.7%
+**Porcentagem de vitorias:** 50.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
 **Itens Core:** Cetro Vampírico > Espada do Rei Destruído > Ruptor Divino > Quebracascos
-**Itens End:** Dança da Morte, Armadura de Espinhos, Hidra Titânica
+**Itens End:** Dança da Morte, Armadura de Espinhos, Semblante Espiritual

@@ -1,6 +1,6 @@
 **Malphite Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 50.5%
+**Porcentagem de vitorias:** 47.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Poção Corrupta
-**Itens Core:** Brasa de Bami > Manopla do Raio de Gelo > Aproximação Invernal > Armadura de Espinhos
-**Itens End:** Força da Natureza, Placa Gargolítica, Presságio de Randuin
+**Itens Core:** Fulgor > Manopla dos Glacinatas > Coração Congelado > Armadura de Espinhos
+**Itens End:** Placa Gargolítica, Capuz da Morte de Rabadon, Cajado do Vazio

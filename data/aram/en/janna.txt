@@ -1,5 +1,5 @@
 **Janna** *(ARAM)*
-**Winrate:** 55.2%
+**Winrate:** 55.0%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runes:** <:insp:804451124207681577> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Boots:** Staff of Flowing Water
 **Start Build:** Lost Chapter
 **Core Build:** Moonstone Renewer > Archangel's Staff > Chemtech Putrifier > Ionian Boots of Lucidity
-**End Build:** Staff of Flowing Water, Ardent Censer, Redemption
+**End Build:** Staff of Flowing Water, Redemption, Ardent Censer

@@ -1,6 +1,6 @@
 **Kog'Maw ** *(Normal)*
 **Position:** AD Carry
-**Winrate:** 50.3%
+**Winrate:** 50.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 

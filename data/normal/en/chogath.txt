@@ -1,6 +1,6 @@
 **Cho'Gath ** *(Normal)*
 **Position:** Top
-**Winrate:** 49.2%
+**Winrate:** 46.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Doran's Shield, Health Potion
-**Core Build:** Bami's Cinder > Frostfire Gauntlet > Winter's Approach > Thornmail
-**End Build:** Gargoyle Stoneplate, Frozen Heart, Warmog's Armor
+**Core Build:** Kindlegem > Heartsteel > Sunfire Aegis > Abyssal Mask
+**End Build:** Gargoyle Stoneplate, Thornmail, Warmog's Armor

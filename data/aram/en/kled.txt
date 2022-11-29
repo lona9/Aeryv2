@@ -1,5 +1,5 @@
 **Kled** *(ARAM)*
-**Winrate:** 50.6%
+**Winrate:** 52.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Boots:** Mercury's Treads
-**Start Build:** Refillable Potion, Ironspike Whip
-**Core Build:** Ironspike Whip > Goredrinker > Death's Dance > Titanic Hydra
-**End Build:** Blade of The Ruined King, Thornmail, Force of Nature
+**Start Build:** Giant's Belt, Ruby Crystal
+**Core Build:** Crystalline Bracer > Heartsteel > Titanic Hydra > Sunfire Aegis
+**End Build:** Force of Nature, Blade of The Ruined King, Death's Dance

@@ -1,7 +1,7 @@
 **Poppy ** *(Normal)*
 **Position:** Jungler, Top
-**Winrate:** 50.3%
-**Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
+**Winrate:** 48.7%
+**Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:valor:804451124245561394> <:insp:804451124207681577>
 
 >   <:valor11:804449943376232509>:cd::cd:
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Force of Nature
-**Start Build:** Stealth Ward, Hailblade, Refillable Potion
-**Core Build:** Refillable Potion > Sheen > Divine Sunderer > Dead Man's Plate
-**End Build:** Frozen Heart, Randuin's Omen, Thornmail
+**Boots:** Plated Steelcaps
+**Start Build:** Stealth Ward, Corrupting Potion
+**Core Build:** Sheen > Divine Sunderer > Dead Man's Plate > Force of Nature
+**End Build:** Thornmail, Gargoyle Stoneplate, Frozen Heart

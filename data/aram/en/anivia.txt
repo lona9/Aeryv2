@@ -1,5 +1,5 @@
 **Anivia** *(ARAM)*
-**Winrate:** 46.1%
+**Winrate:** 48.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
 **Runes:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Boots:** Sorcerer's Shoes
 **Start Build:** Lost Chapter
 **Core Build:** Lost Chapter > Liandry's Anguish > Archangel's Staff > Demonic Embrace
-**End Build:** Void Staff, Rabadon's Deathcap, Morellonomicon
+**End Build:** Rabadon's Deathcap, Void Staff, Morellonomicon

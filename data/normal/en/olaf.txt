@@ -1,6 +1,6 @@
 **Olaf ** *(Normal)*
-**Position:** Top, Jungler
-**Winrate:** 53.0%
+**Position:** Top
+**Winrate:** 50.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runes:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
 **Core Build:** Ironspike Whip > Stridebreaker > Death's Dance > Sterak's Gage
-**End Build:** Spirit Visage, Thornmail, Black Cleaver
+**End Build:** Thornmail, Black Cleaver, Spirit Visage

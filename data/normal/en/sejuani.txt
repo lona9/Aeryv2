@@ -1,6 +1,6 @@
 **Sejuani ** *(Normal)*
 **Position:** Jungler, Top
-**Winrate:** 51.4%
+**Winrate:** 49.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runes:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Boots:** Plated Steelcaps
-**Start Build:** Stealth Ward, Hailblade, Refillable Potion
-**Core Build:** Bami's Cinder > Sunfire Aegis > Thornmail > Force of Nature
-**End Build:** Gargoyle Stoneplate, Warmog's Armor, Frozen Heart
+**Start Build:** Stealth Ward, Mosstomper Seedling, Health Potion
+**Core Build:** Kindlegem > Heartsteel > Sunfire Aegis > Thornmail
+**End Build:** Gargoyle Stoneplate, Anathema's Chains, Warmog's Armor

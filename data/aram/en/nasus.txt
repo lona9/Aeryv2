@@ -1,5 +1,5 @@
 **Nasus** *(ARAM)*
-**Winrate:** 54.0%
+**Winrate:** 52.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Boots:** Mercury's Treads
 **Start Build:** Lost Chapter
 **Core Build:** Sheen > Divine Sunderer > Frozen Heart > Spirit Visage
-**End Build:** Force of Nature, Thornmail, Gargoyle Stoneplate
+**End Build:** Thornmail, Force of Nature, Gargoyle Stoneplate

@@ -1,6 +1,6 @@
 **Sejuani Build ** *(Normal)*
 **Rota:** Selva, Rota Topo
-**Porcentagem de vitorias:** 51.4%
+**Porcentagem de vitorias:** 49.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Galvanizadas de Aço
-**Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
-**Itens Core:** Brasa de Bami > Égide de Fogo Solar > Armadura de Espinhos > Força da Natureza
-**Itens End:** Placa Gargolítica, Armadura de Warmog, Coração Congelado
+**Itens Iniciais:** Sentinela Invisível, Broto de Esmagamusgo, Poção de Vida
+**Itens Core:** Gema Ardente > Coração de Aço > Égide de Fogo Solar > Armadura de Espinhos
+**Itens End:** Placa Gargolítica, Correntes de Anátema, Armadura de Warmog

@@ -1,5 +1,5 @@
 **Karthus** *(ARAM)*
-**Winrate:** 50.4%
+**Winrate:** 49.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -16,5 +16,5 @@
 **Build**
 **Boots:** Sorcerer's Shoes
 **Start Build:** Lost Chapter
-**Core Build:** Lost Chapter > Liandry's Anguish > Demonic Embrace > Shadowflame
-**End Build:** Void Staff, Rabadon's Deathcap, Morellonomicon
+**Core Build:** Lost Chapter > Liandry's Anguish > Shadowflame > Rabadon's Deathcap
+**End Build:** Void Staff, Morellonomicon, Demonic Embrace

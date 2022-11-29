@@ -1,6 +1,6 @@
 **Sion ** *(Normal)*
 **Position:** Top
-**Winrate:** 49.6%
+**Winrate:** 46.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Plated Steelcaps
-**Start Build:** Stealth Ward, Corrupting Potion
-**Core Build:** Bami's Cinder > Sunfire Aegis > Hullbreaker > Titanic Hydra
-**End Build:** Gargoyle Stoneplate, Frozen Heart, Thornmail
+**Boots:** Titanic Hydra
+**Start Build:** Stealth Ward, Doran's Shield, Health Potion
+**Core Build:** Health Potion > Kindlegem > Heartsteel > Sunfire Aegis
+**End Build:** Thornmail, Gargoyle Stoneplate, Infinity Edge

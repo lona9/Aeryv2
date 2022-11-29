@@ -1,6 +1,6 @@
 **Rammus Build ** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 52.0%
+**Porcentagem de vitorias:** 50.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Galvanizadas de Aço
-**Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
-**Itens Core:** Brasa de Bami > Égide de Fogo Solar > Armadura de Espinhos > Força da Natureza
-**Itens End:** Placa Gargolítica, Presságio de Randuin, Coração Congelado
+**Itens Iniciais:** Sentinela Invisível, Broto de Esmagamusgo, Poção de Vida
+**Itens Core:** Colete Espinhoso > Armadura de Espinhos > Jak'Sho, o Inconstante > Égide de Fogo Solar
+**Itens End:** Presságio de Randuin, Placa Gargolítica, Couraça do Defunto

@@ -1,5 +1,5 @@
 **Ryze** *(ARAM)*
-**Winrate:** 49.4%
+**Winrate:** 51.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runes:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Everfrost
+**Boots:** Rod of Ages
 **Start Build:** Sapphire Crystal, Amplifying Tome, Refillable Potion, Tear of the Goddess
-**Core Build:** Amplifying Tome > Refillable Potion > Tear of the Goddess > Lost Chapter
+**Core Build:** Amplifying Tome > Refillable Potion > Tear of the Goddess > Catalyst of Aeons
 **End Build:** Void Staff, Rabadon's Deathcap, Zhonya's Hourglass

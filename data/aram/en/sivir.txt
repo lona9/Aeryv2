@@ -1,5 +1,5 @@
 **Sivir** *(ARAM)*
-**Winrate:** 50.9%
+**Winrate:** 49.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Boots:** Berserker's Greaves
 **Start Build:** Noonquiver
 **Core Build:** Noonquiver > Kraken Slayer > Phantom Dancer > Infinity Edge
-**End Build:** Bloodthirster, Lord Dominik's Regards, Mortal Reminder
+**End Build:** Lord Dominik's Regards, Bloodthirster, Mortal Reminder

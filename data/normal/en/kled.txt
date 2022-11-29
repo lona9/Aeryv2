@@ -1,6 +1,6 @@
 **Kled ** *(Normal)*
 **Position:** Top
-**Winrate:** 52.0%
+**Winrate:** 52.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
-**Core Build:** Ironspike Whip > Goredrinker > Black Cleaver > Death's Dance
-**End Build:** Maw of Malmortius, Guardian Angel, Titanic Hydra
+**Core Build:** Tiamat > Ravenous Hydra > Goredrinker > Death's Dance
+**End Build:** Maw of Malmortius, Black Cleaver, Guardian Angel

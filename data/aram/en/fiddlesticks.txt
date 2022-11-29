@@ -1,5 +1,5 @@
 **Fiddlesticks** *(ARAM)*
-**Winrate:** 51.9%
+**Winrate:** 52.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Rabadon's Deathcap
+**Boots:** Void Staff
 **Start Build:** Lost Chapter
 **Core Build:** Liandry's Anguish > Zhonya's Hourglass > Demonic Embrace > Sorcerer's Shoes
-**End Build:** Rabadon's Deathcap, Void Staff, Morellonomicon
+**End Build:** Void Staff, Rabadon's Deathcap, Morellonomicon

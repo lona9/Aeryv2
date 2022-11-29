@@ -1,21 +1,21 @@
 **Fiora ** *(Normal)*
 **Position:** Top
-**Winrate:** 51.5%
+**Winrate:** 52.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
-**Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
+**Runes:** <:valor:804451124245561394> <:bruj:804451124236648478>
 
-> :cd::cd::cd:<:precision14:804446921631596585>
->   :cd:<:precision22:804446921414541333>:cd:
->   <:precision31:804446921660956702>:cd::cd:
->   :cd::cd:<:precision43:804446921941975080>
-
->   :cd::cd::cd:
->   :cd::cd:<:valor33:804449943603118131>
+>   <:valor11:804449943376232509>:cd::cd:
+>   <:valor21:804449943984537690>:cd::cd:
+>   :cd:<:valor32:804449943959765002>:cd:
 >   :cd::cd:<:valor43:804449944001708043>
+
+>   :cd:<:bruj22:804448796553117707>:cd:
+>   :cd::cd::cd:
+>   <:bruj41:804448797597499402>:cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
 **Core Build:** Sheen > Divine Sunderer > Ravenous Hydra > Death's Dance
-**End Build:** Guardian Angel, Maw of Malmortius, Hullbreaker
+**End Build:** Guardian Angel, Maw of Malmortius, Spear Of Shojin

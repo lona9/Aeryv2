@@ -1,6 +1,6 @@
 **K'Sante ** *(Normal)*
 **Position:** Top
-**Winrate:** 44.2%
+**Winrate:** 48.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Doran's Shield, Health Potion
-**Core Build:** Bami's Cinder > Sunfire Aegis > Frozen Heart > Thornmail
-**End Build:** Gargoyle Stoneplate, Randuin's Omen, Warmog's Armor
+**Core Build:** Aegis of the Legion > Jak'Sho, The Protean > Sunfire Aegis > Gargoyle Stoneplate
+**End Build:** Thornmail, Force of Nature, Randuin's Omen

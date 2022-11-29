@@ -1,6 +1,6 @@
 **Varus ** *(ARAM)*
-**Porcentaje de victorias:** 51.5%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
+**Porcentaje de victorias:** 50.6%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
 > :cd::cd:<:dom13:804447179828625438>:cd:
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Poción reutilizable, Lágrima de la diosa, Espada larga
-**Objetos principales:** Puñal serrado > Filoscuro de Draktharr > Manamune > El Coleccionista
-**Objetos finales:** Filo de la noche, Rencor de Serylda, Hoja del rey arruinado
+**Botas:** Hoja del rey arruinado
+**Objetos iniciales:** Carcaj de mediodía
+**Objetos principales:** Manamune > El Coleccionista > Botas jonias de la lucidez > Filo de la noche
+**Objetos finales:** Filo de la noche, Hoja del rey arruinado, Rencor de Serylda

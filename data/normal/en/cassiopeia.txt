@@ -1,21 +1,21 @@
 **Cassiopeia ** *(Normal)*
 **Position:** Mid
-**Winrate:** 52.0%
+**Winrate:** 51.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
-**Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
+**Runes:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
 > :cd::cd::cd:<:precision14:804446921631596585>
 >   :cd::cd:<:precision23:804446921628057630>
 >   :cd:<:precision32:804446921737371648>:cd:
 >   :cd::cd:<:precision43:804446921941975080>
 
+>   :cd:<:bruj22:804448796553117707>:cd:
+>   <:bruj31:804448797395910716>:cd::cd:
 >   :cd::cd::cd:
->   <:valor31:804449943666425907>:cd::cd:
->   <:valor41:804449944298586143>:cd::cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
 **Boots:** -
 **Start Build:** Stealth Ward, Tear of the Goddess, Health Potion
 **Core Build:** Lost Chapter > Liandry's Anguish > Archangel's Staff > Rylai's Crystal Scepter
-**End Build:** Void Staff, Zhonya's Hourglass, Rabadon's Deathcap
+**End Build:** Rabadon's Deathcap, Void Staff, Zhonya's Hourglass

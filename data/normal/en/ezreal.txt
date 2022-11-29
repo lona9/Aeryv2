@@ -1,6 +1,6 @@
 **Ezreal ** *(Normal)*
 **Position:** AD Carry
-**Winrate:** 48.7%
+**Winrate:** 48.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runes:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Boots:** Ionian Boots of Lucidity
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
 **Core Build:** Sheen > Trinity Force > Manamune > Serylda's Grudge
-**End Build:** Ravenous Hydra, Frozen Heart, Maw of Malmortius
+**End Build:** Frozen Heart, Ravenous Hydra, Maw of Malmortius

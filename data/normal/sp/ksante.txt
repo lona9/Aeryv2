@@ -1,6 +1,6 @@
 **K'Sante ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 44.2%
+**Porcentaje de victorias:** 48.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
-**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Corazón de hielo > Cota de espinas
-**Objetos finales:** Armadura pétrea, Presagio de Randuin, Armadura de Warmog
+**Objetos principales:** Protección de la legión > Jak'Sho, el Proteico > Égida de fuego solar > Armadura pétrea
+**Objetos finales:** Cota de espinas, Fuerza de la naturaleza, Presagio de Randuin

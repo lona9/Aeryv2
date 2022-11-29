@@ -1,6 +1,6 @@
 **LeBlanc ** *(Normal)*
 **Posición:** Mid
-**Porcentaje de victorias:** 47.1%
+**Porcentaje de victorias:** 47.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Botas:** Reloj de arena de Zhonya
+**Botas:** Sombrero mortífero de Rabadon
 **Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
 **Objetos principales:** Poción de vida > Capítulo perdido > Tempestad de Luden > Llamasombría
-**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Velo de la banshee
+**Objetos finales:** Báculo del vacío, Reloj de arena de Zhonya, Velo de la banshee

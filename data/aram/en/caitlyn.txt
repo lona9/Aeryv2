@@ -1,5 +1,5 @@
 **Caitlyn** *(ARAM)*
-**Winrate:** 50.3%
+**Winrate:** 50.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Boots:** Berserker's Greaves
 **Start Build:** Noonquiver
 **Core Build:** Noonquiver > Galeforce > Rapid Firecannon > Infinity Edge
-**End Build:** Bloodthirster, Lord Dominik's Regards, Mortal Reminder
+**End Build:** Lord Dominik's Regards, Bloodthirster, Mortal Reminder

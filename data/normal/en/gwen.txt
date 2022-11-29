@@ -1,6 +1,6 @@
 **Gwen ** *(Normal)*
 **Position:** Top
-**Winrate:** 49.4%
+**Winrate:** 49.8%
 **Summoner Spells:** <:Teleport:804555481699713034> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Doran's Ring, Health Potion
 **Core Build:** Leeching Leer > Riftmaker > Nashor's Tooth > Zhonya's Hourglass
-**End Build:** Rabadon's Deathcap, Void Staff, Cosmic Drive
+**End Build:** Rabadon's Deathcap, Cosmic Drive, Void Staff

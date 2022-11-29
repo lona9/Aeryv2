@@ -1,6 +1,6 @@
 **LeBlanc Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 47.1%
+**Porcentagem de vitorias:** 47.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Botas:** Ampulheta de Zhonya
+**Botas:** Capuz da Morte de Rabadon
 **Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
 **Itens Core:** Poção de Vida > Capítulo Perdido > Tormenta de Luden > Chama Sombria
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Véu da Banshee
+**Itens End:** Cajado do Vazio, Ampulheta de Zhonya, Véu da Banshee

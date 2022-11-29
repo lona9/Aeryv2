@@ -1,6 +1,6 @@
 **LeBlanc ** *(Normal)*
 **Position:** Mid
-**Winrate:** 47.1%
+**Winrate:** 47.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Boots:** Zhonya's Hourglass
+**Boots:** Rabadon's Deathcap
 **Start Build:** Stealth Ward, Doran's Ring, Health Potion
 **Core Build:** Health Potion > Lost Chapter > Luden's Tempest > Shadowflame
-**End Build:** Void Staff, Rabadon's Deathcap, Banshee's Veil
+**End Build:** Void Staff, Zhonya's Hourglass, Banshee's Veil

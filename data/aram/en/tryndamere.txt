@@ -1,5 +1,5 @@
 **Tryndamere** *(ARAM)*
-**Winrate:** 49.2%
+**Winrate:** 49.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,5 +16,5 @@
 **Build**
 **Boots:** Berserker's Greaves
 **Start Build:** Noonquiver
-**Core Build:** Noonquiver > Galeforce > Navori Quickblades > Infinity Edge
-**End Build:** Blade of The Ruined King, Phantom Dancer, Bloodthirster
+**Core Build:** Noonquiver > Galeforce > Navori Quickblades > Phantom Dancer
+**End Build:** Blade of The Ruined King, Bloodthirster, Infinity Edge

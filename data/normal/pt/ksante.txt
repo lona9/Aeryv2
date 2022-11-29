@@ -1,6 +1,6 @@
 **K'Sante Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 44.2%
+**Porcentagem de vitorias:** 48.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Escudo de Doran, Poção de Vida
-**Itens Core:** Brasa de Bami > Égide de Fogo Solar > Coração Congelado > Armadura de Espinhos
-**Itens End:** Placa Gargolítica, Presságio de Randuin, Armadura de Warmog
+**Itens Core:** Égide da Legião > Jak'Sho, o Inconstante > Égide de Fogo Solar > Placa Gargolítica
+**Itens End:** Armadura de Espinhos, Força da Natureza, Presságio de Randuin

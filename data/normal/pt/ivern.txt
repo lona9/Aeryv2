@@ -1,6 +1,6 @@
 **Ivern Build ** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 49.0%
+**Porcentagem de vitorias:** 49.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
+**Itens Iniciais:** Sentinela Invisível, Cria de Andabrisas, Poção de Vida
 **Itens Core:** Espelho de Bandópolis > Regenerador de Pedra Lunar > Putrificador Quimtec > Redenção
-**Itens End:** Cajado Aquafluxo, Ampulheta de Zhonya, Turíbulo Ardente
+**Itens End:** Turíbulo Ardente, Ampulheta de Zhonya, Cajado Aquafluxo

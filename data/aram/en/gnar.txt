@@ -1,5 +1,5 @@
 **Gnar** *(ARAM)*
-**Winrate:** 48.1%
+**Winrate:** 49.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Mercury's Treads
-**Start Build:** Boots, Guardian's Horn
-**Core Build:** Guardian's Horn > Divine Sunderer > Death's Dance > Wit's End
-**End Build:** Thornmail, Force of Nature, Randuin's Omen
+**Boots:** Wit's End
+**Start Build:** Ruby Crystal, Refillable Potion, Kindlegem
+**Core Build:** Kindlegem > Caulfield's Warhammer > Divine Sunderer > Death's Dance
+**End Build:** Thornmail, Force of Nature, Black Cleaver

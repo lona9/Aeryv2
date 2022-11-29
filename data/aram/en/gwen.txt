@@ -1,5 +1,5 @@
 **Gwen** *(ARAM)*
-**Winrate:** 49.6%
+**Winrate:** 52.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Boots:** Mercury's Treads
 **Start Build:** Leeching Leer
 **Core Build:** Leeching Leer > Riftmaker > Nashor's Tooth > Cosmic Drive
-**End Build:** Rabadon's Deathcap, Zhonya's Hourglass, Spirit Visage
+**End Build:** Rabadon's Deathcap, Spirit Visage, Zhonya's Hourglass

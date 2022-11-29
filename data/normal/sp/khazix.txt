@@ -1,6 +1,6 @@
 **Kha'Zix ** *(Normal)*
 **Posición:** Jungler
-**Porcentaje de victorias:** 51.1%
+**Porcentaje de victorias:** 51.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:insp:804451124207681577> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
-**Objetos principales:** Puñal serrado > Filoscuro de Draktharr > Filo fantasmal de Youmuu > Filo de la noche
-**Objetos finales:** Ángel Guardián, Rencor de Serylda, Cuchilla oscura
+**Objetos iniciales:** Centinela invisible, Cría de Caminabrisas, Poción de vida
+**Objetos principales:** Puñal serrado > Garra de merodeador > Filo fantasmal de Youmuu > Filo de la noche
+**Objetos finales:** Rencor de Serylda, Ángel Guardián, Cuchilla oscura

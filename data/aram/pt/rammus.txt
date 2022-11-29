@@ -1,5 +1,5 @@
 **Rammus** *(ARAM)*
-**Porcentagem de vitorias:** 54.7%
+**Porcentagem de vitorias:** 54.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Passos de Mercúrio
-**Itens Iniciais:** Botas, Brasa de Bami
-**Itens Core:** Brasa de Bami > Égide de Fogo Solar > Armadura de Espinhos > Força da Natureza
-**Itens End:** Placa Gargolítica, Armadura de Warmog, Presságio de Randuin
+**Itens Iniciais:** Poção com Refil, Égide da Legião
+**Itens Core:** Égide da Legião > Jak'Sho, o Inconstante > Armadura de Espinhos > Égide de Fogo Solar
+**Itens End:** Placa Gargolítica, Armadura de Warmog, Força da Natureza
