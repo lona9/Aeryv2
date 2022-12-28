@@ -1,6 +1,6 @@
 **Nami ** *(Normal)*
 **Position:** Support
-**Winrate:** 53.3%
+**Winrate:** 52.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Ionian Boots of Lucidity
 **Start Build:** Stealth Ward, Spellthief's Edge, Health Potion
-**Core Build:** Bandleglass Mirror > Imperial Mandate > Chemtech Putrifier > Ardent Censer
-**End Build:** Redemption, Mikael's Blessing, Staff of Flowing Water
+**Core Build:** Bandleglass Mirror > Imperial Mandate > Chemtech Putrifier > Staff of Flowing Water
+**End Build:** Redemption, Ardent Censer, Mikael's Blessing

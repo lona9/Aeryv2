@@ -1,7 +1,7 @@
 **Seraphine ** *(Normal)*
-**Position:** Support, AD Carry
-**Winrate:** 51.0%
-**Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
+**Position:** Support
+**Winrate:** 49.7%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
 >   <:bruj11:804448796104589323>:cd::cd:
@@ -18,4 +18,4 @@
 **Boots:** Ionian Boots of Lucidity
 **Start Build:** Stealth Ward, Spellthief's Edge, Health Potion
 **Core Build:** Lost Chapter > Liandry's Anguish > Archangel's Staff > Rylai's Crystal Scepter
-**End Build:** Rabadon's Deathcap, Zhonya's Hourglass, Chemtech Putrifier
+**End Build:** Rabadon's Deathcap, Void Staff, Chemtech Putrifier

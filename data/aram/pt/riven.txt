@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Chicote Ferrifarpo
-**Itens Core:** Chicote Ferrifarpo > Hemodrenário > Dança da Morte > Cutelo Negro
-**Itens End:** Mandíbula de Malmortius, Semblante Espiritual, Hidra Raivosa
+**Itens Core:** Chicote Ferrifarpo > Hemodrenário > Hidra Raivosa > Dança da Morte
+**Itens End:** Cutelo Negro, Lança de Shojin, Mandíbula de Malmortius

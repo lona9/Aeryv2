@@ -1,6 +1,6 @@
 **Kai'Sa ** *(Normal)*
 **Position:** AD Carry
-**Winrate:** 50.5%
+**Winrate:** 50.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runes:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Berserker's Greaves
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
-**Core Build:** Noonquiver > Kraken Slayer > The Collector > Phantom Dancer
-**End Build:** Guardian Angel, Lord Dominik's Regards, Infinity Edge
+**Core Build:** Noonquiver > Kraken Slayer > Phantom Dancer > Infinity Edge
+**End Build:** Guardian Angel, Lord Dominik's Regards, Bloodthirster

@@ -1,6 +1,6 @@
 **Illaoi ** *(Normal)*
 **Position:** Top
-**Winrate:** 51.9%
+**Winrate:** 51.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Corrupting Potion
-**Core Build:** Sheen > Divine Sunderer > Hullbreaker > Death's Dance
-**End Build:** Spirit Visage, Sterak's Gage, Black Cleaver
+**Core Build:** Caulfield's Warhammer > Black Cleaver > Iceborn Gauntlet > Sterak's Gage
+**End Build:** Spirit Visage, Death's Dance, Thornmail

@@ -1,5 +1,5 @@
 **Wukong** *(ARAM)*
-**Porcentagem de vitorias:** 52.8%
+**Porcentagem de vitorias:** 52.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Tiamat
-**Itens Core:** Fulgor > Ruptor Divino > Dança da Morte > Mandíbula de Malmortius
-**Itens End:** Cutelo Negro, Semblante Espiritual, Hidra Raivosa
+**Itens Core:** Fulgor > Ruptor Divino > Hidra Raivosa > Dança da Morte
+**Itens End:** Cutelo Negro, Semblante Espiritual, Mandíbula de Malmortius

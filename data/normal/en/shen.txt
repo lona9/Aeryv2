@@ -1,6 +1,6 @@
 **Shen ** *(Normal)*
 **Position:** Top
-**Winrate:** 52.2%
+**Winrate:** 51.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:valor:804451124245561394> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Doran's Shield, Health Potion
-**Core Build:** Kindlegem > Heartsteel > Sunfire Aegis > Titanic Hydra
-**End Build:** Thornmail, Anathema's Chains, Gargoyle Stoneplate
+**Core Build:** Kindlegem > Heartsteel > Sunfire Aegis > Thornmail
+**End Build:** Gargoyle Stoneplate, Randuin's Omen, Anathema's Chains

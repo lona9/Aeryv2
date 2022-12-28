@@ -1,6 +1,6 @@
 **Riven ** *(Normal)*
 **Position:** Top
-**Winrate:** 50.0%
+**Winrate:** 49.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
@@ -18,4 +18,4 @@
 **Boots:** Ionian Boots of Lucidity
 **Start Build:** Stealth Ward, Long Sword, Health Potion
 **Core Build:** Caulfield's Warhammer > Ravenous Hydra > Goredrinker > Death's Dance
-**End Build:** Guardian Angel, Serylda's Grudge, Maw of Malmortius
+**End Build:** Guardian Angel, Maw of Malmortius, Serylda's Grudge

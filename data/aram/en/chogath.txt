@@ -1,5 +1,5 @@
 **Cho'Gath** *(ARAM)*
-**Winrate:** 49.0%
+**Winrate:** 50.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Boots:** Warmog's Armor
 **Start Build:** Ruby Crystal, Refillable Potion, Crystalline Bracer
 **Core Build:** Crystalline Bracer > Crystalline Bracer > Heartsteel > Sunfire Aegis
-**End Build:** Thornmail, Gargoyle Stoneplate, Force of Nature
+**End Build:** Gargoyle Stoneplate, Thornmail, Force of Nature

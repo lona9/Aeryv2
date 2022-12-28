@@ -1,6 +1,6 @@
 **Maokai Build Rota Topo** *(Normal)*
-**Rota:** Suporte, Rota Topo
-**Porcentagem de vitorias:** 48.1%
+**Rota:** Selva, Suporte
+**Porcentagem de vitorias:** 52.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Escudo de Doran, Poção de Vida
-**Itens Core:** Gema Ardente > Coração de Aço > Égide de Fogo Solar > Aproximação Invernal
-**Itens End:** Coração Congelado, Semblante Espiritual, Armadura de Espinhos
+**Itens Core:** Brasa de Bami > Égide de Fogo Solar > Jak'Sho, o Inconstante > Coração Congelado
+**Itens End:** Armadura de Espinhos, Abraço Demoníaco, Máscara Abissal

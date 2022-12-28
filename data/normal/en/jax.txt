@@ -1,6 +1,6 @@
 **Jax ** *(Normal)*
 **Position:** Top
-**Winrate:** 49.5%
+**Winrate:** 49.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Boots:** Spear Of Shojin
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
 **Core Build:** Health Potion > Sheen > Divine Sunderer > Blade of The Ruined King
-**End Build:** Death's Dance, Frozen Heart, Guardian Angel
+**End Build:** Death's Dance, Maw of Malmortius, Frozen Heart

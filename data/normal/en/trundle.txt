@@ -1,6 +1,6 @@
 **Trundle ** *(Normal)*
 **Position:** Jungler, Top
-**Winrate:** 51.8%
+**Winrate:** 48.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runes:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Boots:** Plated Steelcaps
-**Start Build:** Stealth Ward, Scorchclaw Pup, Health Potion
+**Start Build:** Stealth Ward, Mosstomper Seedling, Health Potion
 **Core Build:** Tiamat > Divine Sunderer > Titanic Hydra > Thornmail
-**End Build:** Death's Dance, Spirit Visage, Frozen Heart
+**End Build:** Spirit Visage, Death's Dance, Frozen Heart

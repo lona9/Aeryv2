@@ -1,5 +1,5 @@
 **Darius** *(ARAM)*
-**Winrate:** 53.0%
+**Winrate:** 55.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Boots:** Mercury's Treads
 **Start Build:** Refillable Potion, Ironspike Whip
 **Core Build:** Ironspike Whip > Goredrinker > Death's Dance > Spirit Visage
-**End Build:** Thornmail, Dead Man's Plate, Force of Nature
+**End Build:** Dead Man's Plate, Thornmail, Force of Nature

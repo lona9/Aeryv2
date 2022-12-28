@@ -1,5 +1,5 @@
 **Volibear** *(ARAM)*
-**Winrate:** 47.1%
+**Winrate:** 48.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Winter's Approach
+**Boots:** Thornmail
 **Start Build:** Ruby Crystal, Refillable Potion, Crystalline Bracer
-**Core Build:** Crystalline Bracer > Guardian's Horn > Heartsteel > Sunfire Aegis
-**End Build:** Thornmail, Warmog's Armor, Spirit Visage
+**Core Build:** Crystalline Bracer > Kindlegem > Heartsteel > Sunfire Aegis
+**End Build:** Warmog's Armor, Spirit Visage, Gargoyle Stoneplate

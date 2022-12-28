@@ -1,6 +1,6 @@
 **Sett Build Suporte** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 45.5%
+**Porcentagem de vitorias:** 45.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:insp:804451124207681577> <:bruj:804451124236648478>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas da Rapidez
 **Itens Iniciais:** Sentinela Invisível, Guarda-ombros de Aço, Poção de Vida
-**Itens Core:** Gema Ardente > Coração de Aço > Égide de Fogo Solar > Armadura de Espinhos
-**Itens End:** Couraça do Defunto, Quimiotanque Turbo, Hidra Titânica
+**Itens Core:** Braçadeira Cristalina > Coração de Aço > Hidra Titânica > Sinal de Sterak
+**Itens End:** Couraça do Defunto, Armadura de Espinhos, Quimiotanque Turbo

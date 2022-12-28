@@ -1,21 +1,21 @@
 **Zed ** *(Normal)*
 **Posición:** Mid, Jungler
-**Porcentaje de victorias:** 52.8%
+**Porcentaje de victorias:** 47.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
-**Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
+**Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
-> <:dom11:804447179758239744>:cd::cd::cd:
->   :cd:<:dom22:804457129394176020>:cd:
->   :cd::cd:<:dom33:804457129578332160>
-> :cd::cd::cd:<:dom44:804457129732866048>
+> :cd::cd::cd:<:precision14:804446921631596585>
+>   :cd::cd:<:precision23:804446921628057630>
+>   :cd:<:precision32:804446921737371648>:cd:
+>   :cd::cd:<:precision43:804446921941975080>
 
->   :cd::cd::cd:
+>   :cd::cd:<:bruj23:804448797425532928>
 >   <:bruj31:804448797395910716>:cd::cd:
->   <:bruj41:804448797597499402>:cd::cd:
+>   :cd::cd::cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Espada larga, Poción de vida
 **Objetos principales:** Puñal serrado > Eclipse > Hidra voraz > Rencor de Serylda
-**Objetos finales:** Cuchilla oscura, Filo de la noche, Filo fantasmal de Youmuu
+**Objetos finales:** Filo de la noche, Cuchilla oscura, Ángel Guardián

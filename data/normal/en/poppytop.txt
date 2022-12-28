@@ -1,6 +1,6 @@
 **Poppy Top** *(Normal)*
 **Position:** Jungler, Top
-**Winrate:** 50.6%
+**Winrate:** 51.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Corrupting Potion
-**Core Build:** Sheen > Iceborn Gauntlet > Sunfire Aegis > Thornmail
-**End Build:** Gargoyle Stoneplate, Frozen Heart, Force of Nature
+**Core Build:** Sheen > Divine Sunderer > Dead Man's Plate > Force of Nature
+**End Build:** Gargoyle Stoneplate, Thornmail, Warmog's Armor

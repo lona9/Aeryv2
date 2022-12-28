@@ -1,6 +1,6 @@
 **Trundle Top** *(Normal)*
 **Position:** Jungler, Top
-**Winrate:** 50.5%
+**Winrate:** 47.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
-**Core Build:** Vampiric Scepter > Blade of The Ruined King > Divine Sunderer > Hullbreaker
-**End Build:** Death's Dance, Thornmail, Spirit Visage
+**Core Build:** Vampiric Scepter > Blade of The Ruined King > Divine Sunderer > Ravenous Hydra
+**End Build:** Spirit Visage, Death's Dance, Thornmail

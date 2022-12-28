@@ -1,6 +1,6 @@
 **Singed ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 52.4%
+**Porcentaje de victorias:** 51.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Agrietador
+**Botas:** Jak'Sho, el Proteico
 **Objetos iniciales:** Centinela invisible, Sello oscuro, Poción reutilizable
 **Objetos principales:** Poción reutilizable > Vara explosiva > Cetro de cristal de Rylai > Abrazo demoníaco
-**Objetos finales:** Fuerza de la naturaleza, Coraza del muerto, Reloj de arena de Zhonya
+**Objetos finales:** Fuerza de la naturaleza, Coraza del muerto, Sombrero mortífero de Rabadon

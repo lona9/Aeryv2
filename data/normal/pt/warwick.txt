@@ -1,7 +1,7 @@
 **Warwick Build ** *(Normal)*
 **Rota:** Selva, Rota Topo
-**Porcentagem de vitorias:** 52.1%
-**Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Porcentagem de vitorias:** 52.4%
+**Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
 > :cd:<:precision12:804446921522675733>:cd::cd:
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Galvanizadas de Aço
-**Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Itens Core:** Tiamat > Ruptor Divino > Hidra Titânica > Armadura de Espinhos
-**Itens End:** Semblante Espiritual, Dança da Morte, Égide de Fogo Solar
+**Itens Iniciais:** Sentinela Invisível, Broto de Esmagamusgo, Poção de Vida
+**Itens Core:** Tiamat > Hidra Raivosa > Jak'Sho, o Inconstante > Espada do Rei Destruído
+**Itens End:** Semblante Espiritual, Armadura de Espinhos, Dança da Morte

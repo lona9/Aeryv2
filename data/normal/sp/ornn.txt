@@ -1,6 +1,6 @@
 **Ornn ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 49.9%
+**Porcentaje de victorias:** 51.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
-**Objetos principales:** Gemaluz > Corazón de acero > Égida de fuego solar > Cota de espinas
-**Objetos finales:** Armadura pétrea, Presagio de Randuin, Armadura de Warmog
+**Objetos principales:** Gemaluz > Jak'Sho, el Proteico > Égida de fuego solar > Cota de espinas
+**Objetos finales:** Armadura pétrea, Fuerza de la naturaleza, Presagio de Randuin

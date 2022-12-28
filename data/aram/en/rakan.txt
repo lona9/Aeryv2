@@ -1,5 +1,5 @@
 **Rakan** *(ARAM)*
-**Winrate:** 48.7%
+**Winrate:** 50.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:valor:804451124245561394> <:dom:804451124085522442>
 
@@ -16,5 +16,5 @@
 **Build**
 **Boots:** Mercury's Treads
 **Start Build:** Refillable Potion, Aegis of the Legion
-**Core Build:** Guardian's Horn > Shurelya's Battlesong > Winter's Approach > Force of Nature
-**End Build:** Thornmail, Warmog's Armor, Sunfire Aegis
+**Core Build:** Guardian's Horn > Radiant Virtue > Winter's Approach > Warmog's Armor
+**End Build:** Thornmail, Force of Nature, Sunfire Aegis

@@ -1,6 +1,6 @@
 **Irelia Mid** *(Normal)*
 **Posición:** Mid, Top
-**Porcentaje de victorias:** 50.7%
+**Porcentaje de victorias:** 50.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Jak'Sho, el Proteico
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Poción de vida > Cetro vampírico > Hoja del rey arruinado > Hidra voraz
+**Objetos principales:** Poción de vida > Cetro vampírico > Hoja del rey arruinado > Al filo de la Cordura
 **Objetos finales:** Ángel Guardián, Danza de la muerte, Corazón de hielo

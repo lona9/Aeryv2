@@ -1,6 +1,6 @@
 **Pantheon Mid** *(Normal)*
 **Position:** Support, Mid, Top
-**Winrate:** 53.3%
+**Winrate:** 52.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Boots:** Mercury's Treads
+**Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Corrupting Potion
 **Core Build:** Serrated Dirk > Eclipse > Black Cleaver > Death's Dance
-**End Build:** Serylda's Grudge, Guardian Angel, Maw of Malmortius
+**End Build:** Serylda's Grudge, Guardian Angel, Chempunk Chainsword

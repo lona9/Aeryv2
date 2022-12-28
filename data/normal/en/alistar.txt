@@ -1,6 +1,6 @@
 **Alistar ** *(Normal)*
 **Position:** Support
-**Winrate:** 48.7%
+**Winrate:** 49.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Boots:** Mobility Boots
-**Start Build:** Stealth Ward, Relic Shield
+**Start Build:** Stealth Ward
 **Core Build:** Kindlegem > Locket of the Iron Solari > Thornmail > Zeke's Convergence
-**End Build:** Health Potion, Knight's Vow, Sunfire Aegis
+**End Build:** Relic Shield, Health Potion, Knight's Vow

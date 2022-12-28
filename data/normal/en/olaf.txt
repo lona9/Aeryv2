@@ -1,6 +1,6 @@
 **Olaf ** *(Normal)*
 **Position:** Top
-**Winrate:** 50.9%
+**Winrate:** 51.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runes:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
-**Core Build:** Ironspike Whip > Stridebreaker > Death's Dance > Sterak's Gage
-**End Build:** Thornmail, Black Cleaver, Spirit Visage
+**Core Build:** Tiamat > Ravenous Hydra > Jak'Sho, The Protean > Death's Dance
+**End Build:** Thornmail, Spirit Visage, Sterak's Gage

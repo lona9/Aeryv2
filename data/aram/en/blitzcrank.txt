@@ -14,7 +14,7 @@
 >   <:5007:804451180164022312> <:5002:804451180104908870> <:5001:804451180112642088>
 
 **Build**
-**Boots:** Mercury's Treads
-**Start Build:** Lost Chapter
-**Core Build:** Guardian's Horn > Evenshroud > Winter's Approach > Warmog's Armor
+**Boots:** Winter's Approach
+**Start Build:** Refillable Potion, Kindlegem, Tear of the Goddess
+**Core Build:** Kindlegem > Tear of the Goddess > Guardian's Horn > Evenshroud
 **End Build:** Thornmail, Force of Nature, Frozen Heart

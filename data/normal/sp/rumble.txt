@@ -1,6 +1,6 @@
 **Rumble ** *(Normal)*
-**Posición:** Top, Mid
-**Porcentaje de victorias:** 48.5%
+**Posición:** Mid, Top
+**Porcentaje de victorias:** 48.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:valor:804451124245561394>
 

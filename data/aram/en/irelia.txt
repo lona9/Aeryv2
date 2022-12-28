@@ -1,5 +1,5 @@
 **Irelia** *(ARAM)*
-**Winrate:** 53.9%
+**Winrate:** 53.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Spirit Visage
-**Start Build:** Dagger, Vampiric Scepter, Refillable Potion
-**Core Build:** Blade of The Ruined King > Immortal Shieldbow > Death's Dance > Mercury's Treads
-**End Build:** Spirit Visage, Ravenous Hydra, Wit's End
+**Boots:** Death's Dance
+**Start Build:** Boots, Vampiric Scepter, Refillable Potion
+**Core Build:** Blade of The Ruined King > Jak'Sho, The Protean > Ravenous Hydra > Mercury's Treads
+**End Build:** Death's Dance, Spirit Visage, Wit's End

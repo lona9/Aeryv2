@@ -1,6 +1,6 @@
 **Nilah Build ** *(Normal)*
 **Rota:** Atirador
-**Porcentagem de vitorias:** 53.6%
+**Porcentagem de vitorias:** 52.7%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Itens Core:** Aljava Vespertina > Arco-escudo Imortal > Dançarina Fantasma > Gume do Infinito
-**Itens End:** Lembranças do Lorde Dominik, Sedenta por Sangue, Anjo Guardião
+**Itens Core:** Tiamat > Hidra Raivosa > Arco-escudo Imortal > Dançarina Fantasma
+**Itens End:** Lembranças do Lorde Dominik, Gume do Infinito, Sedenta por Sangue

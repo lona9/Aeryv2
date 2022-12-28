@@ -1,6 +1,6 @@
 **Diana Build Selva** *(Normal)*
 **Rota:** Selva, Rota do Meio
-**Porcentagem de vitorias:** 49.8%
+**Porcentagem de vitorias:** 50.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Sentinela Invisível, Filhote de Garrabrasa, Poção de Vida
-**Itens Core:** Arco Recurvo > Dente de Na'Shor > Explocinturão Hextec > Ampulheta de Zhonya
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Chama Sombria
+**Itens Iniciais:** Sentinela Invisível, Broto de Esmagamusgo, Poção de Vida
+**Itens Core:** Arco Recurvo > Dente de Na'Shor > Jak'Sho, o Inconstante > Abraço Demoníaco
+**Itens End:** Capuz da Morte de Rabadon, Ampulheta de Zhonya, Cajado do Vazio

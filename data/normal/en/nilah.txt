@@ -1,6 +1,6 @@
 **Nilah ** *(Normal)*
 **Position:** AD Carry
-**Winrate:** 53.6%
+**Winrate:** 52.7%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Berserker's Greaves
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
-**Core Build:** Noonquiver > Immortal Shieldbow > Phantom Dancer > Infinity Edge
-**End Build:** Lord Dominik's Regards, Bloodthirster, Guardian Angel
+**Core Build:** Tiamat > Ravenous Hydra > Immortal Shieldbow > Phantom Dancer
+**End Build:** Lord Dominik's Regards, Infinity Edge, Bloodthirster

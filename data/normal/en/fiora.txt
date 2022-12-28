@@ -1,6 +1,6 @@
 **Fiora ** *(Normal)*
 **Position:** Top
-**Winrate:** 52.1%
+**Winrate:** 51.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:valor:804451124245561394> <:bruj:804451124236648478>
 

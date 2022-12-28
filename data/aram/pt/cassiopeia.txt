@@ -1,5 +1,5 @@
 **Cassiopeia** *(ARAM)*
-**Porcentagem de vitorias:** 50.5%
+**Porcentagem de vitorias:** 50.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** -
-**Itens Iniciais:** Cristal de Safira, Tomo Amplificador, Poção com Refil, Lágrima da Deusa
-**Itens Core:** Poção com Refil > Lágrima da Deusa > Capítulo Perdido > Angústia de Liandry
+**Itens Iniciais:** Capítulo Perdido
+**Itens Core:** Angústia de Liandry > Cajado do Arcanjo > Cetro de Cristal de Rylai > Cajado do Vazio
 **Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon

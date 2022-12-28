@@ -17,4 +17,4 @@
 **Boots:** Berserker's Greaves
 **Start Build:** Noonquiver
 **Core Build:** Noonquiver > Immortal Shieldbow > Infinity Edge > Death's Dance
-**End Build:** Bloodthirster, Spirit Visage, Mortal Reminder
+**End Build:** Bloodthirster, Spirit Visage, Blade of The Ruined King

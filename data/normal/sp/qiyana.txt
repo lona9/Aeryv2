@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, Espada larga, Poción reutilizable
+**Objetos iniciales:** Centinela invisible, Espada larga, Poción de vida
 **Objetos principales:** Puñal serrado > Garra de merodeador > Filo fantasmal de Youmuu > Rencor de Serylda
 **Objetos finales:** Cuchilla oscura, Danza de la muerte, Ángel Guardián

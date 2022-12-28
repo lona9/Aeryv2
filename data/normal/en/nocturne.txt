@@ -1,6 +1,6 @@
 **Nocturne ** *(Normal)*
 **Position:** Jungler
-**Winrate:** 52.5%
+**Winrate:** 51.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -18,4 +18,4 @@
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Scorchclaw Pup, Health Potion
 **Core Build:** Tiamat > Ravenous Hydra > Stridebreaker > Death's Dance
-**End Build:** Guardian Angel, Serylda's Grudge, Black Cleaver
+**End Build:** Guardian Angel, Serylda's Grudge, Maw of Malmortius

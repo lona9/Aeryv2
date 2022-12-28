@@ -1,5 +1,5 @@
 **Akshan** *(ARAM)*
-**Winrate:** 49.5%
+**Winrate:** 51.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Boots:** Berserker's Greaves
 **Start Build:** Noonquiver
 **Core Build:** Noonquiver > Kraken Slayer > The Collector > Infinity Edge
-**End Build:** Lord Dominik's Regards, Bloodthirster, Wit's End
+**End Build:** Lord Dominik's Regards, Bloodthirster, Blade of The Ruined King

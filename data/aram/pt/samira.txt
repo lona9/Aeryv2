@@ -1,5 +1,5 @@
 **Samira** *(ARAM)*
-**Porcentagem de vitorias:** 49.2%
+**Porcentagem de vitorias:** 48.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Aljava Vespertina
-**Itens Core:** Aljava Vespertina > Arco-escudo Imortal > A Coletora > Sedenta por Sangue
-**Itens End:** Lembranças do Lorde Dominik, Gume do Infinito, Dança da Morte
+**Itens Core:** Aljava Vespertina > Arco-escudo Imortal > A Coletora > Gume do Infinito
+**Itens End:** Lembranças do Lorde Dominik, Sedenta por Sangue, Dança da Morte

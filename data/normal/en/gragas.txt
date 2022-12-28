@@ -1,6 +1,6 @@
 **Gragas ** *(Normal)*
 **Position:** Top, Jungler
-**Winrate:** 47.5%
+**Winrate:** 49.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Ionian Boots of Lucidity
+**Boots:** Sorcerer's Shoes
 **Start Build:** Stealth Ward, Doran's Ring, Health Potion
-**Core Build:** Hextech Alternator > Night Harvester > Shadowflame > Zhonya's Hourglass
-**End Build:** Void Staff, Rabadon's Deathcap, Morellonomicon
+**Core Build:** Lost Chapter > Everfrost > Cosmic Drive > Zhonya's Hourglass
+**End Build:** Void Staff, Rabadon's Deathcap, Shadowflame

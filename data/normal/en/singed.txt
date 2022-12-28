@@ -1,6 +1,6 @@
 **Singed ** *(Normal)*
 **Position:** Top
-**Winrate:** 52.4%
+**Winrate:** 51.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runes:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Riftmaker
+**Boots:** Jak'Sho, The Protean
 **Start Build:** Stealth Ward, Dark Seal, Refillable Potion
 **Core Build:** Refillable Potion > Blasting Wand > Rylai's Crystal Scepter > Demonic Embrace
-**End Build:** Force of Nature, Dead Man's Plate, Zhonya's Hourglass
+**End Build:** Force of Nature, Dead Man's Plate, Rabadon's Deathcap

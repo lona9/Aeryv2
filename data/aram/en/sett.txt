@@ -1,5 +1,5 @@
 **Sett** *(ARAM)*
-**Winrate:** 56.5%
+**Winrate:** 51.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -16,5 +16,5 @@
 **Build**
 **Boots:** Sterak's Gage
 **Start Build:** Ruby Crystal, Refillable Potion, Crystalline Bracer
-**Core Build:** Crystalline Bracer > Kindlegem > Heartsteel > Titanic Hydra
-**End Build:** Warmog's Armor, Thornmail, Spirit Visage
+**Core Build:** Crystalline Bracer > Guardian's Horn > Heartsteel > Titanic Hydra
+**End Build:** Thornmail, Warmog's Armor, Force of Nature

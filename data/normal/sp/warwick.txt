@@ -1,7 +1,7 @@
 **Warwick ** *(Normal)*
 **Posición:** Jungler, Top
-**Porcentaje de victorias:** 52.1%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Porcentaje de victorias:** 52.4%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
 > :cd:<:precision12:804446921522675733>:cd::cd:
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Tiamat > Cercenador divino > Hidra titánica > Cota de espinas
-**Objetos finales:** Apariencia espiritual, Danza de la muerte, Égida de fuego solar
+**Objetos iniciales:** Centinela invisible, Brote de Brincamontes, Poción de vida
+**Objetos principales:** Tiamat > Hidra voraz > Jak'Sho, el Proteico > Hoja del rey arruinado
+**Objetos finales:** Apariencia espiritual, Cota de espinas, Danza de la muerte

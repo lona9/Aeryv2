@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Galvanizadas de Aço
-**Itens Iniciais:** Sentinela Invisível, Filhote de Garrabrasa, Poção de Vida
+**Itens Iniciais:** Lente do Oráculo, Broto de Esmagamusgo, Poção de Vida
 **Itens Core:** Punhal Serrilhado > Garra do Espreitador > Limiar da Noite > Dança da Morte
-**Itens End:** Anjo Guardião, Cutelo Negro, Mandíbula de Malmortius
+**Itens End:** Anjo Guardião, Mandíbula de Malmortius, Cutelo Negro

@@ -16,6 +16,6 @@
 
 **Build**
 **Boots:** Ionian Boots of Lucidity
-**Start Build:** Stealth Ward, Long Sword, Refillable Potion
+**Start Build:** Stealth Ward, Long Sword, Health Potion
 **Core Build:** Serrated Dirk > Prowler's Claw > Youmuu's Ghostblade > Serylda's Grudge
 **End Build:** Black Cleaver, Death's Dance, Guardian Angel

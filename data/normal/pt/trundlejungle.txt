@@ -1,6 +1,6 @@
 **Trundle Build Selva** *(Normal)*
 **Rota:** Selva, Rota Topo
-**Porcentagem de vitorias:** 52.8%
+**Porcentagem de vitorias:** 48.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Galvanizadas de Aço
-**Itens Iniciais:** Sentinela Invisível, Filhote de Garrabrasa, Poção de Vida
+**Itens Iniciais:** Sentinela Invisível, Broto de Esmagamusgo, Poção de Vida
 **Itens Core:** Tiamat > Ruptor Divino > Hidra Titânica > Armadura de Espinhos
-**Itens End:** Dança da Morte, Coração Congelado, Semblante Espiritual
+**Itens End:** Semblante Espiritual, Dança da Morte, Coração Congelado

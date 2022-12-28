@@ -1,5 +1,5 @@
 **Singed ** *(ARAM)*
-**Porcentaje de victorias:** 51.7%
+**Porcentaje de victorias:** 52.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Umbral del invierno
+**Botas:** Abrazo demoníaco
 **Objetos iniciales:** Cuerno del guardián, Lágrima de la diosa
-**Objetos principales:** Lágrima de la diosa > Cuerno del guardián > Angustia de Liandry > Cetro de cristal de Rylai
-**Objetos finales:** Fuerza de la naturaleza, Abrazo demoníaco, Coraza del muerto
+**Objetos principales:** Lágrima de la diosa > Catalizador de eones > Vara de las edades > Cetro de cristal de Rylai
+**Objetos finales:** Fuerza de la naturaleza, Coraza del muerto, Armadura de Warmog

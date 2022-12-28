@@ -1,5 +1,5 @@
 **Kog'Maw** *(ARAM)*
-**Winrate:** 52.2%
+**Winrate:** 51.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Boots:** Berserker's Greaves
 **Start Build:** Noonquiver
 **Core Build:** Rageknife > Guinsoo's Rageblade > Runaan's Hurricane > Titanic Hydra
-**End Build:** Blade of The Ruined King, Wit's End, Lord Dominik's Regards
+**End Build:** Blade of The Ruined King, Wit's End, Rabadon's Deathcap

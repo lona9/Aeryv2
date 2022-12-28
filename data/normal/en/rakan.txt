@@ -1,6 +1,6 @@
 **Rakan ** *(Normal)*
 **Position:** Support
-**Winrate:** 50.5%
+**Winrate:** 51.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:valor:804451124245561394> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Ionian Boots of Lucidity
 **Start Build:** Stealth Ward
-**Core Build:** Bandleglass Mirror > Shurelya's Battlesong > Chemtech Putrifier > Zeke's Convergence
+**Core Build:** Kindlegem > Shurelya's Battlesong > Chemtech Putrifier > Zeke's Convergence
 **End Build:** Relic Shield, Health Potion, Redemption

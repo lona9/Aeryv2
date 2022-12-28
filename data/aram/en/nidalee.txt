@@ -1,5 +1,5 @@
 **Nidalee** *(ARAM)*
-**Winrate:** 47.2%
+**Winrate:** 48.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Boots:** Sorcerer's Shoes
 **Start Build:** Lost Chapter
 **Core Build:** Lost Chapter > Luden's Tempest > Horizon Focus > Shadowflame
-**End Build:** Void Staff, Rabadon's Deathcap, Morellonomicon
+**End Build:** Void Staff, Rabadon's Deathcap, Zhonya's Hourglass

@@ -1,6 +1,6 @@
 **Mordekaiser ** *(Normal)*
 **Position:** Top, Jungler
-**Winrate:** 53.3%
+**Winrate:** 52.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -10,7 +10,7 @@
 >   :cd::cd:<:precision43:804446921941975080>
 
 >   :cd::cd::cd:
->   <:valor31:804449943666425907>:cd::cd:
+>   :cd::cd:<:valor33:804449943603118131>
 >   :cd:<:valor42:804449943615438919>:cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
@@ -18,4 +18,4 @@
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Doran's Shield, Health Potion
 **Core Build:** Blasting Wand > Rylai's Crystal Scepter > Jak'Sho, The Protean > Demonic Embrace
-**End Build:** Thornmail, Spirit Visage, Zhonya's Hourglass
+**End Build:** Spirit Visage, Thornmail, Zhonya's Hourglass

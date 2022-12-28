@@ -1,6 +1,6 @@
 **Sett Support** *(Normal)*
 **Position:** Top
-**Winrate:** 45.5%
+**Winrate:** 45.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:insp:804451124207681577> <:bruj:804451124236648478>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Boots of Swiftness
 **Start Build:** Stealth Ward, Steel Shoulderguards, Health Potion
-**Core Build:** Kindlegem > Heartsteel > Sunfire Aegis > Thornmail
-**End Build:** Dead Man's Plate, Turbo Chemtank, Titanic Hydra
+**Core Build:** Crystalline Bracer > Heartsteel > Titanic Hydra > Sterak's Gage
+**End Build:** Dead Man's Plate, Thornmail, Turbo Chemtank

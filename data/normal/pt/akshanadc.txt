@@ -1,6 +1,6 @@
 **Akshan Build Atirador** *(Normal)*
 **Rota:** Rota do Meio, Rota Topo
-**Porcentagem de vitorias:** 48.4%
+**Porcentagem de vitorias:** 47.2%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Itens Core:** Aljava Vespertina > Mata-Cráquens > Espada do Rei Destruído > Lembranças do Lorde Dominik
-**Itens End:** Anjo Guardião, Gume do Infinito, Lembrete Mortal
+**Itens Core:** Aljava Vespertina > Mata-Cráquens > A Coletora > Gume do Infinito
+**Itens End:** Lembranças do Lorde Dominik, Canhão Fumegante, Sedenta por Sangue

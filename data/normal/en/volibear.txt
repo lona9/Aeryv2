@@ -1,6 +1,6 @@
 **Volibear ** *(Normal)*
 **Position:** Top, Jungler
-**Winrate:** 49.8%
+**Winrate:** 48.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runes:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
@@ -18,4 +18,4 @@
 **Boots:** Plated Steelcaps
 **Start Build:** Stealth Ward, Doran's Ring, Health Potion
 **Core Build:** Sheen > Iceborn Gauntlet > Turbo Chemtank > Thornmail
-**End Build:** Force of Nature, Randuin's Omen, Spirit Visage
+**End Build:** Force of Nature, Spirit Visage, Randuin's Omen

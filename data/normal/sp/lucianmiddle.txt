@@ -1,6 +1,6 @@
 **Lucian Mid** *(Normal)*
 **Posición:** AD Carry
-**Porcentaje de victorias:** 44.5%
+**Porcentaje de victorias:** 47.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Carcaj de mediodía > Fuerza del Viento > El Coleccionista > Rencor de Serylda
-**Objetos finales:** Filo del infinito, Cañón de fuego rápido, Ángel Guardián
+**Objetos principales:** Carcaj de mediodía > Fuerza del Viento > Saqueador de esencias > Filoveloz de Navori
+**Objetos finales:** Ángel Guardián, Cañón de fuego rápido, Filo del infinito

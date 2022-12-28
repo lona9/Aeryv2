@@ -1,6 +1,6 @@
 **Viego Mid** *(Normal)*
 **Posición:** Jungler
-**Porcentaje de victorias:** 51.1%
+**Porcentaje de victorias:** 51.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
-**Objetos principales:** Cetro vampírico > Hoja del rey arruinado > Cercenador divino > Danza de la muerte
-**Objetos finales:** Ángel Guardián, Hidra voraz, Al filo de la Cordura
+**Objetos principales:** Cetro vampírico > Hoja del rey arruinado > Matakrakens > Danza de la muerte
+**Objetos finales:** Ángel Guardián, Fauces de Malmortius, Recuerdos de lord Dominik

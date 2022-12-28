@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Látigo férreo
-**Objetos principales:** Látigo férreo > Bebedor de sangre > Danza de la muerte > Cuchilla oscura
-**Objetos finales:** Fauces de Malmortius, Apariencia espiritual, Hidra voraz
+**Objetos principales:** Látigo férreo > Bebedor de sangre > Hidra voraz > Danza de la muerte
+**Objetos finales:** Cuchilla oscura, Lanza de Shojin, Fauces de Malmortius

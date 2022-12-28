@@ -1,6 +1,6 @@
 **Sylas Top** *(Normal)*
-**Posición:** Mid, Jungler
-**Porcentaje de victorias:** 48.7%
+**Posición:** Jungler, Mid
+**Porcentaje de victorias:** 47.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
 **Objetos principales:** Capítulo perdido > Escarcha eterna > Llamasombría > Reloj de arena de Zhonya
-**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Impulso cósmico

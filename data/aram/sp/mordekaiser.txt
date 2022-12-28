@@ -1,5 +1,5 @@
 **Mordekaiser ** *(ARAM)*
-**Porcentaje de victorias:** 53.4%
+**Porcentaje de victorias:** 54.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas de mercurio
-**Objetos iniciales:** Mirada absorbente
-**Objetos principales:** Mirada absorbente > Agrietador > Cetro de cristal de Rylai > Abrazo demoníaco
-**Objetos finales:** Cota de espinas, Apariencia espiritual, Fuerza de la naturaleza
+**Botas:** Abrazo demoníaco
+**Objetos iniciales:** Poción reutilizable, Protección de la legión
+**Objetos principales:** Protección de la legión > Mirada absorbente > Agrietador > Cetro de cristal de Rylai
+**Objetos finales:** Cota de espinas, Apariencia espiritual, Égida de fuego solar

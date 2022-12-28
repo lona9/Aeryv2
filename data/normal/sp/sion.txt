@@ -1,6 +1,6 @@
 **Sion ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 46.0%
+**Porcentaje de victorias:** 47.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Hidra titánica
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
-**Objetos principales:** Poción de vida > Gemaluz > Corazón de acero > Égida de fuego solar
-**Objetos finales:** Cota de espinas, Armadura pétrea, Filo del infinito
+**Objetos principales:** Poción de vida > Brazal cristalino > Corazón de acero > Égida de fuego solar
+**Objetos finales:** Armadura pétrea, Cota de espinas, Filo del infinito

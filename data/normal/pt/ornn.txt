@@ -1,6 +1,6 @@
 **Ornn Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 49.9%
+**Porcentagem de vitorias:** 51.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Escudo de Doran, Poção de Vida
-**Itens Core:** Gema Ardente > Coração de Aço > Égide de Fogo Solar > Armadura de Espinhos
-**Itens End:** Placa Gargolítica, Presságio de Randuin, Armadura de Warmog
+**Itens Core:** Gema Ardente > Jak'Sho, o Inconstante > Égide de Fogo Solar > Armadura de Espinhos
+**Itens End:** Placa Gargolítica, Força da Natureza, Presságio de Randuin

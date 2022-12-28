@@ -1,5 +1,5 @@
 **Singed** *(ARAM)*
-**Winrate:** 51.7%
+**Winrate:** 52.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Boots:** Winter's Approach
+**Boots:** Demonic Embrace
 **Start Build:** Guardian's Horn, Tear of the Goddess
-**Core Build:** Tear of the Goddess > Guardian's Horn > Liandry's Anguish > Rylai's Crystal Scepter
-**End Build:** Force of Nature, Demonic Embrace, Dead Man's Plate
+**Core Build:** Tear of the Goddess > Catalyst of Aeons > Rod of Ages > Rylai's Crystal Scepter
+**End Build:** Force of Nature, Dead Man's Plate, Warmog's Armor

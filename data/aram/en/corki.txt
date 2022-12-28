@@ -1,5 +1,5 @@
 **Corki** *(ARAM)*
-**Winrate:** 47.2%
+**Winrate:** 44.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -16,5 +16,5 @@
 **Build**
 **Boots:** Ravenous Hydra
 **Start Build:** Refillable Potion, Tear of the Goddess, Long Sword
-**Core Build:** Long Sword > Caulfield's Warhammer > Manamune > Luden's Tempest
+**Core Build:** Long Sword > Blasting Wand > Luden's Tempest > Manamune
 **End Build:** Void Staff, Shadowflame, Rabadon's Deathcap

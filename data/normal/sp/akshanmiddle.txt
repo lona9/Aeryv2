@@ -1,6 +1,6 @@
 **Akshan Mid** *(Normal)*
 **Posición:** Mid, Top
-**Porcentaje de victorias:** 51.8%
+**Porcentaje de victorias:** 52.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Carcaj de mediodía > Matakrakens > Hoja del rey arruinado > Recuerdos de lord Dominik
-**Objetos finales:** Ángel Guardián, Cañón de fuego rápido, Filo del infinito
+**Objetos principales:** Carcaj de mediodía > Matakrakens > Hoja del rey arruinado > Hoja de furia de Guinsoo
+**Objetos finales:** Recuerdos de lord Dominik, Ángel Guardián, Cañón de fuego rápido

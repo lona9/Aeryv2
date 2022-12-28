@@ -1,6 +1,6 @@
 **Galio Build Suporte** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 46.7%
+**Porcentagem de vitorias:** 47.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:bruj:804451124236648478>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Galvanizadas de Aço
-**Itens Iniciais:** Sentinela Invisível
-**Itens Core:** Capítulo Perdido > Glacieterno > Ampulheta de Zhonya > Morellonomicon
-**Itens End:** Escudo Relicário, Poção de Vida, Armadura de Espinhos
+**Itens Iniciais:** Sentinela Invisível, Escudo Relicário
+**Itens Core:** Gema Ardente > Proteção Imutável > Morellonomicon > Abraço Demoníaco
+**Itens End:** Poção de Vida, Armadura de Espinhos, Ampulheta de Zhonya

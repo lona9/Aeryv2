@@ -1,21 +1,21 @@
 **Maokai ** *(Normal)*
-**Position:** Support, Top
-**Winrate:** 50.8%
+**Position:** Jungler, Support
+**Winrate:** 52.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
-**Runes:** <:valor:804451124245561394> <:insp:804451124207681577>
+**Runes:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
->   :cd:<:valor12:804449943775084614>:cd:
->   :cd:<:valor22:804449944018223104>:cd:
->   :cd::cd:<:valor33:804449943603118131>
->   :cd::cd:<:valor43:804449944001708043>
+>   :cd::cd:<:bruj13:804448796787474433>
+>   :cd::cd:<:bruj23:804448797425532928>
+>   <:bruj31:804448797395910716>:cd::cd:
+>   :cd:<:bruj42:804448797572595813>:cd:
 
+>   <:dom21:804457127800078397>:cd::cd:
 >   :cd::cd::cd:
->   :cd::cd:<:insp33:804450564049731594>
->   <:insp41:804450563507879947>:cd::cd:
->   <:5008:804451180172279808> <:5002:804451180104908870> <:5002:804451180104908870>
+> <:dom41:963152951478747156>:cd::cd::cd:
+>   <:5007:804451180164022312> <:5008:804451180172279808> <:5001:804451180112642088>
 
 **Build**
-**Boots:** Plated Steelcaps
-**Start Build:** Stealth Ward, Relic Shield, Health Potion
-**Core Build:** Winged Moonplate > Dead Man's Plate > Evenshroud > Thornmail
-**End Build:** Frozen Heart, Sunfire Aegis, Demonic Embrace
+**Boots:** Ionian Boots of Lucidity
+**Start Build:** Stealth Ward, Mosstomper Seedling, Health Potion
+**Core Build:** Blasting Wand > Demonic Embrace > Liandry's Anguish > Shadowflame
+**End Build:** Void Staff, Zhonya's Hourglass, Thornmail

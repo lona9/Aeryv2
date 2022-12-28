@@ -1,6 +1,6 @@
 **Kayn Build ** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 47.9%
+**Porcentagem de vitorias:** 48.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Sentinela Invisível, Filhote de Garrabrasa, Poção de Vida
+**Itens Iniciais:** Sentinela Invisível, Broto de Esmagamusgo, Poção de Vida
 **Itens Core:** Chicote Ferrifarpo > Hemodrenário > Cutelo Negro > Dança da Morte
-**Itens End:** Rancor de Serylda, Anjo Guardião, Semblante Espiritual
+**Itens End:** Rancor de Serylda, Anjo Guardião, Limiar da Noite

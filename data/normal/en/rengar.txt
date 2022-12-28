@@ -1,6 +1,6 @@
 **Rengar ** *(Normal)*
 **Position:** Jungler, Top
-**Winrate:** 49.7%
+**Winrate:** 48.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runes:** <:dom:804451124085522442> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Ionian Boots of Lucidity
 **Start Build:** Stealth Ward, Gustwalker Hatchling, Health Potion
-**Core Build:** Tiamat > Duskblade of Draktharr > Ravenous Hydra > Essence Reaver
-**End Build:** Infinity Edge, Lord Dominik's Regards, Guardian Angel
+**Core Build:** Serrated Dirk > Duskblade of Draktharr > Essence Reaver > Lord Dominik's Regards
+**End Build:** Infinity Edge, Death's Dance, Guardian Angel

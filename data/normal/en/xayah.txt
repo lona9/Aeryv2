@@ -1,6 +1,6 @@
 **Xayah ** *(Normal)*
 **Position:** AD Carry
-**Winrate:** 49.6%
+**Winrate:** 48.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runes:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Berserker's Greaves
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
-**Core Build:** Noonquiver > Galeforce > Phantom Dancer > Infinity Edge
-**End Build:** Bloodthirster, Guardian Angel, Lord Dominik's Regards
+**Core Build:** Noonquiver > Galeforce > Phantom Dancer > Navori Quickblades
+**End Build:** Guardian Angel, Bloodthirster, Lord Dominik's Regards

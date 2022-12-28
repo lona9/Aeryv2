@@ -1,13 +1,13 @@
 **Ryze Top** *(Normal)*
 **Position:** Mid
-**Winrate:** 46.5%
+**Winrate:** 45.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
 >   :cd::cd:<:bruj13:804448796787474433>
 >   :cd:<:bruj22:804448796553117707>:cd:
 >   <:bruj31:804448797395910716>:cd::cd:
->   :cd::cd:<:bruj43:804448797631316069>
+>   <:bruj41:804448797597499402>:cd::cd:
 
 >   :cd::cd::cd:
 >   :cd::cd:<:insp33:804450564049731594>
@@ -18,4 +18,4 @@
 **Boots:** Sorcerer's Shoes
 **Start Build:** Stealth Ward, Tear of the Goddess, Health Potion
 **Core Build:** Catalyst of Aeons > Rod of Ages > Archangel's Staff > Zhonya's Hourglass
-**End Build:** Rabadon's Deathcap, Void Staff, Morellonomicon
+**End Build:** Rabadon's Deathcap, Void Staff, Shadowflame

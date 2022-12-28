@@ -1,6 +1,6 @@
 **Dr. Mundo ** *(Normal)*
-**Posición:** Top, Jungler
-**Porcentaje de victorias:** 50.9%
+**Posición:** Top
+**Porcentaje de victorias:** 53.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
-**Objetos principales:** Gemaluz > Corazón de acero > Égida de fuego solar > Apariencia espiritual
-**Objetos finales:** Armadura pétrea, Presagio de Randuin, Cota de espinas
+**Objetos principales:** Brazal cristalino > Corazón de acero > Égida de fuego solar > Apariencia espiritual
+**Objetos finales:** Armadura pétrea, Cota de espinas, Presagio de Randuin

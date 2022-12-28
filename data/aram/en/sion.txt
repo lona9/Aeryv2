@@ -1,5 +1,5 @@
 **Sion** *(ARAM)*
-**Winrate:** 55.6%
+**Winrate:** 53.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -16,5 +16,5 @@
 **Build**
 **Boots:** Mercury's Treads
 **Start Build:** Giant's Belt, Ruby Crystal
-**Core Build:** Kindlegem > Heartsteel > Sunfire Aegis > Warmog's Armor
-**End Build:** Titanic Hydra, Thornmail, Force of Nature
+**Core Build:** Giant's Belt > Heartsteel > Sunfire Aegis > Warmog's Armor
+**End Build:** Gargoyle Stoneplate, Thornmail, Titanic Hydra

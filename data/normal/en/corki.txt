@@ -1,6 +1,6 @@
 **Corki ** *(Normal)*
 **Position:** Mid
-**Winrate:** 47.4%
+**Winrate:** 47.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:insp:804451124207681577> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Sorcerer's Shoes
 **Start Build:** Stealth Ward, Tear of the Goddess, Health Potion
-**Core Build:** Caulfield's Warhammer > Manamune > Luden's Tempest > Ravenous Hydra
-**End Build:** Void Staff, Shadowflame, Maw of Malmortius
+**Core Build:** Tiamat > Ravenous Hydra > Manamune > Luden's Tempest
+**End Build:** Void Staff, Shadowflame, Rabadon's Deathcap

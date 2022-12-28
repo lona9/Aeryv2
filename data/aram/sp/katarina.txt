@@ -1,5 +1,5 @@
 **Katarina ** *(ARAM)*
-**Porcentaje de victorias:** 52.9%
+**Porcentaje de victorias:** 52.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Danza de la muerte
-**Objetos iniciales:** Cinturón de gigante, Cristal de rubí
-**Objetos principales:** Cristal de rubí > Brillo > Cercenador divino > Hidra titánica
-**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Reloj de arena de Zhonya
+**Botas:** Hidra titánica
+**Objetos iniciales:** Cristal de rubí, Poción reutilizable, Brazal cristalino
+**Objetos principales:** Poción reutilizable > Brazal cristalino > Brazal cristalino > Corazón de acero
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Llamasombría

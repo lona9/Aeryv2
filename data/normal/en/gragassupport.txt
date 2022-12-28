@@ -1,6 +1,6 @@
 **Gragas Support** *(Normal)*
 **Position:** Top, Jungler
-**Winrate:** 48.4%
+**Winrate:** 46.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Boots:** Ionian Boots of Lucidity
-**Start Build:** Stealth Ward, Spellthief's Edge, Health Potion
-**Core Build:** Lost Chapter > Everfrost > Zhonya's Hourglass > Morellonomicon
-**End Build:** Cosmic Drive, Void Staff, Shadowflame
+**Start Build:** 
+**Core Build:** Lost Chapter > Everfrost > Zhonya's Hourglass > Cosmic Drive
+**End Build:** Stealth Ward, Spellthief's Edge, Health Potion

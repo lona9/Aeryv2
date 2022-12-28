@@ -1,5 +1,5 @@
 **Wukong** *(ARAM)*
-**Winrate:** 52.8%
+**Winrate:** 52.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,5 +16,5 @@
 **Build**
 **Boots:** Mercury's Treads
 **Start Build:** Refillable Potion, Tiamat
-**Core Build:** Sheen > Divine Sunderer > Death's Dance > Maw of Malmortius
-**End Build:** Black Cleaver, Spirit Visage, Ravenous Hydra
+**Core Build:** Sheen > Divine Sunderer > Ravenous Hydra > Death's Dance
+**End Build:** Black Cleaver, Spirit Visage, Maw of Malmortius

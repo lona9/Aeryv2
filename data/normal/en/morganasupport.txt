@@ -1,6 +1,6 @@
 **Morgana Support** *(Normal)*
 **Position:** Support
-**Winrate:** 50.3%
+**Winrate:** 49.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
 

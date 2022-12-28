@@ -1,5 +1,5 @@
 **Samira** *(ARAM)*
-**Winrate:** 49.2%
+**Winrate:** 48.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,5 +16,5 @@
 **Build**
 **Boots:** Mercury's Treads
 **Start Build:** Noonquiver
-**Core Build:** Noonquiver > Immortal Shieldbow > The Collector > Bloodthirster
-**End Build:** Lord Dominik's Regards, Infinity Edge, Death's Dance
+**Core Build:** Noonquiver > Immortal Shieldbow > The Collector > Infinity Edge
+**End Build:** Lord Dominik's Regards, Bloodthirster, Death's Dance

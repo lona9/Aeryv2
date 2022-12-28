@@ -1,5 +1,5 @@
 **Ryze** *(ARAM)*
-**Porcentagem de vitorias:** 51.1%
+**Porcentagem de vitorias:** 51.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Bastão das Eras
-**Itens Iniciais:** Cristal de Safira, Tomo Amplificador, Poção com Refil, Lágrima da Deusa
-**Itens Core:** Tomo Amplificador > Poção com Refil > Lágrima da Deusa > Catalisador das Eras
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Ampulheta de Zhonya
+**Botas:** Ímpeto Cósmico
+**Itens Iniciais:** Varinha Explosiva, Lágrima da Deusa
+**Itens Core:** Lágrima da Deusa > Catalisador das Eras > Bastão das Eras > Cajado do Arcanjo
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Coração Congelado

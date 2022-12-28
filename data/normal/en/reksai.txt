@@ -16,6 +16,6 @@
 
 **Build**
 **Boots:** Plated Steelcaps
-**Start Build:** Stealth Ward, Scorchclaw Pup, Health Potion
+**Start Build:** Oracle Lens, Mosstomper Seedling, Health Potion
 **Core Build:** Serrated Dirk > Prowler's Claw > Edge of Night > Death's Dance
-**End Build:** Guardian Angel, Black Cleaver, Maw of Malmortius
+**End Build:** Guardian Angel, Maw of Malmortius, Black Cleaver

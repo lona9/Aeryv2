@@ -1,6 +1,6 @@
 **Nunu e Willump Build ** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 49.3%
+**Porcentagem de vitorias:** 50.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas Galvanizadas de Aço
-**Itens Iniciais:** Sentinela Invisível, Cria de Andabrisas, Poção de Vida
-**Itens Core:** Égide da Legião > Jak'Sho, o Inconstante > Égide de Fogo Solar > Armadura de Espinhos
-**Itens End:** Força da Natureza, Placa Gargolítica, Ampulheta de Zhonya
+**Botas:** Sapatos do Feiticeiro
+**Itens Iniciais:** Sentinela Invisível, Broto de Esmagamusgo, Poção de Vida
+**Itens Core:** Brasa de Bami > Égide de Fogo Solar > Jak'Sho, o Inconstante > Armadura de Espinhos
+**Itens End:** Ampulheta de Zhonya, Cajado do Vazio, Capuz da Morte de Rabadon

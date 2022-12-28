@@ -1,6 +1,6 @@
 **Akshan AD Carry** *(Normal)*
 **Position:** Mid, Top
-**Winrate:** 48.4%
+**Winrate:** 47.2%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runes:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Berserker's Greaves
 **Start Build:** Stealth Ward, Doran's Blade, Health Potion
-**Core Build:** Noonquiver > Kraken Slayer > Blade of The Ruined King > Lord Dominik's Regards
-**End Build:** Guardian Angel, Infinity Edge, Mortal Reminder
+**Core Build:** Noonquiver > Kraken Slayer > The Collector > Infinity Edge
+**End Build:** Lord Dominik's Regards, Rapid Firecannon, Bloodthirster

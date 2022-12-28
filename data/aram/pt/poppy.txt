@@ -1,5 +1,5 @@
 **Poppy** *(ARAM)*
-**Porcentagem de vitorias:** 47.2%
+**Porcentagem de vitorias:** 48.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Aproximação Invernal
-**Itens Iniciais:** Cristal de Rubi, Poção com Refil, Braçadeira Cristalina
-**Itens Core:** Braçadeira Cristalina > Berrante do Guardião > Coração de Aço > Égide de Fogo Solar
-**Itens End:** Armadura de Warmog, Armadura de Espinhos, Força da Natureza
+**Botas:** Passos de Mercúrio
+**Itens Iniciais:** Poção com Refil, Égide da Legião
+**Itens Core:** Berrante do Guardião > Jak'Sho, o Inconstante > Aproximação Invernal > Égide de Fogo Solar
+**Itens End:** Armadura de Espinhos, Armadura de Warmog, Força da Natureza

@@ -1,6 +1,6 @@
 **Sion ** *(Normal)*
 **Position:** Top
-**Winrate:** 46.0%
+**Winrate:** 47.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Titanic Hydra
 **Start Build:** Stealth Ward, Doran's Shield, Health Potion
-**Core Build:** Health Potion > Kindlegem > Heartsteel > Sunfire Aegis
-**End Build:** Thornmail, Gargoyle Stoneplate, Infinity Edge
+**Core Build:** Health Potion > Crystalline Bracer > Heartsteel > Sunfire Aegis
+**End Build:** Gargoyle Stoneplate, Thornmail, Infinity Edge

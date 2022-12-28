@@ -1,6 +1,6 @@
 **Singed Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 52.4%
+**Porcentagem de vitorias:** 51.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Criafendas
+**Botas:** Jak'Sho, o Inconstante
 **Itens Iniciais:** Sentinela Invisível, Lacre Sombrio, Poção com Refil
 **Itens Core:** Poção com Refil > Varinha Explosiva > Cetro de Cristal de Rylai > Abraço Demoníaco
-**Itens End:** Força da Natureza, Couraça do Defunto, Ampulheta de Zhonya
+**Itens End:** Força da Natureza, Couraça do Defunto, Capuz da Morte de Rabadon

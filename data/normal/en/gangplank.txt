@@ -1,6 +1,6 @@
 **Gangplank ** *(Normal)*
 **Position:** Top
-**Winrate:** 51.0%
+**Winrate:** 50.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runes:** <:insp:804451124207681577> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Boots:** Ionian Boots of Lucidity
 **Start Build:** Stealth Ward, Corrupting Potion
-**Core Build:** Sheen > Essence Reaver > Prowler's Claw > The Collector
-**End Build:** Lord Dominik's Regards, Mortal Reminder, Ravenous Hydra
+**Core Build:** Sheen > Essence Reaver > Navori Quickblades > Prowler's Claw
+**End Build:** Lord Dominik's Regards, The Collector, Mortal Reminder

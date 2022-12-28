@@ -1,6 +1,6 @@
 **Aurelion Sol ** *(Normal)*
 **Position:** Mid
-**Winrate:** 48.6%
+**Winrate:** 48.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -18,4 +18,4 @@
 **Boots:** Sorcerer's Shoes
 **Start Build:** Stealth Ward, Corrupting Potion
 **Core Build:** Catalyst of Aeons > Rod of Ages > Rylai's Crystal Scepter > Zhonya's Hourglass
-**End Build:** Shadowflame, Void Staff, Rabadon's Deathcap
+**End Build:** Rabadon's Deathcap, Void Staff, Shadowflame

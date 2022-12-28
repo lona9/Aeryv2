@@ -1,6 +1,6 @@
 **Gangplank ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 51.0%
+**Porcentaje de victorias:** 50.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:insp:804451124207681577> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Brillo > Saqueador de esencias > Garra de merodeador > El Coleccionista
-**Objetos finales:** Recuerdos de lord Dominik, Recordatorio mortal, Hidra voraz
+**Objetos principales:** Brillo > Saqueador de esencias > Filoveloz de Navori > Garra de merodeador
+**Objetos finales:** Recuerdos de lord Dominik, El Coleccionista, Recordatorio mortal

@@ -1,5 +1,5 @@
 **Ryze ** *(ARAM)*
-**Porcentaje de victorias:** 51.1%
+**Porcentaje de victorias:** 51.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Vara de las edades
-**Objetos iniciales:** Cristal de zafiro, Tomo amplificador, Poción reutilizable, Lágrima de la diosa
-**Objetos principales:** Tomo amplificador > Poción reutilizable > Lágrima de la diosa > Catalizador de eones
-**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Reloj de arena de Zhonya
+**Botas:** Impulso cósmico
+**Objetos iniciales:** Vara explosiva, Lágrima de la diosa
+**Objetos principales:** Lágrima de la diosa > Catalizador de eones > Vara de las edades > Báculo del arcángel
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Corazón de hielo

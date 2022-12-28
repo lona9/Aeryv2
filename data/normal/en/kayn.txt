@@ -1,6 +1,6 @@
 **Kayn ** *(Normal)*
 **Position:** Jungler
-**Winrate:** 47.9%
+**Winrate:** 48.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runes:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Boots:** Ionian Boots of Lucidity
-**Start Build:** Stealth Ward, Scorchclaw Pup, Health Potion
+**Start Build:** Stealth Ward, Mosstomper Seedling, Health Potion
 **Core Build:** Ironspike Whip > Goredrinker > Black Cleaver > Death's Dance
-**End Build:** Serylda's Grudge, Guardian Angel, Spirit Visage
+**End Build:** Serylda's Grudge, Guardian Angel, Edge of Night

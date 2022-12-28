@@ -1,7 +1,7 @@
 **Tristana ** *(Normal)*
 **Position:** AD Carry
-**Winrate:** 50.9%
-**Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
+**Winrate:** 51.5%
+**Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runes:** <:dom:804451124085522442> <:pres:804451123825606657>
 
 > :cd::cd::cd:<:dom14:804447179938070569>

@@ -1,6 +1,6 @@
 **Lux Support** *(Normal)*
 **Position:** Support, Mid
-**Winrate:** 49.5%
+**Winrate:** 50.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runes:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Boots:** Sorcerer's Shoes
 **Start Build:** Stealth Ward, Spellthief's Edge, Health Potion
 **Core Build:** Lost Chapter > Luden's Tempest > Shadowflame > Zhonya's Hourglass
-**End Build:** Rabadon's Deathcap, Void Staff, Morellonomicon
+**End Build:** Void Staff, Rabadon's Deathcap, Morellonomicon

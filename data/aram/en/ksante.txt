@@ -1,5 +1,5 @@
 **K'Sante** *(ARAM)*
-**Winrate:** 48.3%
+**Winrate:** 52.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runes:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -16,5 +16,5 @@
 **Build**
 **Boots:** Mercury's Treads
 **Start Build:** Refillable Potion, Aegis of the Legion
-**Core Build:** Guardian's Horn > Heartsteel > Sunfire Aegis > Force of Nature
-**End Build:** Gargoyle Stoneplate, Warmog's Armor, Thornmail
+**Core Build:** Guardian's Horn > Jak'Sho, The Protean > Sunfire Aegis > Force of Nature
+**End Build:** Gargoyle Stoneplate, Thornmail, Warmog's Armor
